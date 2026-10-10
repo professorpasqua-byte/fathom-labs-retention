@@ -1,0 +1,42 @@
+{
+  "features": [
+    "moral_injury_index",
+    "escalation_confidence",
+    "pace_vs_safety_tension",
+    "org_justice_perception",
+    "manager_support",
+    "workload_hours_week",
+    "equity_vested_pct"
+  ],
+  "coefficients": {
+    "moral_injury_index": 0.47091743019706145,
+    "escalation_confidence": -0.6374910537286954,
+    "pace_vs_safety_tension": 0.11014173496328566,
+    "org_justice_perception": -0.10122501767821573,
+    "manager_support": -0.3156910969926082,
+    "workload_hours_week": 0.016786009235480293,
+    "equity_vested_pct": -0.03959243196984648
+  },
+  "intercept": -1.4189198610373221,
+  "feature_means": {
+    "moral_injury_index": 2.776470588235294,
+    "escalation_confidence": 3.0823529411764707,
+    "pace_vs_safety_tension": 3.388235294117647,
+    "org_justice_perception": 3.001176470588235,
+    "manager_support": 3.2529411764705882,
+    "workload_hours_week": 51.85764705882353,
+    "equity_vested_pct": 23.575529411764713
+  },
+  "feature_stds": {
+    "moral_injury_index": 1.0586618505166545,
+    "escalation_confidence": 1.1058444663010178,
+    "pace_vs_safety_tension": 0.962110431122094,
+    "org_justice_perception": 1.007041652517451,
+    "manager_support": 0.9891148718684116,
+    "workload_hours_week": 8.762927538830068,
+    "equity_vested_pct": 25.79637923049914
+  },
+  "train_accuracy": 0.7823529411764706,
+  "auc": 0.7173291856636272,
+  "base_attrition_rate": 0.22588235294117648
+}
