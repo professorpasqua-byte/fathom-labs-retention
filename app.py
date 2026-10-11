@@ -15,7 +15,6 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Fathom Labs Researcher Retention",
-    page_icon="🧭",
     layout="wide",
 )
 
