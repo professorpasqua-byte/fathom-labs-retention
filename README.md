@@ -2,7 +2,7 @@
 
 **Why do AI safety researchers leave, and is it the workload or something else?**
 
-[Live app](#) · [Nwafor Martins — Portfolio](https://martins-portfolio.net/)
+[Live dashboard](https://fathom-labs-retention-lbhqdkluiwzuuihijufbcv.streamlit.app/) · [Nwafor Martins — Portfolio](https://martins-portfolio.net/)
 
 ## Context
 
@@ -30,7 +30,7 @@ The working hypothesis: **escalation confidence and moral injury predict attriti
 
 **Analyze:** `analysis/clean.sql` deduplicates and imputes missing values at the role level. `analysis/model.py` fits a standardized logistic regression predicting `left_company`, so the result is a ranked, quantified answer rather than an opinion.
 
-**Share:** The Streamlit app below visualizes the ranked factors and lets you simulate organizational changes — improve escalation response, reduce moral injury, shorten the equity cliff — and watch modeled attrition move in response, scored by the same fitted model.
+**Share:** The [live dashboard](https://fathom-labs-retention-lbhqdkluiwzuuihijufbcv.streamlit.app/) visualizes the ranked factors and lets you simulate organizational changes — improve escalation response, reduce moral injury, shorten the equity cliff — and watch modeled attrition move in response, scored by the same fitted model.
 
 **Act:** See [Findings](#findings) below.
 
@@ -59,6 +59,8 @@ Grounded in the model, not asserted from opinion:
 3. **Don't rely on equity vesting as a retention strategy for this population.** The model shows it's a weak lever — someone who believes the work is causing harm is not meaningfully retained by sunk-cost economics, which matches real cases of researchers forfeiting unvested equity to leave anyway.
 
 ## Run it locally
+
+Prefer not to clone anything first? Try the [live dashboard](https://fathom-labs-retention-lbhqdkluiwzuuihijufbcv.streamlit.app/) directly.
 
 ```bash
 git clone https://github.com/professorpasqua-byte/fathom-labs-retention.git
