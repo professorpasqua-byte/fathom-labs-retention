@@ -1,877 +1,877 @@
 researcher_id,name,role,department,tenure_months,hire_date,moral_injury_index,escalation_confidence,pace_vs_safety_tension,org_justice_perception,manager_support,workload_hours_week,equity_vested_pct,left_company
-FL-10683,Elena Ferreira,Safety Evaluations,Research,7,2024-10-14,4,3,2,1.0,3.0,47.0,14.6,0
-FL-10713,Omar Ferreira,Applied Research,Research,8,2026-04-12,1,3,5,2.0,3.0,62.0,16.7,0
-FL-10729,Maria Garcia,POLICY & GOVERNANCE,Policy,8,2024-09-26,3,4,4,2.0,4.0,44.0,16.7,0
-FL-10301,Zoe Garcia,Policy & Governance,Policy,2,2023-12-25,1,2,3,3.0,3.0,55.0,0.0,0
-FL-10825,Sofia Chen,Infrastructure,Engineering,4,2023-06-12,3,4,5,1.0,3.0,63.0,0.0,0
-FL-10426,Mei Abara,Alignment Research,Research,1,2023-08-26,3,2,3,4.0,3.0,51.0,0.0,1
-FL-10051,Viktor Hansen,INTERPRETABILITY,Research,4,2023-03-26,2,3,3,2.0,3.0,45.0,0.0,0
-FL-10027,Elena Abara,Alignment Research,Research,9,2025-04-04,4,2,3,1.0,2.0,65.0,18.8,1
-FL-10333,Nadia Nakamura,Applied Research,Research,1,2024-06-26,2,1,3,4.0,3.0,51.0,0.0,0
-FL-10592,Mei Ferreira,Alignment Research,Research,12,2021-01-22,3,3,3,3.0,2.0,35.0,25.0,0
-FL-10606,Wei Weiss,Infrastructure,Engineering,1,2021-03-25,2,4,3,3.0,3.0,46.0,0.0,0
-FL-10782,Mia Costa,Interpretability,Research,18,2026-07-23,3,2,3,2.0,2.0,64.0,37.5,0
-FL-10346,Viktor Garcia,Infrastructure,Engineering,21,2026-01-04,1,5,5,3.0,3.0,56.0,43.8,0
-FL-10201,Amara Lund,Applied Research,Research,5,2026-03-24,2,3,4,1.0,2.0,56.0,0.0,0
-FL-10065,Aisha Weiss,Policy & Governance,Policy,1,2026-01-24,1,5,4,,,,0.0,0
-FL-10594,Sofia Mbeki,Policy & Governance,Policy,1,2022-09-05,3,5,3,3.0,3.0,55.0,0.0,0
-FL-10108,Sofia Costa,Alignment Research,Research,1,2022-06-21,3,3,3,3.0,4.0,46.0,0.0,0
-FL-10175,Liam Weiss,Safety Evaluations,Research,57,2024-10-04,5,4,5,2.0,3.0,52.0,100.0,0
-FL-10086,Tariq Lund,Safety Evaluations,Research,21,2022-02-06,4,1,4,4.0,3.0,61.0,43.8,0
-FL-10356,Viktor Abara,Policy & Governance,Policy,8,2022-02-13,2,3,4,3.0,3.0,41.0,16.7,0
-FL-10247,Amara Kowalski,Alignment Research,Research,25,2021-12-21,4,3,4,4.0,2.0,53.0,52.1,0
-FL-10579,Liam Johansson,Applied Research,Research,13,2022-10-19,2,4,3,5.0,4.0,51.0,27.1,0
-FL-10743,David Kowalski,Alignment Research,Research,11,2021-05-10,3,3,5,3.0,4.0,45.0,22.9,0
-FL-10813,Ava Abara,Policy & Governance,Policy,41,2025-01-21,2,3,3,3.0,1.0,53.0,85.4,0
-FL-10624,Fatima Rahman,Interpretability,Research,1,2025-11-25,3,3,4,2.0,5.0,43.0,0.0,0
-FL-10640,Ava Nakamura,APPLIED RESEARCH,Research,8,2021-05-08,3,4,5,3.0,3.0,53.0,16.7,1
-FL-10617,Liam Mbeki,Infrastructure,Engineering,58,2021-06-29,2,4,4,5.0,1.0,51.0,100.0,0
-FL-10395,Tariq Abara,Alignment Research,Research,3,2021-05-17,3,2,3,3.0,4.0,53.0,0.0,0
-FL-10121,Sofia Patel,Infrastructure,Engineering,11,2022-03-15,3,4,4,1.0,2.0,61.0,22.9,0
-FL-10534,Wei Johansson,Interpretability,Research,54,2025-04-24,5,4,3,3.0,3.0,47.0,100.0,0
-FL-10362,Viktor Novak,Policy & Governance,Policy,32,2025-04-06,1,3,3,3.0,4.0,55.0,66.7,0
-FL-10585,Ava Rahman,Infrastructure,Engineering,25,2023-08-24,1,2,2,2.0,3.0,44.0,52.1,0
-FL-10803,Maria Patel,POLICY & GOVERNANCE,Policy,25,2026-03-22,1,3,3,1.0,4.0,62.0,52.1,0
-FL-10827,Lucas Rahman,Applied Research,Research,1,2021-09-19,2,4,2,3.0,4.0,46.0,0.0,0
-FL-10048,Liam Lindqvist,Alignment Research,Research,1,2022-10-10,3,2,3,2.0,3.0,41.0,0.0,1
-FL-10371,Lucas Garcia,APPLIED RESEARCH,Research,2,2023-09-28,1,2,4,2.0,5.0,62.0,0.0,0
-FL-10769,David Patel,POLICY & GOVERNANCE,Policy,20,2023-09-08,4,4,3,,,,41.7,0
-FL-10195,Mei Johansson,Alignment Research,Research,10,2024-03-16,4,1,3,5.0,3.0,35.0,20.8,0
-FL-10612,David Okafor,Alignment Research,Research,9,2024-12-14,5,2,3,2.0,4.0,49.0,18.8,0
-FL-10757,Yuki Hansen,Interpretability,Research,10,2024-03-29,3,4,1,1.0,2.0,43.0,20.8,0
-FL-10446,Mei Weiss,Interpretability,Research,13,2023-06-27,1,4,4,2.0,2.0,43.0,27.1,0
-FL-10329,Kwame Silva,Alignment Research,Research,2,2022-06-21,1,5,3,2.0,3.0,41.0,0.0,0
-FL-10085,Viktor Johansson,Infrastructure,Engineering,5,2025-12-21,3,2,4,2.0,5.0,49.0,0.0,1
-FL-10349,Mei Novak,Policy & Governance,Policy,1,2023-02-12,3,5,4,4.0,4.0,51.0,0.0,0
-FL-10010,Nadia Lindqvist,Interpretability,Research,7,2024-10-25,3,3,3,3.0,2.0,48.0,14.6,0
-FL-10629,Tariq Johansson,POLICY & GOVERNANCE,Policy,27,2025-10-05,1,3,4,4.0,5.0,53.0,56.2,0
-FL-10124,Nadia Novak,Interpretability,Research,27,2023-04-14,1,5,2,1.0,4.0,73.0,56.2,0
-FL-10549,Liam Silva,INTERPRETABILITY,Research,9,2022-09-08,3,3,3,2.0,3.0,35.0,18.8,0
-FL-10569,Grace Abara,Infrastructure,Engineering,26,2023-08-17,3,5,4,2.0,2.0,48.0,54.2,0
-FL-10614,Mia Abara,Interpretability,Research,10,2026-05-15,5,3,4,2.0,4.0,40.0,20.8,0
-FL-10358,Ethan Garcia,Applied Research,Research,12,2025-08-07,3,2,3,3.0,4.0,53.0,25.0,0
-FL-10675,Ava Okafor,Interpretability,Research,9,2022-05-24,4,5,4,3.0,3.0,46.0,18.8,0
-FL-10061,Sofia Weiss,Safety Evaluations,Research,33,2025-09-30,3,2,4,3.0,4.0,44.0,68.8,0
-FL-10028,Sofia Lund,Interpretability,Research,13,2023-06-19,4,3,2,3.0,3.0,46.0,27.1,0
-FL-10099,Maria Weiss,INFRASTRUCTURE,Engineering,16,2021-11-25,1,4,5,,,,33.3,0
-FL-10456,Mei Weiss,Infrastructure,Engineering,1,2025-10-29,4,4,4,3.0,2.0,50.0,0.0,0
-FL-10539,Mei Patel,Interpretability,Research,27,2024-11-07,3,2,3,1.0,2.0,53.0,56.2,0
-FL-10235,Ingrid Kowalski,INFRASTRUCTURE,Engineering,1,2022-02-22,2,2,2,2.0,2.0,54.0,0.0,0
-FL-10354,Maria Garcia,Infrastructure,Engineering,8,2026-08-20,3,3,3,3.0,4.0,52.0,16.7,0
-FL-10628,Noah Weiss,Safety Evaluations,Research,9,2023-12-29,5,2,4,3.0,5.0,55.0,18.8,1
-FL-10030,Yuki Okafor,Alignment Research,Research,1,2024-07-16,3,2,3,3.0,3.0,59.0,0.0,0
-FL-10802,Sofia Rahman,Alignment Research,Research,1,2023-08-26,4,3,4,4.0,4.0,56.0,0.0,0
-FL-10073,Sofia Petrov,Interpretability,Research,17,2023-05-28,4,3,4,5.0,2.0,46.0,35.4,0
-FL-10524,Grace Petrov,Safety Evaluations,Research,2,2026-03-16,4,3,5,4.0,5.0,54.0,0.0,1
-FL-10552,Zoe Costa,Interpretability,Research,11,2022-06-13,3,3,2,5.0,3.0,51.0,22.9,0
-FL-10091,Elena Costa,Policy & Governance,Policy,1,2021-01-09,1,3,4,4.0,4.0,44.0,0.0,0
-FL-10465,Lucas Patel,Alignment Research,Research,2,2025-03-07,4,3,4,2.0,3.0,59.0,0.0,0
-FL-10155,Maria Patel,Safety Evaluations,Research,4,2025-11-15,5,5,4,3.0,4.0,46.0,0.0,0
-FL-10443,David Lindqvist,Interpretability,Research,2,2022-04-11,2,4,3,2.0,3.0,51.0,0.0,0
-FL-10691,Yuki Costa,Safety Evaluations,Research,5,2024-05-03,4,2,4,4.0,3.0,40.0,0.0,0
-FL-10144,Elena Patel,Safety Evaluations,Research,3,2025-04-16,2,1,4,4.0,3.0,35.0,0.0,0
-FL-10586,Priya Johansson,Applied Research,Research,12,2025-03-16,3,3,5,1.0,4.0,57.0,25.0,0
-FL-10638,Zoe Okafor,Alignment Research,Research,13,2021-11-04,2,2,2,2.0,3.0,59.0,27.1,0
-FL-10755,Carlos Petrov,Safety Evaluations,Research,2,2023-02-27,1,5,4,5.0,2.0,40.0,0.0,0
-FL-10164,Ava Hansen,INFRASTRUCTURE,Engineering,9,2025-07-31,4,3,3,,,,18.8,0
-FL-10103,Ingrid Ferreira,Infrastructure,Engineering,5,2021-06-12,2,3,3,3.0,3.0,74.0,0.0,0
-FL-10437,Sofia Garcia,Policy & Governance,Policy,8,2022-06-17,2,2,4,3.0,3.0,40.0,16.7,0
-FL-10263,Omar Lund,Alignment Research,Research,5,2024-11-09,4,2,3,4.0,3.0,54.0,0.0,0
-FL-10623,Viktor Novak,Interpretability,Research,15,2024-01-25,3,2,4,2.0,3.0,50.0,31.2,1
-FL-10177,Yuki Mbeki,Infrastructure,Engineering,8,2022-08-27,3,3,1,3.0,4.0,56.0,16.7,0
-FL-10261,Nadia Kowalski,Alignment Research,Research,6,2024-06-08,4,3,4,1.0,4.0,59.0,12.5,0
-FL-10644,Priya Osei,Applied Research,Research,10,2021-05-13,5,4,3,4.0,3.0,73.0,20.8,0
-FL-10477,Carlos Silva,Infrastructure,Engineering,26,2021-04-29,3,4,2,3.0,3.0,52.0,54.2,0
-FL-10800,Mei Silva,Safety Evaluations,Research,7,2024-09-12,4,1,4,3.0,3.0,44.0,14.6,1
-FL-10450,Kenji Patel,Policy & Governance,Policy,6,2026-07-02,2,4,2,2.0,5.0,48.0,12.5,0
-FL-10828,Hassan Okafor,Infrastructure,Engineering,6,2021-10-10,2,5,4,3.0,3.0,46.0,12.5,0
-FL-10317,Omar Rahman,Applied Research,Research,23,2025-07-31,1,3,4,3.0,3.0,53.0,47.9,0
-FL-10758,Nadia Mbeki,SAFETY EVALUATIONS,Research,17,2026-06-26,2,4,3,2.0,3.0,51.0,35.4,0
-FL-10393,Kenji Garcia,Safety Evaluations,Research,2,2022-02-02,3,3,3,1.0,5.0,64.0,0.0,0
-FL-10194,Zoe Kowalski,Infrastructure,Engineering,6,2024-01-30,2,3,4,3.0,4.0,54.0,12.5,0
-FL-10399,Kwame Garcia,Interpretability,Research,3,2025-02-07,3,3,2,2.0,2.0,60.0,0.0,0
-FL-10214,Leo Costa,Applied Research,Research,12,2021-04-22,4,2,1,3.0,5.0,63.0,25.0,1
-FL-10663,Kwame Garcia,Safety Evaluations,Research,10,2023-08-28,1,4,2,5.0,2.0,44.0,20.8,0
-FL-10665,Noah Lund,POLICY & GOVERNANCE,Policy,6,2025-02-20,2,1,3,4.0,4.0,48.0,12.5,0
-FL-10347,Hassan Petrov,Interpretability,Research,13,2024-11-14,3,2,3,3.0,3.0,51.0,27.1,0
-FL-10080,Maria Costa,Policy & Governance,Policy,9,2024-10-21,3,3,3,4.0,3.0,53.0,18.8,1
-FL-10293,Yuki Nakamura,Alignment Research,Research,5,2021-11-04,4,3,4,2.0,3.0,46.0,0.0,0
-FL-10761,Fatima Osei,SAFETY EVALUATIONS,Research,6,2025-04-05,4,4,4,4.0,4.0,46.0,12.5,0
-FL-10479,Leo Novak,Alignment Research,Research,16,2024-12-08,2,5,4,2.0,1.0,54.0,33.3,0
-FL-10101,Carlos Johansson,Alignment Research,Research,28,2023-08-22,4,4,4,3.0,4.0,43.0,58.3,1
-FL-10357,Ava Abara,INTERPRETABILITY,Research,1,2021-03-04,5,2,3,2.0,4.0,52.0,0.0,0
-FL-10587,Yuki Chen,Alignment Research,Research,3,2024-07-29,2,2,3,2.0,4.0,52.0,0.0,0
-FL-10387,James Costa,Safety Evaluations,Research,1,2024-01-30,1,4,3,3.0,4.0,62.0,0.0,0
-FL-10509,James Novak,Safety Evaluations,Research,8,2022-12-05,4,4,3,3.0,4.0,51.0,16.7,0
-FL-10527,Viktor Novak,Safety Evaluations,Research,12,2022-09-11,3,2,4,4.0,3.0,56.0,25.0,0
-FL-10554,Hassan Costa,SAFETY EVALUATIONS,Research,12,2024-09-07,4,3,2,3.0,3.0,42.0,25.0,0
-FL-10528,Mei Johansson,Infrastructure,Engineering,17,2026-04-05,3,2,3,4.0,3.0,56.0,35.4,0
-FL-10192,Mei Silva,Safety Evaluations,Research,7,2023-10-10,3,4,2,4.0,3.0,53.0,14.6,1
-FL-10542,Yuki Abara,Alignment Research,Research,11,2025-12-05,1,2,2,5.0,3.0,48.0,22.9,0
-FL-10499,Liam Novak,Applied Research,Research,1,2022-05-07,3,2,3,4.0,4.0,45.0,0.0,0
-FL-10058,Wei Petrov,Safety Evaluations,Research,7,2021-10-11,4,3,4,2.0,3.0,50.0,14.6,1
-FL-10290,Carlos Patel,Applied Research,Research,10,2023-05-02,1,3,4,2.0,4.0,50.0,20.8,0
-FL-10558,Elena Mbeki,Safety Evaluations,Research,31,2024-10-31,3,1,4,3.0,2.0,47.0,64.6,1
-FL-10041,Grace Okafor,Applied Research,Research,1,2022-03-26,4,3,3,3.0,2.0,55.0,0.0,0
-FL-10126,Sofia Okafor,Interpretability,Research,5,2022-01-14,3,5,4,1.0,2.0,60.0,0.0,0
-FL-10722,Mei Lund,Applied Research,Research,1,2024-02-20,4,3,3,3.0,4.0,48.0,0.0,0
-FL-10781,Lucas Nakamura,Applied Research,Research,29,2021-05-29,4,3,3,4.0,3.0,67.0,60.4,1
-FL-10197,Amara Lund,Infrastructure,Engineering,34,2021-11-27,2,1,3,,,,70.8,0
-FL-10712,Maria Okafor,Alignment Research,Research,18,2024-02-27,3,4,4,2.0,4.0,62.0,37.5,0
-FL-10631,Hassan Hansen,Infrastructure,Engineering,6,2024-08-08,1,5,5,5.0,4.0,48.0,12.5,0
-FL-10045,Ava Silva,ALIGNMENT RESEARCH,Research,6,2021-02-17,4,1,5,4.0,3.0,53.0,12.5,0
-FL-10525,Grace Osei,INFRASTRUCTURE,Engineering,17,2026-01-13,4,3,3,2.0,2.0,51.0,35.4,0
-FL-10081,Tariq Patel,Infrastructure,Engineering,1,2023-10-16,2,3,3,5.0,3.0,37.0,0.0,0
-FL-10381,Ingrid Hansen,INTERPRETABILITY,Research,2,2025-10-04,3,3,5,2.0,4.0,59.0,0.0,1
-FL-10211,Priya Novak,Infrastructure,Engineering,26,2025-07-15,3,2,4,2.0,3.0,37.0,54.2,1
-FL-10791,Nadia Nakamura,Safety Evaluations,Research,3,2021-02-27,2,2,3,4.0,4.0,51.0,0.0,0
-FL-10145,Viktor Okafor,ALIGNMENT RESEARCH,Research,1,2026-04-12,4,2,3,1.0,5.0,41.0,0.0,1
-FL-10593,Aisha Johansson,Alignment Research,Research,11,2021-03-19,3,4,5,2.0,5.0,48.0,22.9,0
-FL-10216,Viktor Abara,Interpretability,Research,2,2023-01-15,3,3,3,4.0,3.0,51.0,0.0,0
-FL-10833,Viktor Costa,SAFETY EVALUATIONS,Research,34,2025-03-19,3,4,3,2.0,5.0,36.0,70.8,0
-FL-10199,Priya Garcia,Interpretability,Research,15,2023-05-27,3,1,5,5.0,3.0,51.0,31.2,1
-FL-10571,Tariq Petrov,INTERPRETABILITY,Research,20,2023-03-06,5,3,5,3.0,3.0,50.0,41.7,1
-FL-10359,Viktor Garcia,Alignment Research,Research,7,2021-11-03,2,2,4,4.0,4.0,51.0,14.6,0
-FL-10715,Viktor Patel,Infrastructure,Engineering,22,2025-11-01,2,2,5,4.0,3.0,39.0,45.8,0
-FL-10264,Lucas Lund,Policy & Governance,Policy,4,2024-09-16,2,3,4,3.0,4.0,60.0,0.0,0
-FL-10486,Liam Novak,Infrastructure,Engineering,3,2021-12-14,1,5,3,,,,0.0,0
-FL-10270,Sofia Osei,Safety Evaluations,Research,7,2024-03-05,5,4,3,4.0,1.0,52.0,14.6,0
-FL-10428,Kenji Rahman,Interpretability,Research,13,2025-01-09,2,1,3,4.0,4.0,50.0,27.1,0
-FL-10843,Leo Patel,Interpretability,Research,11,2021-05-12,4,3,3,5.0,4.0,39.0,22.9,1
-FL-10661,Nadia Nakamura,Safety Evaluations,Research,2,2025-01-20,2,5,3,3.0,1.0,56.0,0.0,0
-FL-10078,Lucas Lindqvist,Alignment Research,Research,32,2026-03-28,3,4,5,4.0,1.0,40.0,66.7,0
-FL-10109,Kenji Hansen,Infrastructure,Engineering,3,2026-02-16,4,2,4,2.0,4.0,61.0,0.0,0
-FL-10322,Mei Johansson,Infrastructure,Engineering,1,2024-07-12,3,1,5,3.0,4.0,62.0,0.0,1
-FL-10143,Tariq Kowalski,Alignment Research,Research,9,2023-12-29,3,1,4,3.0,5.0,42.0,18.8,0
-FL-10439,Fatima Chen,Alignment Research,Research,16,2022-06-24,5,3,3,3.0,3.0,52.0,33.3,0
-FL-10157,Carlos Weiss,Infrastructure,Engineering,11,2022-04-19,3,2,2,3.0,2.0,44.0,22.9,0
-FL-10102,Priya Patel,Applied Research,Research,13,2023-10-06,2,5,3,5.0,3.0,39.0,27.1,0
-FL-10046,Kenji Patel,Safety Evaluations,Research,13,2023-12-29,1,3,4,3.0,1.0,51.0,27.1,0
-FL-10004,Ingrid Lindqvist,SAFETY EVALUATIONS,Research,2,2021-05-11,4,3,3,3.0,2.0,45.0,0.0,0
-FL-10123,Sofia Hansen,Safety Evaluations,Research,3,2023-05-13,2,2,3,3.0,3.0,61.0,0.0,1
-FL-10279,Amara Nakamura,Alignment Research,Research,8,2021-07-30,4,2,4,2.0,2.0,45.0,16.7,0
-FL-10570,Hassan Kowalski,Applied Research,Research,5,2024-06-21,2,2,3,2.0,5.0,49.0,0.0,0
-FL-10835,Zoe Rahman,Alignment Research,Research,1,2022-05-01,4,2,4,2.0,2.0,52.0,0.0,0
-FL-10700,Fatima Silva,Interpretability,Research,10,2026-01-16,3,3,3,1.0,5.0,52.0,20.8,0
-FL-10246,Mei Lindqvist,Infrastructure,Engineering,16,2024-01-05,3,5,3,4.0,2.0,48.0,33.3,0
-FL-10659,Nadia Johansson,Alignment Research,Research,1,2024-04-04,3,1,4,2.0,2.0,52.0,0.0,1
-FL-10767,Kwame Lund,Policy & Governance,Policy,7,2024-01-16,3,5,3,1.0,2.0,37.0,14.6,0
-FL-10783,Elena Hansen,Interpretability,Research,14,2021-06-03,3,2,4,3.0,4.0,40.0,29.2,0
-FL-10137,Kenji Kowalski,Infrastructure,Engineering,1,2022-02-26,2,2,3,2.0,3.0,52.0,0.0,1
-FL-10373,Elena Nakamura,ALIGNMENT RESEARCH,Research,41,2021-11-20,5,5,2,1.0,3.0,62.0,85.4,0
-FL-10336,Mei Patel,Interpretability,Research,3,2022-09-23,2,3,4,4.0,4.0,56.0,0.0,0
-FL-10111,Mei Ferreira,Safety Evaluations,Research,4,2022-02-14,3,4,4,4.0,2.0,64.0,0.0,1
-FL-10239,Kenji Rahman,Infrastructure,Engineering,3,2021-10-10,3,3,4,4.0,3.0,47.0,0.0,0
-FL-10016,Hassan Patel,APPLIED RESEARCH,Research,21,2025-03-31,2,3,4,2.0,5.0,56.0,43.8,0
-FL-10490,Mei Lindqvist,Applied Research,Research,9,2026-06-13,2,5,4,4.0,3.0,60.0,18.8,0
-FL-10134,Lucas Garcia,Interpretability,Research,15,2021-06-21,5,4,3,3.0,4.0,52.0,31.2,1
-FL-10676,Ava Garcia,Safety Evaluations,Research,7,2024-05-30,4,4,3,4.0,5.0,68.0,14.6,0
-FL-10600,Carlos Lund,Infrastructure,Engineering,7,2021-03-09,4,4,3,3.0,3.0,62.0,14.6,0
-FL-10488,Elena Ferreira,Interpretability,Research,1,2021-07-23,2,5,3,4.0,4.0,43.0,0.0,0
-FL-10146,Yuki Mbeki,Infrastructure,Engineering,9,2026-03-01,1,1,5,3.0,3.0,61.0,18.8,0
-FL-10232,Fatima Osei,APPLIED RESEARCH,Research,3,2021-04-16,1,4,5,2.0,3.0,46.0,0.0,0
-FL-10822,Mei Osei,Safety Evaluations,Research,13,2021-08-25,2,1,4,3.0,5.0,54.0,27.1,0
-FL-10784,James Hansen,Infrastructure,Engineering,3,2022-03-16,3,2,4,4.0,5.0,47.0,0.0,0
-FL-10180,Mei Lindqvist,Interpretability,Research,14,2023-03-08,3,5,2,2.0,4.0,53.0,29.2,0
-FL-10237,Tariq Osei,Alignment Research,Research,1,2021-06-18,2,3,3,1.0,5.0,56.0,0.0,0
-FL-10745,James Abara,Infrastructure,Engineering,18,2024-07-08,2,2,5,3.0,3.0,49.0,37.5,1
-FL-10386,Ingrid Hansen,Interpretability,Research,27,2024-04-24,4,4,4,2.0,3.0,55.0,56.2,0
-FL-10815,Maria Lund,Infrastructure,Engineering,10,2023-04-09,1,4,4,4.0,2.0,46.0,20.8,0
-FL-10568,Mei Ferreira,Safety Evaluations,Research,4,2024-03-13,3,5,3,1.0,1.0,52.0,0.0,0
-FL-10105,Kenji Osei,Safety Evaluations,Research,1,2024-07-19,3,3,3,3.0,3.0,53.0,0.0,0
-FL-10163,Kenji Patel,Safety Evaluations,Research,28,2024-05-15,3,3,4,3.0,5.0,41.0,58.3,1
-FL-10411,Fatima Kowalski,Interpretability,Research,8,2026-04-16,3,4,3,3.0,4.0,54.0,16.7,0
-FL-10269,Kwame Mbeki,Policy & Governance,Policy,3,2026-06-07,2,3,3,2.0,3.0,53.0,0.0,0
-FL-10128,Maria Chen,Alignment Research,Research,14,2024-09-28,3,4,3,3.0,3.0,46.0,29.2,0
-FL-10328,Zoe Abara,Applied Research,Research,1,2021-07-31,4,4,3,3.0,2.0,57.0,0.0,0
-FL-10350,Nadia Kowalski,Policy & Governance,Policy,2,2025-04-18,4,2,3,3.0,3.0,43.0,0.0,1
-FL-10417,Maria Hansen,POLICY & GOVERNANCE,Policy,5,2026-07-11,3,2,4,4.0,3.0,37.0,0.0,1
-FL-10626,Aisha Costa,Safety Evaluations,Research,6,2024-10-20,3,4,2,1.0,4.0,61.0,12.5,0
-FL-10709,James Johansson,Alignment Research,Research,3,2025-05-30,1,3,2,3.0,3.0,47.0,0.0,0
-FL-10339,Yuki Abara,Safety Evaluations,Research,21,2022-08-16,4,4,3,4.0,3.0,47.0,43.8,0
-FL-10575,Elena Mbeki,Alignment Research,Research,12,2022-07-21,4,3,4,3.0,3.0,60.0,25.0,0
-FL-10797,David Petrov,Interpretability,Research,13,2024-08-18,3,3,1,3.0,3.0,56.0,27.1,0
-FL-10483,Ethan Weiss,Safety Evaluations,Research,31,2023-06-01,4,4,4,4.0,4.0,42.0,64.6,0
-FL-10039,Noah Kowalski,Policy & Governance,Policy,12,2022-07-21,3,3,4,2.0,4.0,50.0,25.0,0
-FL-10682,Ava Nakamura,APPLIED RESEARCH,Research,1,2022-09-24,3,3,2,2.0,5.0,53.0,0.0,0
-FL-10031,Priya Silva,Applied Research,Research,18,2021-09-29,2,2,4,4.0,3.0,35.0,37.5,0
-FL-10695,Amara Ferreira,Alignment Research,Research,1,2022-08-12,4,3,3,,,,0.0,1
-FL-10238,Noah Lund,INTERPRETABILITY,Research,6,2025-10-21,3,4,3,5.0,2.0,51.0,12.5,0
-FL-10537,Amara Ferreira,Infrastructure,Engineering,4,2026-05-03,2,2,4,5.0,3.0,51.0,0.0,0
-FL-10817,Elena Novak,Interpretability,Research,2,2025-12-15,1,4,4,5.0,3.0,46.0,0.0,0
-FL-10286,Grace Weiss,Policy & Governance,Policy,60,2025-04-08,2,5,3,5.0,4.0,39.0,100.0,0
-FL-10112,Wei Lund,Infrastructure,Engineering,33,2023-05-24,2,2,3,4.0,4.0,48.0,68.8,0
-FL-10674,Grace Garcia,Interpretability,Research,50,2025-11-08,2,3,3,3.0,3.0,52.0,100.0,0
-FL-10132,Wei Garcia,SAFETY EVALUATIONS,Research,17,2021-05-28,4,5,3,3.0,3.0,42.0,35.4,0
-FL-10095,Kwame Okafor,Infrastructure,Engineering,24,2021-09-07,1,3,3,4.0,2.0,52.0,50.0,0
-FL-10613,Hassan Novak,Alignment Research,Research,47,2022-12-19,4,1,4,2.0,3.0,45.0,97.9,0
-FL-10584,Lucas Okafor,ALIGNMENT RESEARCH,Research,12,2025-06-12,3,2,1,5.0,4.0,56.0,25.0,0
-FL-10440,James Rahman,INFRASTRUCTURE,Engineering,12,2023-09-02,3,3,2,1.0,4.0,51.0,25.0,0
-FL-10190,Lucas Lund,Alignment Research,Research,1,2026-01-01,3,2,4,4.0,1.0,53.0,0.0,1
-FL-10844,Tariq Lindqvist,Infrastructure,Engineering,58,2021-03-06,2,5,3,4.0,1.0,73.0,100.0,0
-FL-10506,Viktor Novak,Alignment Research,Research,11,2025-10-25,2,3,5,3.0,3.0,48.0,22.9,0
-FL-10003,Kenji Lund,Safety Evaluations,Research,1,2021-12-23,3,3,3,3.0,4.0,40.0,0.0,0
-FL-10487,Aisha Okafor,Applied Research,Research,9,2022-09-30,1,3,4,2.0,2.0,49.0,18.8,0
-FL-10512,Lucas Patel,Interpretability,Research,8,2023-09-24,2,4,5,,,,16.7,1
-FL-10084,Sofia Abara,Applied Research,Research,1,2023-10-21,3,3,4,2.0,2.0,61.0,0.0,0
-FL-10005,James Johansson,Safety Evaluations,Research,2,2023-06-15,4,4,4,4.0,4.0,50.0,0.0,0
-FL-10324,Grace Costa,Alignment Research,Research,7,2021-01-05,2,3,5,3.0,4.0,58.0,14.6,0
-FL-10209,Omar Kowalski,Infrastructure,Engineering,16,2024-01-23,2,3,3,,,,33.3,0
-FL-10646,Noah Rahman,Interpretability,Research,4,2025-12-24,2,5,5,3.0,5.0,53.0,0.0,0
-FL-10739,Carlos Petrov,Interpretability,Research,14,2023-12-24,2,4,5,4.0,1.0,46.0,29.2,0
-FL-10314,Ava Abara,Alignment Research,Research,18,2024-02-14,1,3,1,3.0,2.0,69.0,37.5,0
-FL-10266,Liam Silva,APPLIED RESEARCH,Research,5,2023-08-03,2,1,3,2.0,3.0,78.0,0.0,0
-FL-10243,Zoe Abara,Safety Evaluations,Research,17,2022-09-19,4,4,3,4.0,3.0,37.0,35.4,0
-FL-10159,Sofia Okafor,Policy & Governance,Policy,11,2025-11-22,2,5,4,2.0,4.0,51.0,22.9,1
-FL-10788,Mei Silva,Alignment Research,Research,28,2023-03-01,3,3,3,5.0,3.0,58.0,58.3,0
-FL-10514,Ava Johansson,Alignment Research,Research,40,2025-06-10,3,3,3,4.0,4.0,42.0,83.3,1
-FL-10097,Maria Osei,Applied Research,Research,16,2026-05-07,2,3,3,3.0,3.0,35.0,33.3,0
-FL-10567,Lucas Rahman,INTERPRETABILITY,Research,22,2023-08-31,3,4,3,2.0,3.0,55.0,45.8,1
-FL-10401,Mia Nakamura,Alignment Research,Research,33,2023-11-19,2,4,3,2.0,3.0,50.0,68.8,0
-FL-10303,Maria Nakamura,Interpretability,Research,3,2024-06-13,4,3,4,3.0,4.0,64.0,0.0,1
-FL-10753,Leo Lund,Safety Evaluations,Research,5,2024-11-03,3,4,5,4.0,3.0,63.0,0.0,0
-FL-10466,Tariq Garcia,POLICY & GOVERNANCE,Policy,1,2021-09-03,2,3,3,2.0,3.0,57.0,0.0,1
-FL-10741,Ethan Okafor,Safety Evaluations,Research,40,2026-05-22,1,3,3,4.0,3.0,52.0,83.3,0
-FL-10186,Maria Lund,Policy & Governance,Policy,1,2023-10-18,3,4,4,4.0,1.0,58.0,0.0,0
-FL-10127,Zoe Lindqvist,Infrastructure,Engineering,2,2024-02-08,2,5,4,3.0,2.0,64.0,0.0,0
-FL-10735,Nadia Osei,Infrastructure,Engineering,10,2024-05-12,1,4,4,3.0,2.0,47.0,20.8,0
-FL-10599,Wei Patel,Policy & Governance,Policy,20,2026-08-10,3,3,4,3.0,5.0,35.0,41.7,0
-FL-10535,Mei Osei,Infrastructure,Engineering,1,2021-06-18,4,1,3,1.0,2.0,35.0,0.0,1
-FL-10064,Kenji Rahman,Infrastructure,Engineering,10,2025-11-30,2,2,2,4.0,4.0,51.0,20.8,0
-FL-10224,Grace Okafor,Alignment Research,Research,7,2021-05-08,1,3,5,4.0,3.0,49.0,14.6,0
-FL-10014,Noah Rahman,SAFETY EVALUATIONS,Research,3,2023-12-20,2,4,2,5.0,3.0,49.0,0.0,0
-FL-10697,Priya Garcia,Safety Evaluations,Research,1,2025-02-26,2,3,4,5.0,3.0,62.0,0.0,0
-FL-10170,Liam Hansen,Policy & Governance,Policy,11,2023-05-11,2,2,3,4.0,3.0,44.0,22.9,0
-FL-10291,Zoe Mbeki,Alignment Research,Research,1,2023-12-20,5,2,3,4.0,4.0,54.0,0.0,1
-FL-10136,Aisha Rahman,Applied Research,Research,36,2023-05-11,4,3,5,3.0,3.0,49.0,75.0,0
-FL-10505,James Abara,Applied Research,Research,10,2021-11-15,3,3,3,4.0,3.0,35.0,20.8,0
-FL-10377,Mei Silva,Safety Evaluations,Research,10,2021-02-08,2,3,3,4.0,3.0,63.0,20.8,0
-FL-10206,Omar Chen,Applied Research,Research,2,2024-12-11,3,3,5,3.0,2.0,63.0,0.0,0
-FL-10846,Fatima Ferreira,SAFETY EVALUATIONS,Research,31,2021-05-18,2,4,3,2.0,5.0,70.0,64.6,1
-FL-10288,Viktor Osei,Infrastructure,Engineering,6,2025-10-23,4,3,4,4.0,3.0,47.0,12.5,1
-FL-10115,Aisha Kowalski,Alignment Research,Research,1,2025-02-22,4,4,5,4.0,3.0,55.0,0.0,0
-FL-10351,Yuki Lindqvist,Alignment Research,Research,1,2021-06-28,5,4,5,4.0,2.0,69.0,0.0,1
-FL-10550,Amara Johansson,Policy & Governance,Policy,1,2022-08-03,3,4,3,3.0,3.0,41.0,0.0,0
-FL-10327,Ava Rahman,Interpretability,Research,1,2026-08-04,4,5,3,4.0,2.0,64.0,0.0,0
-FL-10019,Ingrid Mbeki,Infrastructure,Engineering,4,2021-10-12,5,3,3,3.0,4.0,47.0,0.0,1
-FL-10319,Viktor Nakamura,Interpretability,Research,3,2024-09-12,2,3,3,4.0,3.0,46.0,0.0,0
-FL-10107,Kenji Novak,Infrastructure,Engineering,1,2023-09-05,3,3,4,3.0,5.0,55.0,0.0,0
-FL-10740,Zoe Osei,Alignment Research,Research,1,2023-07-22,3,4,2,4.0,2.0,45.0,0.0,0
-FL-10410,Ingrid Costa,Applied Research,Research,11,2025-03-02,1,3,2,2.0,3.0,62.0,22.9,1
-FL-10236,Nadia Hansen,Policy & Governance,Policy,6,2022-05-11,2,4,1,4.0,2.0,58.0,12.5,0
-FL-10458,Lucas Abara,APPLIED RESEARCH,Research,43,2023-07-25,2,4,3,3.0,3.0,36.0,89.6,0
-FL-10233,Leo Hansen,Alignment Research,Research,9,2025-03-18,3,2,4,4.0,4.0,54.0,18.8,0
-FL-10229,Nadia Silva,Infrastructure,Engineering,4,2025-02-19,3,4,3,3.0,1.0,54.0,0.0,1
-FL-10689,Aisha Lund,Applied Research,Research,6,2024-04-01,3,1,4,3.0,2.0,39.0,12.5,1
-FL-10448,Mei Chen,Applied Research,Research,1,2021-09-07,2,4,5,3.0,4.0,35.0,0.0,0
-FL-10772,Fatima Lindqvist,Infrastructure,Engineering,11,2024-09-14,2,4,3,5.0,5.0,52.0,22.9,0
-FL-10431,Wei Mbeki,Applied Research,Research,14,2021-03-29,3,3,4,3.0,3.0,58.0,29.2,1
-FL-10397,Wei Hansen,Safety Evaluations,Research,15,2024-08-31,3,4,3,3.0,5.0,51.0,31.2,0
-FL-10809,David Abara,Safety Evaluations,Research,2,2025-03-11,3,2,4,2.0,4.0,51.0,0.0,1
-FL-10749,Viktor Okafor,Infrastructure,Engineering,13,2022-07-20,2,2,4,3.0,4.0,48.0,27.1,0
-FL-10116,Liam Nakamura,Alignment Research,Research,1,2025-11-30,3,3,4,3.0,4.0,51.0,0.0,1
-FL-10068,Ingrid Lund,Interpretability,Research,8,2023-08-01,3,3,1,3.0,3.0,58.0,16.7,1
-FL-10304,Carlos Osei,Safety Evaluations,Research,6,2024-03-28,3,2,2,,,,12.5,0
-FL-10287,Mei Abara,Applied Research,Research,55,2024-05-02,1,4,4,4.0,5.0,51.0,100.0,0
-FL-10390,Mia Hansen,SAFETY EVALUATIONS,Research,24,2023-08-01,4,4,5,4.0,4.0,49.0,50.0,0
-FL-10391,Carlos Rahman,Applied Research,Research,1,2023-06-17,3,3,4,2.0,4.0,60.0,0.0,0
-FL-10037,Ethan Osei,Safety Evaluations,Research,1,2025-10-21,3,2,3,,,,0.0,0
-FL-10812,Grace Kowalski,Policy & Governance,Policy,4,2021-12-02,3,2,4,4.0,5.0,48.0,0.0,0
-FL-10330,Leo Hansen,Alignment Research,Research,25,2025-11-30,4,3,3,4.0,1.0,63.0,52.1,1
-FL-10106,Leo Silva,Infrastructure,Engineering,3,2023-04-17,4,4,3,2.0,4.0,55.0,0.0,0
-FL-10543,Ava Weiss,Interpretability,Research,23,2022-10-13,2,3,3,4.0,4.0,56.0,47.9,0
-FL-10251,Viktor Novak,Interpretability,Research,40,2023-01-15,4,5,5,2.0,4.0,65.0,83.3,1
-FL-10573,Mei Hansen,Alignment Research,Research,6,2025-04-14,3,2,4,3.0,2.0,71.0,12.5,1
-FL-10409,Mei Rahman,APPLIED RESEARCH,Research,1,2023-12-10,2,2,3,3.0,3.0,57.0,0.0,0
-FL-10831,Grace Garcia,Safety Evaluations,Research,7,2025-09-18,3,1,4,4.0,4.0,47.0,14.6,1
-FL-10215,Wei Lindqvist,Infrastructure,Engineering,24,2022-07-10,2,3,5,2.0,3.0,45.0,50.0,0
-FL-10632,Fatima Johansson,Interpretability,Research,9,2024-09-05,4,4,3,4.0,2.0,38.0,18.8,0
-FL-10056,Aisha Hansen,Infrastructure,Engineering,2,2023-09-08,2,1,2,3.0,4.0,43.0,0.0,1
-FL-10445,Mei Rahman,Alignment Research,Research,21,2022-03-23,2,3,4,1.0,5.0,60.0,43.8,0
-FL-10294,Elena Chen,Interpretability,Research,1,2025-08-01,3,3,3,3.0,4.0,46.0,0.0,0
-FL-10169,Priya Lund,INFRASTRUCTURE,Engineering,10,2021-01-02,3,3,3,2.0,3.0,47.0,20.8,1
-FL-10216,Viktor Abara,Interpretability,Research,2,2023-01-15,3,3,3,4.0,3.0,51.0,0.0,0
-FL-10053,Hassan Weiss,Interpretability,Research,14,2021-01-03,3,1,4,3.0,3.0,48.0,29.2,1
-FL-10323,Sofia Novak,Interpretability,Research,7,2022-04-20,2,4,5,3.0,3.0,48.0,14.6,0
-FL-10763,Grace Garcia,Infrastructure,Engineering,10,2024-04-04,2,3,4,4.0,1.0,46.0,20.8,0
-FL-10654,Kwame Ferreira,Infrastructure,Engineering,1,2024-03-15,2,2,4,3.0,3.0,43.0,0.0,0
-FL-10151,Noah Weiss,Safety Evaluations,Research,1,2025-06-26,4,5,5,4.0,4.0,44.0,0.0,0
-FL-10230,Elena Ferreira,Alignment Research,Research,1,2022-04-15,2,5,2,3.0,5.0,52.0,0.0,0
-FL-10680,Sofia Mbeki,Interpretability,Research,13,2024-01-30,4,2,3,4.0,4.0,64.0,27.1,0
-FL-10710,Ava Abara,Policy & Governance,Policy,43,2023-09-14,3,4,3,2.0,3.0,47.0,89.6,0
-FL-10610,Tariq Johansson,Safety Evaluations,Research,29,2024-11-13,3,3,4,4.0,3.0,52.0,60.4,1
-FL-10755,Carlos Petrov,Safety Evaluations,Research,2,2023-02-27,1,5,4,5.0,2.0,40.0,0.0,0
-FL-10188,David Abara,Alignment Research,Research,6,2024-07-23,5,3,4,4.0,3.0,67.0,12.5,1
-FL-10717,Grace Costa,Applied Research,Research,14,2025-02-07,3,3,4,4.0,3.0,50.0,29.2,1
-FL-10779,Leo Johansson,Interpretability,Research,4,2023-08-10,5,3,3,3.0,3.0,52.0,0.0,1
-FL-10185,Elena Weiss,Alignment Research,Research,1,2026-03-18,5,4,3,3.0,3.0,45.0,0.0,0
-FL-10043,Carlos Johansson,Policy & Governance,Policy,3,2025-04-26,2,4,5,2.0,3.0,54.0,0.0,0
-FL-10008,Yuki Abara,Alignment Research,Research,14,2024-02-14,3,1,3,3.0,5.0,47.0,29.2,0
-FL-10142,Elena Novak,Policy & Governance,Policy,3,2025-08-14,4,4,3,,,,0.0,0
-FL-10385,Yuki Costa,Interpretability,Research,5,2025-01-10,4,3,3,3.0,3.0,60.0,0.0,0
-FL-10694,Omar Abara,Safety Evaluations,Research,1,2023-04-16,3,2,4,3.0,5.0,63.0,0.0,0
-FL-10627,Elena Petrov,Alignment Research,Research,28,2026-07-31,4,1,4,5.0,3.0,35.0,58.3,1
-FL-10633,Kenji Hansen,Alignment Research,Research,21,2024-06-09,3,4,3,3.0,3.0,67.0,43.8,0
-FL-10826,Ingrid Johansson,INFRASTRUCTURE,Engineering,3,2021-07-05,4,3,5,1.0,4.0,62.0,0.0,1
-FL-10150,Viktor Johansson,Alignment Research,Research,48,2024-02-18,4,2,2,5.0,3.0,49.0,100.0,0
-FL-10067,Wei Novak,Alignment Research,Research,5,2021-03-28,3,4,1,3.0,4.0,63.0,0.0,0
-FL-10746,Lucas Garcia,INTERPRETABILITY,Research,12,2025-08-19,4,3,4,4.0,5.0,64.0,25.0,0
-FL-10447,Carlos Okafor,Alignment Research,Research,8,2024-05-20,3,1,3,2.0,3.0,50.0,16.7,0
-FL-10703,Viktor Ferreira,ALIGNMENT RESEARCH,Research,44,2025-09-09,3,4,4,4.0,5.0,62.0,91.7,0
-FL-10651,Omar Weiss,Alignment Research,Research,6,2025-05-05,3,4,5,2.0,4.0,44.0,12.5,0
-FL-10388,James Osei,Applied Research,Research,5,2021-07-20,3,4,2,4.0,3.0,52.0,0.0,0
-FL-10415,Leo Hansen,Alignment Research,Research,47,2025-07-31,2,2,1,3.0,4.0,42.0,97.9,0
-FL-10804,Liam Nakamura,Safety Evaluations,Research,24,2025-07-19,2,3,2,2.0,4.0,59.0,50.0,0
-FL-10454,David Silva,Infrastructure,Engineering,1,2024-08-24,2,3,2,2.0,1.0,51.0,0.0,0
-FL-10578,Hassan Patel,Interpretability,Research,22,2022-05-26,3,4,4,3.0,3.0,46.0,45.8,0
-FL-10352,Amara Petrov,Interpretability,Research,13,2025-04-11,5,4,5,2.0,2.0,50.0,27.1,1
-FL-10522,Kwame Nakamura,Safety Evaluations,Research,1,2022-09-19,2,2,4,4.0,3.0,42.0,0.0,0
-FL-10131,Hassan Chen,Safety Evaluations,Research,3,2022-04-04,3,5,2,3.0,3.0,55.0,0.0,0
-FL-10792,Ethan Novak,Policy & Governance,Policy,4,2024-04-23,4,5,3,4.0,2.0,65.0,0.0,0
-FL-10296,Liam Okafor,Alignment Research,Research,9,2023-08-07,4,1,3,3.0,3.0,76.0,18.8,1
-FL-10283,David Garcia,Infrastructure,Engineering,5,2024-05-29,1,4,3,3.0,4.0,45.0,0.0,0
-FL-10811,Grace Lund,Alignment Research,Research,4,2023-06-14,4,3,2,4.0,3.0,56.0,0.0,0
-FL-10639,Kenji Costa,Infrastructure,Engineering,49,2025-01-28,1,4,3,2.0,4.0,53.0,100.0,0
-FL-10130,Elena Abara,Policy & Governance,Policy,8,2025-10-18,1,3,4,3.0,3.0,50.0,16.7,0
-FL-10786,Mei Lund,Alignment Research,Research,5,2026-07-17,3,3,3,3.0,4.0,59.0,0.0,0
-FL-10726,Grace Garcia,Safety Evaluations,Research,7,2023-03-27,3,3,5,5.0,2.0,57.0,14.6,0
-FL-10114,Leo Rahman,Applied Research,Research,8,2021-10-09,2,2,4,3.0,2.0,48.0,16.7,1
-FL-10619,Amara Hansen,Alignment Research,Research,60,2025-06-20,3,5,4,2.0,3.0,68.0,100.0,1
-FL-10701,Yuki Garcia,ALIGNMENT RESEARCH,Research,2,2022-02-01,3,1,2,4.0,5.0,41.0,0.0,0
-FL-10449,Omar Costa,Applied Research,Research,26,2025-10-13,3,5,3,3.0,2.0,53.0,54.2,0
-FL-10842,David Silva,Alignment Research,Research,3,2023-02-12,3,3,3,3.0,5.0,62.0,0.0,0
-FL-10271,Fatima Mbeki,Alignment Research,Research,13,2024-04-28,4,3,3,3.0,2.0,47.0,27.1,0
-FL-10313,Grace Nakamura,Applied Research,Research,5,2026-04-12,2,2,4,2.0,3.0,44.0,0.0,0
-FL-10360,Omar Silva,Infrastructure,Engineering,21,2024-10-18,2,3,4,1.0,4.0,53.0,43.8,0
-FL-10284,Wei Kowalski,Applied Research,Research,5,2022-05-01,3,4,2,3.0,3.0,50.0,0.0,0
-FL-10129,Grace Garcia,APPLIED RESEARCH,Research,6,2023-12-09,4,4,3,4.0,3.0,68.0,12.5,0
-FL-10760,Hassan Silva,Applied Research,Research,26,2024-03-24,2,5,1,3.0,3.0,36.0,54.2,0
-FL-10407,Wei Costa,INFRASTRUCTURE,Engineering,6,2021-02-27,1,3,4,4.0,3.0,49.0,12.5,0
-FL-10574,Ava Weiss,Interpretability,Research,37,2025-09-11,3,3,2,4.0,4.0,58.0,77.1,0
-FL-10210,Lucas Petrov,Alignment Research,Research,60,2021-04-29,4,4,4,4.0,3.0,55.0,100.0,0
-FL-10491,Carlos Abara,Alignment Research,Research,1,2025-08-24,5,2,3,2.0,4.0,40.0,0.0,0
-FL-10596,Fatima Hansen,Safety Evaluations,Research,2,2023-09-01,4,3,4,,,,0.0,1
-FL-10846,Fatima Ferreira,SAFETY EVALUATIONS,Research,31,2021-05-18,2,4,3,2.0,5.0,70.0,64.6,1
-FL-10847,Mei Ferreira,Policy & Governance,Policy,17,2021-07-19,4,5,3,2.0,3.0,48.0,35.4,0
-FL-10040,Ava Petrov,Policy & Governance,Policy,1,2022-01-08,3,5,4,2.0,2.0,56.0,0.0,0
-FL-10306,Nadia Hansen,Policy & Governance,Policy,33,2025-07-07,3,5,1,5.0,3.0,54.0,68.8,0
-FL-10620,Mia Lund,Infrastructure,Engineering,10,2026-04-24,2,3,2,4.0,3.0,48.0,20.8,0
-FL-10204,Aisha Osei,Applied Research,Research,29,2021-03-22,3,5,2,3.0,3.0,51.0,60.4,1
-FL-10272,Yuki Rahman,Alignment Research,Research,9,2023-01-05,3,3,5,2.0,5.0,60.0,18.8,0
-FL-10008,Yuki Abara,Alignment Research,Research,14,2024-02-14,3,1,3,3.0,5.0,47.0,29.2,0
-FL-10355,Ingrid Novak,Safety Evaluations,Research,2,2022-02-16,3,1,3,2.0,3.0,50.0,0.0,1
-FL-10737,Amara Patel,INFRASTRUCTURE,Engineering,31,2025-09-03,2,3,5,2.0,3.0,42.0,64.6,0
-FL-10070,Wei Okafor,Alignment Research,Research,31,2023-07-27,3,2,3,,,,64.6,0
-FL-10139,Carlos Garcia,INFRASTRUCTURE,Engineering,21,2023-08-28,2,3,3,2.0,3.0,42.0,43.8,0
-FL-10685,Mia Chen,ALIGNMENT RESEARCH,Research,1,2021-11-29,2,3,3,3.0,4.0,60.0,0.0,0
-FL-10007,Hassan Mbeki,Infrastructure,Engineering,20,2025-09-15,3,5,4,5.0,2.0,48.0,41.7,0
-FL-10730,Tariq Petrov,Infrastructure,Engineering,9,2026-02-15,2,3,3,4.0,2.0,68.0,18.8,0
-FL-10378,Aisha Abara,Infrastructure,Engineering,34,2024-03-24,1,3,3,2.0,2.0,42.0,70.8,0
-FL-10376,Yuki Abara,Policy & Governance,Policy,10,2023-11-07,1,3,4,,,,20.8,0
-FL-10093,Liam Lindqvist,Interpretability,Research,15,2026-06-17,3,1,4,3.0,4.0,60.0,31.2,0
-FL-10526,Kenji Osei,Policy & Governance,Policy,15,2024-08-16,2,4,3,4.0,4.0,39.0,31.2,0
-FL-10400,Ava Weiss,Safety Evaluations,Research,5,2024-01-22,3,3,2,,,,0.0,1
-FL-10079,Viktor Okafor,Infrastructure,Engineering,1,2022-02-08,2,2,4,1.0,3.0,64.0,0.0,0
-FL-10768,Leo Lund,Safety Evaluations,Research,9,2024-01-18,3,2,3,3.0,3.0,57.0,18.8,0
-FL-10342,Grace Lindqvist,Alignment Research,Research,1,2024-10-24,2,5,2,3.0,4.0,40.0,0.0,0
-FL-10049,Mei Chen,Infrastructure,Engineering,13,2023-12-15,2,4,3,2.0,4.0,47.0,27.1,0
-FL-10250,Amara Chen,Interpretability,Research,6,2026-07-18,2,4,3,5.0,3.0,36.0,12.5,0
-FL-10147,Noah Hansen,Infrastructure,Engineering,1,2023-07-22,4,3,4,4.0,5.0,54.0,0.0,0
-FL-10806,Nadia Patel,Infrastructure,Engineering,7,2024-04-23,2,2,1,3.0,3.0,39.0,14.6,0
-FL-10057,Maria Kowalski,Safety Evaluations,Research,10,2021-11-19,2,3,3,2.0,4.0,61.0,20.8,0
-FL-10464,Wei Johansson,Safety Evaluations,Research,1,2022-01-17,3,3,2,2.0,2.0,53.0,0.0,1
-FL-10472,David Petrov,Infrastructure,Engineering,3,2023-07-08,3,3,3,4.0,2.0,54.0,0.0,1
-FL-10742,Elena Weiss,INTERPRETABILITY,Research,29,2025-04-07,3,4,3,3.0,3.0,59.0,60.4,0
-FL-10055,James Patel,APPLIED RESEARCH,Research,23,2025-01-26,1,2,3,4.0,4.0,70.0,47.9,1
-FL-10595,Hassan Ferreira,ALIGNMENT RESEARCH,Research,3,2025-09-30,1,2,4,3.0,3.0,66.0,0.0,0
-FL-10821,David Weiss,Alignment Research,Research,20,2025-08-29,4,2,3,4.0,3.0,71.0,41.7,0
-FL-10667,Carlos Johansson,ALIGNMENT RESEARCH,Research,29,2021-09-27,4,2,3,5.0,3.0,51.0,60.4,0
-FL-10635,Elena Abara,Applied Research,Research,35,2024-12-10,2,3,3,2.0,3.0,54.0,72.9,0
-FL-10498,Kwame Garcia,APPLIED RESEARCH,Research,15,2023-11-13,3,1,4,2.0,4.0,43.0,31.2,0
-FL-10338,Lucas Petrov,SAFETY EVALUATIONS,Research,13,2026-04-19,2,1,4,1.0,3.0,55.0,27.1,0
-FL-10642,Maria Garcia,Interpretability,Research,12,2021-10-03,4,4,4,4.0,5.0,48.0,25.0,0
-FL-10562,Ava Lund,Infrastructure,Engineering,6,2021-06-04,2,4,5,3.0,2.0,43.0,12.5,0
-FL-10382,Nadia Silva,Safety Evaluations,Research,3,2026-02-15,3,3,3,3.0,4.0,58.0,0.0,0
-FL-10025,Kenji Silva,Interpretability,Research,8,2021-10-20,3,2,5,3.0,3.0,54.0,16.7,0
-FL-10047,Grace Novak,Alignment Research,Research,1,2022-04-02,4,2,4,4.0,3.0,70.0,0.0,1
-FL-10174,Tariq Nakamura,Infrastructure,Engineering,33,2021-12-14,2,3,2,3.0,5.0,42.0,68.8,0
-FL-10475,Fatima Silva,Infrastructure,Engineering,13,2023-07-16,3,5,4,2.0,4.0,44.0,27.1,0
-FL-10059,Grace Lund,Infrastructure,Engineering,3,2022-05-31,3,3,3,4.0,4.0,35.0,0.0,0
-FL-10389,Leo Ferreira,Infrastructure,Engineering,6,2026-07-28,2,3,3,2.0,4.0,52.0,12.5,0
-FL-10153,James Patel,INFRASTRUCTURE,Engineering,27,2023-12-06,3,4,3,4.0,3.0,59.0,56.2,0
-FL-10533,Maria Rahman,Alignment Research,Research,8,2024-03-21,2,2,3,4.0,5.0,49.0,16.7,1
-FL-10630,Wei Lindqvist,Safety Evaluations,Research,5,2023-01-10,4,3,5,3.0,2.0,44.0,0.0,0
-FL-10161,Noah Lindqvist,Interpretability,Research,12,2021-10-14,1,3,4,5.0,2.0,48.0,25.0,0
-FL-10244,Lucas Nakamura,INFRASTRUCTURE,Engineering,1,2024-01-12,4,5,4,3.0,4.0,59.0,0.0,0
-FL-10637,Carlos Lindqvist,Infrastructure,Engineering,18,2024-01-30,2,4,2,3.0,2.0,49.0,37.5,0
-FL-10158,Priya Osei,Applied Research,Research,12,2023-02-18,1,1,2,4.0,3.0,75.0,25.0,0
-FL-10457,Fatima Patel,Alignment Research,Research,4,2023-05-31,2,2,3,5.0,3.0,46.0,0.0,0
-FL-10326,Lucas Okafor,Safety Evaluations,Research,6,2023-02-08,3,3,3,4.0,1.0,53.0,12.5,1
-FL-10469,Noah Lindqvist,INFRASTRUCTURE,Engineering,8,2021-07-30,2,3,3,4.0,3.0,39.0,16.7,0
-FL-10370,Liam Rahman,Safety Evaluations,Research,35,2025-03-16,3,3,5,,,,72.9,0
-FL-10706,Kwame Nakamura,ALIGNMENT RESEARCH,Research,5,2026-08-03,2,3,4,2.0,3.0,51.0,0.0,0
-FL-10427,Viktor Rahman,Interpretability,Research,5,2022-02-11,2,3,3,3.0,3.0,54.0,0.0,0
-FL-10658,Wei Novak,Infrastructure,Engineering,9,2024-11-24,3,2,3,4.0,1.0,50.0,18.8,0
-FL-10179,Omar Ferreira,Applied Research,Research,14,2021-10-26,2,4,3,,,,29.2,0
-FL-10711,Kwame Osei,APPLIED RESEARCH,Research,2,2024-12-16,3,2,4,2.0,2.0,41.0,0.0,0
-FL-10461,Amara Lindqvist,Interpretability,Research,9,2024-07-04,3,4,2,3.0,4.0,54.0,18.8,1
-FL-10756,Yuki Silva,Safety Evaluations,Research,12,2024-05-07,2,2,3,3.0,3.0,49.0,25.0,0
-FL-10054,Carlos Novak,Interpretability,Research,2,2026-06-25,3,2,3,2.0,4.0,51.0,0.0,0
-FL-10673,David Lund,INFRASTRUCTURE,Engineering,6,2023-01-16,3,2,4,3.0,3.0,49.0,12.5,0
-FL-10432,Maria Novak,Alignment Research,Research,19,2023-09-25,2,3,3,,,,39.6,0
-FL-10168,Carlos Osei,Policy & Governance,Policy,6,2024-05-17,2,2,4,4.0,2.0,52.0,12.5,1
-FL-10556,Zoe Lindqvist,Safety Evaluations,Research,10,2025-01-22,3,4,4,4.0,5.0,56.0,20.8,0
-FL-10634,Mei Ferreira,Policy & Governance,Policy,8,2025-10-12,2,2,5,3.0,4.0,63.0,16.7,0
-FL-10523,Grace Johansson,Infrastructure,Engineering,2,2022-12-27,2,2,3,2.0,4.0,63.0,0.0,0
-FL-10707,Ava Abara,Alignment Research,Research,14,2026-08-05,5,2,3,4.0,5.0,57.0,29.2,1
-FL-10024,Noah Rahman,Infrastructure,Engineering,3,2023-05-09,2,3,3,2.0,5.0,57.0,0.0,0
-FL-10298,Wei Kowalski,Infrastructure,Engineering,27,2023-12-20,3,1,3,4.0,3.0,39.0,56.2,0
-FL-10721,Wei Costa,Alignment Research,Research,8,2026-08-28,3,5,3,4.0,2.0,50.0,16.7,0
-FL-10733,Elena Costa,Policy & Governance,Policy,12,2024-05-10,2,1,1,3.0,3.0,41.0,25.0,1
-FL-10018,Mia Ferreira,Interpretability,Research,3,2025-01-21,3,3,4,4.0,3.0,65.0,0.0,0
-FL-10818,Fatima Mbeki,INFRASTRUCTURE,Engineering,3,2026-06-26,2,3,4,2.0,5.0,50.0,0.0,0
-FL-10312,Grace Silva,Interpretability,Research,8,2021-06-14,4,4,4,5.0,2.0,67.0,16.7,0
-FL-10254,Sofia Ferreira,Policy & Governance,Policy,1,2024-02-06,2,3,5,4.0,2.0,59.0,0.0,0
-FL-10225,Yuki Mbeki,Interpretability,Research,20,2021-03-25,4,3,5,3.0,3.0,60.0,41.7,0
-FL-10087,Maria Lund,Policy & Governance,Policy,28,2021-03-02,4,1,2,2.0,4.0,49.0,58.3,1
-FL-10776,Zoe Petrov,SAFETY EVALUATIONS,Research,34,2026-05-10,1,2,3,2.0,3.0,48.0,70.8,0
-FL-10419,Aisha Lund,Alignment Research,Research,1,2022-07-10,4,4,2,3.0,4.0,57.0,0.0,0
-FL-10518,Ava Weiss,Alignment Research,Research,5,2023-03-06,3,2,3,1.0,3.0,51.0,0.0,1
-FL-10649,Amara Silva,Alignment Research,Research,18,2023-10-20,3,3,2,2.0,4.0,44.0,37.5,0
-FL-10222,James Lund,ALIGNMENT RESEARCH,Research,15,2021-08-02,2,4,4,2.0,2.0,62.0,31.2,0
-FL-10849,Mei Kowalski,Safety Evaluations,Research,5,2023-06-09,4,3,3,2.0,3.0,44.0,0.0,0
-FL-10532,Mei Abara,Safety Evaluations,Research,6,2021-06-04,3,4,3,3.0,4.0,80.0,12.5,1
-FL-10424,Carlos Lindqvist,Applied Research,Research,1,2024-02-20,4,3,3,3.0,3.0,56.0,0.0,0
-FL-10218,Amara Mbeki,Infrastructure,Engineering,31,2026-02-06,3,3,4,3.0,4.0,46.0,64.6,0
-FL-10699,Amara Kowalski,Infrastructure,Engineering,23,2026-03-26,1,3,3,4.0,4.0,39.0,47.9,0
-FL-10521,Fatima Garcia,Alignment Research,Research,17,2023-11-15,3,4,3,2.0,4.0,42.0,35.4,0
-FL-10546,Kenji Ferreira,INTERPRETABILITY,Research,21,2021-08-03,3,3,4,3.0,4.0,59.0,43.8,0
-FL-10840,Hassan Costa,Alignment Research,Research,27,2023-07-30,2,3,2,2.0,4.0,41.0,56.2,1
-FL-10442,Elena Silva,APPLIED RESEARCH,Research,10,2021-08-03,2,1,3,4.0,3.0,49.0,20.8,0
-FL-10724,David Patel,INFRASTRUCTURE,Engineering,7,2025-06-02,1,2,1,5.0,2.0,50.0,14.6,0
-FL-10193,Mia Silva,SAFETY EVALUATIONS,Research,8,2026-06-08,4,2,3,5.0,3.0,56.0,16.7,0
-FL-10185,Elena Weiss,Alignment Research,Research,1,2026-03-18,5,4,3,3.0,3.0,45.0,0.0,0
-FL-10286,Grace Weiss,Policy & Governance,Policy,60,2025-04-08,2,5,3,5.0,4.0,39.0,100.0,0
-FL-10066,Fatima Kowalski,Safety Evaluations,Research,18,2023-07-10,2,3,3,4.0,2.0,65.0,37.5,0
-FL-10453,Carlos Garcia,Applied Research,Research,3,2021-09-27,1,2,2,1.0,3.0,69.0,0.0,0
-FL-10816,Ingrid Lund,Alignment Research,Research,8,2022-09-06,4,1,4,3.0,2.0,45.0,16.7,1
-FL-10071,Wei Okafor,Safety Evaluations,Research,7,2024-09-15,5,2,4,3.0,3.0,50.0,14.6,1
-FL-10429,Maria Costa,Policy & Governance,Policy,11,2024-02-05,2,2,2,3.0,4.0,43.0,22.9,1
-FL-10412,James Ferreira,Safety Evaluations,Research,6,2024-09-05,3,4,4,4.0,3.0,35.0,12.5,0
-FL-10082,Kwame Mbeki,Infrastructure,Engineering,16,2026-01-12,3,1,3,3.0,3.0,57.0,33.3,0
-FL-10795,Ava Novak,ALIGNMENT RESEARCH,Research,27,2021-12-22,2,2,2,3.0,4.0,63.0,56.2,1
-FL-10810,Lucas Lund,Safety Evaluations,Research,9,2026-04-13,2,3,5,2.0,3.0,65.0,18.8,0
-FL-10723,Mia Ferreira,Interpretability,Research,1,2022-05-02,2,1,3,4.0,4.0,72.0,0.0,0
-FL-10015,Tariq Okafor,SAFETY EVALUATIONS,Research,10,2026-02-25,2,3,3,,,,20.8,0
-FL-10801,Liam Osei,Safety Evaluations,Research,14,2021-02-16,3,2,4,2.0,2.0,35.0,29.2,1
-FL-10645,Carlos Garcia,Interpretability,Research,5,2026-01-17,3,3,4,4.0,3.0,44.0,0.0,0
-FL-10529,Mei Hansen,Interpretability,Research,28,2024-01-31,2,3,4,3.0,3.0,61.0,58.3,0
-FL-10668,Liam Costa,Applied Research,Research,14,2026-05-15,1,3,4,3.0,4.0,61.0,29.2,0
-FL-10406,Viktor Lund,Interpretability,Research,2,2025-02-07,4,4,2,3.0,3.0,45.0,0.0,0
-FL-10451,Nadia Abara,Interpretability,Research,23,2021-10-29,3,2,3,1.0,3.0,35.0,47.9,0
-FL-10255,Hassan Chen,Policy & Governance,Policy,5,2023-02-22,1,4,2,3.0,4.0,66.0,0.0,0
-FL-10478,Elena Silva,INFRASTRUCTURE,Engineering,2,2024-06-19,2,1,4,2.0,4.0,52.0,0.0,1
-FL-10135,Liam Rahman,SAFETY EVALUATIONS,Research,1,2021-06-13,2,5,3,4.0,2.0,47.0,0.0,0
-FL-10702,Maria Hansen,Policy & Governance,Policy,7,2025-04-23,1,3,4,3.0,3.0,36.0,14.6,0
-FL-10416,Fatima Garcia,Alignment Research,Research,3,2021-07-05,4,4,2,3.0,4.0,65.0,0.0,0
-FL-10029,Kenji Novak,Policy & Governance,Policy,6,2021-08-18,2,2,5,4.0,3.0,55.0,12.5,0
-FL-10181,Nadia Costa,Infrastructure,Engineering,4,2026-07-18,3,3,4,2.0,3.0,36.0,0.0,0
-FL-10227,David Petrov,Interpretability,Research,3,2022-04-14,2,5,3,2.0,3.0,56.0,0.0,0
-FL-10404,Mei Johansson,Interpretability,Research,7,2022-07-31,3,3,3,2.0,3.0,54.0,14.6,0
-FL-10364,Carlos Johansson,INTERPRETABILITY,Research,13,2023-08-20,2,3,4,2.0,3.0,66.0,27.1,1
-FL-10814,Wei Osei,Interpretability,Research,4,2022-04-05,4,3,3,3.0,4.0,48.0,0.0,1
-FL-10459,Lucas Novak,Interpretability,Research,16,2026-02-01,4,3,3,1.0,2.0,61.0,33.3,1
-FL-10104,Carlos Johansson,INFRASTRUCTURE,Engineering,27,2025-09-14,1,3,3,2.0,5.0,59.0,56.2,0
-FL-10468,Kenji Patel,Applied Research,Research,1,2025-08-10,3,4,3,3.0,3.0,59.0,0.0,0
-FL-10321,Kenji Costa,Policy & Governance,Policy,49,2021-05-31,2,5,4,3.0,3.0,54.0,100.0,0
-FL-10268,Fatima Lund,Interpretability,Research,1,2023-01-29,4,4,2,3.0,3.0,40.0,0.0,0
-FL-10501,Elena Garcia,Policy & Governance,Policy,5,2025-04-07,4,5,3,3.0,5.0,50.0,0.0,0
-FL-10752,Amara Nakamura,Safety Evaluations,Research,15,2026-02-26,5,4,3,3.0,4.0,43.0,31.2,0
-FL-10666,Mei Lund,Policy & Governance,Policy,18,2022-06-16,2,3,3,3.0,3.0,60.0,37.5,1
-FL-10392,Zoe Mbeki,Alignment Research,Research,1,2023-10-24,4,3,2,2.0,4.0,35.0,0.0,0
-FL-10557,James Rahman,Safety Evaluations,Research,14,2024-06-19,3,4,3,2.0,3.0,66.0,29.2,0
-FL-10555,Mia Garcia,Infrastructure,Engineering,3,2022-01-18,3,2,4,3.0,1.0,46.0,0.0,1
-FL-10241,Viktor Lindqvist,Interpretability,Research,5,2026-07-01,3,2,3,4.0,4.0,49.0,0.0,1
-FL-10430,Kwame Patel,Applied Research,Research,6,2026-02-06,2,3,4,3.0,2.0,53.0,12.5,1
-FL-10589,Tariq Garcia,INTERPRETABILITY,Research,12,2022-07-18,3,2,5,2.0,4.0,67.0,25.0,0
-FL-10669,Ava Lindqvist,Alignment Research,Research,8,2025-08-05,3,4,4,4.0,3.0,56.0,16.7,1
-FL-10203,Mia Lindqvist,APPLIED RESEARCH,Research,11,2025-05-15,2,4,2,3.0,2.0,50.0,22.9,0
-FL-10452,Aisha Johansson,Policy & Governance,Policy,27,2024-08-12,3,2,4,4.0,2.0,64.0,56.2,0
-FL-10777,Zoe Mbeki,Interpretability,Research,3,2024-03-22,2,4,3,3.0,2.0,69.0,0.0,0
-FL-10083,David Lindqvist,Infrastructure,Engineering,22,2023-01-22,1,5,4,3.0,4.0,38.0,45.8,0
-FL-10118,Carlos Weiss,Alignment Research,Research,1,2021-02-02,4,2,4,2.0,3.0,69.0,0.0,0
-FL-10096,Ethan Novak,Policy & Governance,Policy,10,2021-08-23,2,3,4,5.0,3.0,54.0,20.8,1
-FL-10467,Ingrid Lund,Infrastructure,Engineering,4,2024-09-12,3,2,5,3.0,3.0,58.0,0.0,0
-FL-10536,Mei Osei,Safety Evaluations,Research,24,2023-02-11,2,4,4,4.0,4.0,73.0,50.0,0
-FL-10492,Sofia Mbeki,INFRASTRUCTURE,Engineering,27,2022-04-12,4,3,3,3.0,4.0,35.0,56.2,0
-FL-10166,Hassan Garcia,Safety Evaluations,Research,20,2023-02-25,3,2,1,4.0,4.0,49.0,41.7,0
-FL-10563,Kenji Novak,Safety Evaluations,Research,15,2022-06-21,3,4,2,3.0,4.0,44.0,31.2,0
-FL-10189,Grace Abara,Interpretability,Research,8,2026-08-30,3,3,1,3.0,2.0,43.0,16.7,0
-FL-10790,Elena Abara,ALIGNMENT RESEARCH,Research,8,2023-11-20,3,3,2,4.0,2.0,56.0,16.7,0
-FL-10725,Noah Novak,Safety Evaluations,Research,3,2025-02-06,4,1,5,5.0,1.0,47.0,0.0,0
-FL-10092,Priya Silva,INTERPRETABILITY,Research,4,2026-02-07,3,5,3,3.0,3.0,62.0,0.0,0
-FL-10366,Ethan Johansson,SAFETY EVALUATIONS,Research,25,2025-11-13,3,2,5,5.0,3.0,61.0,52.1,0
-FL-10315,Elena Osei,Infrastructure,Engineering,15,2025-11-21,2,5,4,3.0,4.0,56.0,31.2,0
-FL-10361,Carlos Costa,Applied Research,Research,1,2021-11-25,4,2,4,3.0,2.0,40.0,0.0,1
-FL-10138,Noah Lund,Safety Evaluations,Research,8,2025-07-23,4,5,3,4.0,3.0,51.0,16.7,0
-FL-10276,Zoe Petrov,Infrastructure,Engineering,14,2022-02-25,3,2,3,3.0,4.0,58.0,29.2,0
-FL-10384,Priya Petrov,Safety Evaluations,Research,4,2022-03-13,4,2,3,4.0,4.0,54.0,0.0,0
-FL-10696,Amara Novak,Alignment Research,Research,13,2024-11-15,2,2,4,4.0,3.0,62.0,27.1,1
-FL-10088,Wei Kowalski,INTERPRETABILITY,Research,3,2022-11-13,3,3,5,2.0,4.0,50.0,0.0,0
-FL-10698,Ava Lund,Infrastructure,Engineering,8,2022-03-11,2,4,5,3.0,4.0,63.0,16.7,0
-FL-10280,Sofia Petrov,Applied Research,Research,9,2022-04-13,1,5,4,4.0,3.0,59.0,18.8,0
-FL-10460,Priya Lindqvist,Infrastructure,Engineering,4,2022-01-25,4,3,4,2.0,4.0,53.0,0.0,0
-FL-10548,Amara Patel,Safety Evaluations,Research,32,2025-05-03,3,3,4,3.0,5.0,44.0,66.7,0
-FL-10766,Ethan Petrov,INFRASTRUCTURE,Engineering,42,2023-05-27,3,2,2,3.0,4.0,65.0,87.5,0
-FL-10530,Ingrid Okafor,Safety Evaluations,Research,21,2024-12-12,2,1,2,2.0,5.0,53.0,43.8,0
-FL-10202,Lucas Okafor,Safety Evaluations,Research,10,2023-04-28,4,4,2,2.0,3.0,46.0,20.8,0
-FL-10402,Leo Petrov,Alignment Research,Research,10,2024-04-23,3,3,2,2.0,2.0,37.0,20.8,0
-FL-10340,Priya Mbeki,Policy & Governance,Policy,12,2022-07-14,3,5,2,2.0,3.0,58.0,25.0,0
-FL-10365,Zoe Hansen,Safety Evaluations,Research,2,2023-07-21,2,3,3,2.0,3.0,54.0,0.0,0
-FL-10023,Zoe Rahman,Alignment Research,Research,8,2022-10-29,3,1,4,3.0,3.0,43.0,16.7,0
-FL-10345,Ethan Hansen,Policy & Governance,Policy,12,2026-06-29,2,4,2,1.0,4.0,45.0,25.0,0
-FL-10820,Tariq Okafor,Safety Evaluations,Research,20,2026-02-01,2,2,4,,,,41.7,0
-FL-10334,Hassan Chen,Interpretability,Research,7,2025-07-30,2,3,5,3.0,3.0,56.0,14.6,0
-FL-10310,Carlos Silva,Applied Research,Research,30,2021-04-16,1,4,4,4.0,3.0,49.0,62.5,0
-FL-10794,Carlos Costa,Alignment Research,Research,17,2025-10-18,3,2,3,3.0,2.0,41.0,35.4,1
-FL-10353,Priya Garcia,APPLIED RESEARCH,Research,1,2026-07-22,4,3,3,4.0,4.0,63.0,0.0,0
-FL-10838,Mia Chen,Alignment Research,Research,52,2021-04-04,2,3,5,3.0,3.0,56.0,100.0,1
-FL-10240,Ava Novak,Infrastructure,Engineering,14,2021-02-21,1,3,3,3.0,4.0,47.0,29.2,0
-FL-10318,Amara Novak,Interpretability,Research,13,2022-03-05,4,1,4,3.0,3.0,63.0,27.1,0
-FL-10652,Leo Lund,Safety Evaluations,Research,17,2022-04-28,2,2,4,2.0,3.0,60.0,35.4,0
-FL-10262,Kenji Osei,Infrastructure,Engineering,8,2025-02-20,1,4,3,5.0,5.0,45.0,16.7,0
-FL-10098,Ava Weiss,Alignment Research,Research,28,2022-10-07,3,4,5,3.0,3.0,68.0,58.3,0
-FL-10656,Fatima Garcia,Applied Research,Research,5,2021-10-31,1,3,3,,,,0.0,0
-FL-10663,Kwame Garcia,Safety Evaluations,Research,10,2023-08-28,1,4,2,5.0,2.0,44.0,20.8,0
-FL-10764,Maria Hansen,Alignment Research,Research,4,2021-11-20,4,3,4,2.0,3.0,58.0,0.0,0
-FL-10089,Lucas Petrov,Alignment Research,Research,60,2026-05-26,4,4,5,1.0,3.0,47.0,100.0,1
-FL-10515,Viktor Hansen,Alignment Research,Research,1,2024-10-22,2,3,5,2.0,3.0,44.0,0.0,0
-FL-10331,Aisha Petrov,Infrastructure,Engineering,5,2022-05-13,2,3,3,3.0,3.0,36.0,0.0,0
-FL-10787,Aisha Garcia,Alignment Research,Research,4,2026-08-28,3,5,4,4.0,4.0,64.0,0.0,0
-FL-10433,David Osei,Infrastructure,Engineering,7,2023-04-21,2,3,3,3.0,3.0,52.0,14.6,1
-FL-10807,Noah Ferreira,Safety Evaluations,Research,3,2023-06-24,4,4,4,3.0,3.0,55.0,0.0,0
-FL-10673,David Lund,INFRASTRUCTURE,Engineering,6,2023-01-16,3,2,4,3.0,3.0,49.0,12.5,0
-FL-10486,Liam Novak,Infrastructure,Engineering,3,2021-12-14,1,5,3,3.0,4.0,46.0,0.0,0
-FL-10565,Elena Nakamura,Interpretability,Research,2,2022-11-10,3,4,3,,,,0.0,0
-FL-10736,Omar Chen,Safety Evaluations,Research,7,2025-02-17,3,4,4,2.0,2.0,75.0,14.6,1
-FL-10493,Noah Lindqvist,Safety Evaluations,Research,18,2022-03-31,3,4,3,2.0,4.0,57.0,37.5,0
-FL-10260,Liam Kowalski,Applied Research,Research,25,2025-07-15,3,4,3,4.0,4.0,40.0,52.1,0
-FL-10305,Mei Patel,Alignment Research,Research,9,2026-04-04,1,5,2,4.0,3.0,46.0,18.8,0
-FL-10196,Yuki Silva,Policy & Governance,Policy,26,2024-10-07,2,5,2,4.0,4.0,45.0,54.2,0
-FL-10140,Viktor Nakamura,Policy & Governance,Policy,24,2022-12-27,2,4,5,4.0,3.0,40.0,50.0,0
-FL-10122,Ethan Lund,Infrastructure,Engineering,8,2022-09-29,2,3,3,3.0,2.0,39.0,16.7,0
-FL-10494,Liam Osei,Safety Evaluations,Research,4,2026-06-17,4,4,3,1.0,4.0,41.0,0.0,0
-FL-10110,Amara Johansson,Infrastructure,Engineering,7,2021-02-08,1,1,4,4.0,5.0,47.0,14.6,0
-FL-10084,Sofia Abara,Applied Research,Research,1,2023-10-21,3,3,4,2.0,2.0,61.0,0.0,0
-FL-10591,Nadia Garcia,Safety Evaluations,Research,9,2026-04-06,4,3,3,3.0,3.0,70.0,18.8,0
-FL-10513,Lucas Osei,Infrastructure,Engineering,3,2025-06-29,1,3,4,2.0,4.0,51.0,0.0,0
-FL-10482,David Chen,Alignment Research,Research,36,2022-01-11,3,4,4,5.0,4.0,62.0,75.0,0
-FL-10687,Zoe Mbeki,Interpretability,Research,15,2025-09-03,2,2,3,3.0,3.0,49.0,31.2,0
-FL-10074,Hassan Garcia,Alignment Research,Research,1,2026-04-21,4,2,4,3.0,3.0,61.0,0.0,0
-FL-10841,Yuki Abara,Policy & Governance,Policy,20,2024-11-18,2,4,4,3.0,3.0,52.0,41.7,0
-FL-10648,Ava Rahman,Alignment Research,Research,7,2025-06-19,3,4,2,3.0,4.0,45.0,14.6,0
-FL-10273,Liam Chen,Infrastructure,Engineering,25,2022-06-03,4,1,3,3.0,5.0,55.0,52.1,0
-FL-10396,Ingrid Rahman,Safety Evaluations,Research,1,2022-06-23,1,3,5,2.0,3.0,54.0,0.0,0
-FL-10154,Elena Osei,Alignment Research,Research,11,2023-12-24,4,2,3,4.0,5.0,52.0,22.9,0
-FL-10191,Aisha Nakamura,Policy & Governance,Policy,1,2026-04-29,3,3,1,3.0,4.0,48.0,0.0,0
-FL-10808,Yuki Garcia,Infrastructure,Engineering,2,2026-05-13,2,3,5,2.0,2.0,42.0,0.0,1
-FL-10187,Leo Patel,Policy & Governance,Policy,31,2026-02-13,1,5,2,4.0,5.0,42.0,64.6,0
-FL-10050,Ava Nakamura,Policy & Governance,Policy,6,2022-03-12,4,3,4,3.0,5.0,62.0,12.5,0
-FL-10038,Aisha Osei,Interpretability,Research,28,2025-06-24,3,3,3,2.0,3.0,56.0,58.3,1
-FL-10418,Fatima Patel,Infrastructure,Engineering,5,2023-08-20,3,4,3,2.0,4.0,44.0,0.0,1
-FL-10774,Kenji Garcia,Applied Research,Research,36,2021-01-22,3,3,5,2.0,2.0,51.0,75.0,0
-FL-10208,Hassan Lund,Alignment Research,Research,1,2023-06-23,3,4,4,1.0,4.0,53.0,0.0,0
-FL-10375,Omar Osei,Infrastructure,Engineering,11,2022-08-10,4,4,4,3.0,5.0,48.0,22.9,0
-FL-10463,David Petrov,Infrastructure,Engineering,23,2021-10-02,3,3,4,,,,47.9,0
-FL-10470,Liam Ferreira,Alignment Research,Research,50,2024-07-03,3,1,5,2.0,5.0,60.0,100.0,1
-FL-10517,Wei Weiss,Safety Evaluations,Research,13,2022-04-13,4,3,4,2.0,3.0,45.0,27.1,0
-FL-10075,Yuki Petrov,Interpretability,Research,13,2025-07-26,2,4,1,1.0,3.0,60.0,27.1,0
-FL-10248,Sofia Abara,Alignment Research,Research,9,2023-09-26,4,4,4,2.0,1.0,61.0,18.8,0
-FL-10559,Grace Petrov,Interpretability,Research,2,2023-02-26,2,4,2,1.0,3.0,56.0,0.0,0
-FL-10302,Mia Garcia,Policy & Governance,Policy,2,2021-10-20,4,3,3,3.0,4.0,53.0,0.0,0
-FL-10582,Leo Kowalski,Applied Research,Research,1,2026-01-22,2,5,3,3.0,3.0,61.0,0.0,0
-FL-10655,Nadia Petrov,APPLIED RESEARCH,Research,33,2023-03-31,1,1,4,2.0,2.0,48.0,68.8,0
-FL-10837,Ava Garcia,Policy & Governance,Policy,9,2023-07-02,3,3,5,5.0,4.0,54.0,18.8,0
-FL-10011,Sofia Garcia,Interpretability,Research,10,2023-06-01,2,2,5,3.0,2.0,42.0,20.8,1
-FL-10485,Amara Nakamura,Alignment Research,Research,4,2025-02-24,4,3,4,2.0,4.0,65.0,0.0,0
-FL-10462,Kenji Silva,Interpretability,Research,9,2025-03-14,2,2,1,3.0,3.0,36.0,18.8,1
-FL-10776,Zoe Petrov,SAFETY EVALUATIONS,Research,34,2026-05-10,1,2,3,2.0,3.0,48.0,70.8,0
-FL-10281,Mia Johansson,Policy & Governance,Policy,5,2025-06-30,3,2,3,2.0,4.0,38.0,0.0,0
-FL-10253,Tariq Silva,Interpretability,Research,7,2024-10-26,4,2,3,1.0,3.0,60.0,14.6,0
-FL-10775,Hassan Nakamura,Interpretability,Research,1,2025-07-25,4,3,2,2.0,5.0,61.0,0.0,0
-FL-10636,Mei Okafor,Applied Research,Research,17,2024-12-15,1,5,5,,,,35.4,0
-FL-10806,Nadia Patel,Infrastructure,Engineering,7,2024-04-23,2,2,1,3.0,3.0,39.0,14.6,0
-FL-10577,Zoe Petrov,Safety Evaluations,Research,8,2025-03-01,2,3,1,2.0,3.0,40.0,16.7,1
-FL-10219,Amara Novak,Infrastructure,Engineering,1,2025-04-02,2,4,3,3.0,3.0,42.0,0.0,1
-FL-10425,Maria Rahman,Safety Evaluations,Research,1,2023-06-09,4,2,3,5.0,3.0,53.0,0.0,1
-FL-10369,Maria Novak,Applied Research,Research,12,2021-08-18,2,2,5,2.0,3.0,57.0,25.0,0
-FL-10615,Zoe Nakamura,Safety Evaluations,Research,6,2022-07-07,3,4,2,4.0,3.0,66.0,12.5,0
-FL-10069,Ingrid Kowalski,INFRASTRUCTURE,Engineering,2,2021-01-30,3,2,3,3.0,3.0,45.0,0.0,0
-FL-10819,Wei Weiss,ALIGNMENT RESEARCH,Research,5,2025-12-30,5,2,4,4.0,4.0,50.0,0.0,1
-FL-10580,Sofia Abara,Infrastructure,Engineering,14,2022-08-27,2,3,2,3.0,3.0,57.0,29.2,0
-FL-10021,Wei Kowalski,Infrastructure,Engineering,16,2022-02-18,1,2,5,4.0,3.0,54.0,33.3,0
-FL-10077,Kenji Lindqvist,Interpretability,Research,1,2024-12-22,4,1,4,5.0,4.0,47.0,0.0,1
-FL-10547,Tariq Novak,Interpretability,Research,26,2021-09-27,4,3,3,4.0,3.0,48.0,54.2,0
-FL-10307,Sofia Weiss,Alignment Research,Research,18,2026-07-16,3,3,3,2.0,3.0,62.0,37.5,0
-FL-10832,Noah Costa,Infrastructure,Engineering,1,2026-01-12,3,4,3,3.0,4.0,62.0,0.0,0
-FL-10125,Kenji Silva,Infrastructure,Engineering,43,2026-06-25,3,3,4,3.0,4.0,51.0,89.6,0
-FL-10228,Ingrid Mbeki,Interpretability,Research,3,2026-03-20,3,3,5,4.0,2.0,54.0,0.0,0
-FL-10042,David Nakamura,Infrastructure,Engineering,8,2025-09-26,1,2,3,3.0,3.0,57.0,16.7,0
-FL-10516,Yuki Novak,Safety Evaluations,Research,1,2022-11-20,4,3,5,4.0,1.0,47.0,0.0,0
-FL-10572,Noah Osei,Applied Research,Research,47,2025-12-10,3,2,3,2.0,2.0,67.0,97.9,0
-FL-10576,Viktor Silva,Alignment Research,Research,2,2021-08-02,2,4,3,4.0,3.0,35.0,0.0,0
-FL-10705,Leo Osei,Safety Evaluations,Research,2,2024-07-04,3,5,4,3.0,2.0,44.0,0.0,1
-FL-10621,Sofia Okafor,Alignment Research,Research,15,2023-02-22,5,1,5,1.0,3.0,51.0,31.2,1
-FL-10374,Carlos Costa,Alignment Research,Research,8,2023-09-14,5,5,4,2.0,3.0,50.0,16.7,1
-FL-10205,Viktor Osei,Applied Research,Research,33,2025-04-08,1,3,5,3.0,4.0,46.0,68.8,0
-FL-10559,Grace Petrov,Interpretability,Research,2,2023-02-26,2,4,2,1.0,3.0,56.0,0.0,0
-FL-10006,Yuki Weiss,Applied Research,Research,13,2021-04-19,2,3,2,2.0,4.0,64.0,27.1,0
-FL-10493,Noah Lindqvist,Safety Evaluations,Research,18,2022-03-31,3,4,3,2.0,4.0,57.0,37.5,0
-FL-10829,Leo Petrov,Policy & Governance,Policy,5,2021-05-10,3,3,3,4.0,3.0,57.0,0.0,1
-FL-10678,Leo Kowalski,Safety Evaluations,Research,33,2024-11-18,5,2,3,3.0,4.0,63.0,68.8,0
-FL-10653,Sofia Silva,Alignment Research,Research,40,2026-01-02,3,1,3,4.0,5.0,48.0,83.3,0
-FL-10259,Mei Chen,Alignment Research,Research,3,2022-01-17,3,2,3,5.0,3.0,66.0,0.0,1
-FL-10282,Omar Johansson,Infrastructure,Engineering,21,2021-08-08,2,4,4,2.0,2.0,35.0,43.8,1
-FL-10590,Maria Hansen,Infrastructure,Engineering,7,2026-04-20,1,4,3,4.0,3.0,38.0,14.6,0
-FL-10780,Hassan Okafor,Infrastructure,Engineering,18,2022-12-19,3,4,2,3.0,5.0,58.0,37.5,0
-FL-10298,Wei Kowalski,Infrastructure,Engineering,27,2023-12-20,3,1,3,4.0,3.0,39.0,56.2,0
-FL-10455,Priya Ferreira,Safety Evaluations,Research,8,2024-04-22,2,3,3,4.0,2.0,58.0,16.7,1
-FL-10320,Lucas Petrov,Infrastructure,Engineering,6,2024-03-26,1,3,4,3.0,3.0,52.0,12.5,0
-FL-10434,Wei Lund,Safety Evaluations,Research,34,2023-04-29,4,3,2,4.0,3.0,53.0,70.8,0
-FL-10299,Tariq Osei,Infrastructure,Engineering,6,2023-03-22,4,3,4,2.0,1.0,47.0,12.5,1
-FL-10436,Amara Garcia,POLICY & GOVERNANCE,Policy,17,2021-01-12,2,3,3,4.0,3.0,54.0,35.4,0
-FL-10716,David Silva,Applied Research,Research,1,2025-02-07,1,5,5,2.0,3.0,45.0,0.0,0
-FL-10438,Hassan Silva,Safety Evaluations,Research,1,2022-12-16,4,3,4,2.0,2.0,68.0,0.0,0
-FL-10325,Kenji Lund,Safety Evaluations,Research,15,2026-03-08,5,5,3,3.0,4.0,53.0,31.2,0
-FL-10403,Ethan Novak,Alignment Research,Research,5,2022-04-17,3,5,3,4.0,5.0,53.0,0.0,0
-FL-10265,Noah Abara,Interpretability,Research,10,2024-01-15,3,1,4,4.0,3.0,45.0,20.8,0
-FL-10564,Carlos Costa,Interpretability,Research,4,2022-09-24,3,4,3,3.0,3.0,49.0,0.0,0
-FL-10602,Nadia Garcia,Interpretability,Research,7,2024-04-08,4,4,2,,,,14.6,0
-FL-10719,Ingrid Lund,Interpretability,Research,8,2023-03-09,2,4,3,3.0,5.0,60.0,16.7,1
-FL-10278,Omar Petrov,Alignment Research,Research,3,2025-12-10,3,4,4,3.0,5.0,61.0,0.0,0
-FL-10671,David Novak,Interpretability,Research,16,2021-10-31,4,5,3,4.0,2.0,50.0,33.3,0
-FL-10553,Carlos Johansson,Interpretability,Research,6,2024-06-22,3,4,4,2.0,3.0,54.0,12.5,0
-FL-10762,Aisha Costa,Interpretability,Research,19,2024-11-14,2,3,4,3.0,4.0,39.0,39.6,0
-FL-10785,Leo Novak,Applied Research,Research,5,2024-03-11,2,5,3,4.0,3.0,55.0,0.0,0
-FL-10231,Grace Nakamura,Safety Evaluations,Research,11,2024-06-28,3,2,3,3.0,2.0,56.0,22.9,1
-FL-10245,Carlos Lund,Infrastructure,Engineering,18,2026-06-04,4,3,4,2.0,4.0,40.0,37.5,0
-FL-10167,Lucas Costa,ALIGNMENT RESEARCH,Research,7,2022-12-14,4,4,2,2.0,4.0,40.0,14.6,0
-FL-10502,Hassan Kowalski,Safety Evaluations,Research,31,2026-08-12,3,4,4,3.0,3.0,51.0,64.6,0
-FL-10332,James Ferreira,Interpretability,Research,32,2023-09-08,4,1,3,2.0,4.0,56.0,66.7,0
-FL-10426,Mei Abara,Alignment Research,Research,1,2023-08-26,3,2,3,4.0,3.0,51.0,0.0,1
-FL-10541,Zoe Nakamura,POLICY & GOVERNANCE,Policy,11,2021-06-10,3,1,4,3.0,3.0,56.0,22.9,1
-FL-10162,Kenji Novak,Infrastructure,Engineering,6,2024-07-09,4,5,3,2.0,3.0,36.0,12.5,0
-FL-10149,Priya Novak,Infrastructure,Engineering,15,2024-02-16,1,3,3,3.0,3.0,44.0,31.2,1
-FL-10226,Carlos Garcia,Interpretability,Research,6,2023-09-05,3,3,4,3.0,3.0,65.0,12.5,1
-FL-10094,David Mbeki,Infrastructure,Engineering,25,2024-04-30,3,4,5,4.0,3.0,53.0,52.1,1
-FL-10221,Mia Johansson,Alignment Research,Research,20,2026-04-11,2,4,3,3.0,4.0,48.0,41.7,0
-FL-10597,Liam Patel,Interpretability,Research,5,2021-07-15,1,3,4,5.0,3.0,51.0,0.0,0
-FL-10473,Viktor Patel,Infrastructure,Engineering,8,2024-12-05,3,4,1,3.0,3.0,40.0,16.7,0
-FL-10752,Amara Nakamura,Safety Evaluations,Research,15,2026-02-26,5,4,3,3.0,4.0,43.0,31.2,0
-FL-10601,Zoe Weiss,Applied Research,Research,6,2023-09-18,1,3,4,3.0,3.0,45.0,12.5,0
-FL-10771,Zoe Kowalski,INFRASTRUCTURE,Engineering,16,2021-08-04,1,4,4,3.0,4.0,54.0,33.3,0
-FL-10034,Aisha Abara,Infrastructure,Engineering,19,2022-08-09,3,4,3,2.0,3.0,45.0,39.6,0
-FL-10217,Maria Silva,Alignment Research,Research,3,2025-04-02,3,2,5,3.0,3.0,58.0,0.0,0
-FL-10072,Wei Weiss,POLICY & GOVERNANCE,Policy,7,2023-09-02,3,4,4,2.0,3.0,56.0,14.6,0
-FL-10220,Sofia Lindqvist,INFRASTRUCTURE,Engineering,14,2023-10-31,2,3,3,4.0,2.0,35.0,29.2,0
-FL-10213,Leo Garcia,Interpretability,Research,22,2021-04-21,2,3,4,,,,45.8,0
-FL-10759,Amara Petrov,Safety Evaluations,Research,23,2024-11-29,1,2,3,4.0,2.0,45.0,47.9,0
-FL-10394,Aisha Okafor,Infrastructure,Engineering,14,2024-06-19,1,1,4,2.0,1.0,53.0,29.2,1
-FL-10848,Yuki Okafor,Infrastructure,Engineering,6,2025-07-06,4,4,3,2.0,3.0,54.0,12.5,0
-FL-10367,Fatima Patel,Alignment Research,Research,40,2025-12-23,2,3,4,1.0,3.0,54.0,83.3,1
-FL-10012,Grace Novak,Policy & Governance,Policy,9,2022-02-23,2,3,3,2.0,4.0,58.0,18.8,0
-FL-10748,Ava Ferreira,Safety Evaluations,Research,1,2026-04-16,4,4,4,2.0,2.0,54.0,0.0,0
-FL-10343,Leo Weiss,Safety Evaluations,Research,1,2023-12-31,4,3,3,4.0,3.0,42.0,0.0,0
-FL-10198,David Garcia,Interpretability,Research,2,2023-08-06,2,3,3,4.0,5.0,64.0,0.0,0
-FL-10234,Priya Mbeki,Safety Evaluations,Research,1,2021-11-08,2,4,4,3.0,3.0,54.0,0.0,0
-FL-10420,Priya Abara,APPLIED RESEARCH,Research,10,2025-02-28,2,3,4,1.0,5.0,63.0,20.8,0
-FL-10732,Amara Ferreira,Interpretability,Research,4,2024-07-28,4,2,3,1.0,3.0,51.0,0.0,1
-FL-10608,Zoe Costa,Alignment Research,Research,23,2025-03-10,4,3,4,1.0,3.0,67.0,47.9,0
-FL-10692,Mei Johansson,INTERPRETABILITY,Research,55,2021-09-03,4,4,2,4.0,5.0,59.0,100.0,0
-FL-10297,Liam Hansen,SAFETY EVALUATIONS,Research,1,2026-02-03,2,1,3,2.0,1.0,56.0,0.0,1
-FL-10063,Nadia Hansen,Applied Research,Research,5,2025-06-23,2,5,3,3.0,3.0,60.0,0.0,0
-FL-10607,Priya Petrov,Applied Research,Research,15,2021-06-28,1,5,3,1.0,4.0,53.0,31.2,0
-FL-10013,Wei Costa,Policy & Governance,Policy,14,2022-02-01,1,2,3,3.0,4.0,67.0,29.2,1
-FL-10435,Ingrid Mbeki,Applied Research,Research,3,2023-08-13,1,4,4,3.0,3.0,43.0,0.0,0
-FL-10017,Wei Lund,Interpretability,Research,5,2024-04-15,4,4,5,3.0,4.0,44.0,0.0,0
-FL-10773,Nadia Petrov,Applied Research,Research,1,2022-02-16,4,3,3,3.0,1.0,59.0,0.0,1
-FL-10348,Amara Lund,Applied Research,Research,60,2025-03-26,4,3,2,2.0,5.0,43.0,100.0,0
-FL-10207,Liam Costa,Safety Evaluations,Research,10,2025-09-13,3,5,3,4.0,3.0,55.0,20.8,0
-FL-10090,Kwame Costa,Infrastructure,Engineering,6,2021-08-29,4,2,3,3.0,3.0,57.0,12.5,0
-FL-10307,Sofia Weiss,Alignment Research,Research,18,2026-07-16,3,3,3,2.0,3.0,62.0,37.5,0
-FL-10341,Viktor Johansson,Infrastructure,Engineering,3,2024-02-06,3,4,4,3.0,1.0,50.0,0.0,0
-FL-10380,Wei Abara,APPLIED RESEARCH,Research,1,2024-11-16,5,1,5,4.0,2.0,61.0,0.0,1
-FL-10344,Mia Chen,Interpretability,Research,10,2024-03-04,4,3,4,4.0,4.0,53.0,20.8,0
-FL-10471,Noah Patel,Policy & Governance,Policy,1,2023-05-22,1,4,4,3.0,4.0,44.0,0.0,0
-FL-10708,Aisha Hansen,Infrastructure,Engineering,8,2026-07-31,1,5,3,3.0,4.0,46.0,16.7,0
-FL-10551,Leo Rahman,Interpretability,Research,16,2024-06-24,2,1,4,5.0,1.0,56.0,33.3,1
-FL-10598,Yuki Lindqvist,APPLIED RESEARCH,Research,13,2026-02-16,1,4,3,4.0,3.0,54.0,27.1,0
-FL-10693,Elena Abara,Policy & Governance,Policy,10,2025-08-30,2,3,5,1.0,2.0,60.0,20.8,0
-FL-10032,Kwame Osei,Interpretability,Research,37,2024-07-12,3,4,4,4.0,5.0,52.0,77.1,0
-FL-10823,Hassan Abara,Safety Evaluations,Research,1,2024-06-16,3,3,2,4.0,3.0,42.0,0.0,0
-FL-10657,Mei Nakamura,Infrastructure,Engineering,6,2025-12-29,1,3,4,2.0,3.0,63.0,12.5,0
-FL-10670,Mia Osei,Interpretability,Research,5,2021-10-30,3,2,3,2.0,4.0,62.0,0.0,0
-FL-10172,Mei Abara,Safety Evaluations,Research,9,2025-12-17,3,2,3,4.0,3.0,39.0,18.8,0
-FL-10750,Ava Mbeki,APPLIED RESEARCH,Research,37,2024-08-24,3,3,4,1.0,4.0,47.0,77.1,0
-FL-10751,Kenji Petrov,Interpretability,Research,14,2025-03-24,3,3,4,3.0,4.0,35.0,29.2,1
-FL-10408,Sofia Lund,Alignment Research,Research,16,2022-05-22,3,3,2,4.0,3.0,50.0,33.3,0
-FL-10734,Ingrid Novak,Alignment Research,Research,1,2026-06-30,2,4,3,2.0,3.0,41.0,0.0,1
-FL-10798,Leo Kowalski,Safety Evaluations,Research,7,2021-01-28,5,3,4,3.0,3.0,35.0,14.6,1
-FL-10200,Wei Lindqvist,Safety Evaluations,Research,46,2025-07-28,3,3,3,3.0,3.0,66.0,95.8,1
-FL-10292,Kenji Johansson,Applied Research,Research,30,2022-10-06,3,2,4,2.0,4.0,59.0,62.5,0
-FL-10583,Aisha Rahman,Applied Research,Research,10,2021-04-20,3,4,3,2.0,4.0,64.0,20.8,0
-FL-10819,Wei Weiss,ALIGNMENT RESEARCH,Research,5,2025-12-30,5,2,4,4.0,4.0,50.0,0.0,1
-FL-10510,Tariq Ferreira,Interpretability,Research,22,2026-02-28,1,3,3,,,,45.8,0
-FL-10835,Zoe Rahman,Alignment Research,Research,1,2022-05-01,4,2,4,2.0,2.0,52.0,0.0,0
-FL-10793,Ingrid Mbeki,Infrastructure,Engineering,24,2022-12-20,2,4,2,2.0,2.0,61.0,50.0,0
-FL-10778,Amara Hansen,INFRASTRUCTURE,Engineering,1,2021-08-31,1,2,3,2.0,4.0,35.0,0.0,0
-FL-10842,David Silva,Alignment Research,Research,3,2023-02-12,3,3,3,3.0,5.0,62.0,0.0,0
-FL-10845,Yuki Mbeki,Interpretability,Research,4,2021-10-03,3,3,3,2.0,3.0,63.0,0.0,0
-FL-10489,Kenji Johansson,Safety Evaluations,Research,17,2024-01-20,4,2,4,4.0,2.0,50.0,35.4,0
-FL-10775,Hassan Nakamura,Interpretability,Research,1,2025-07-25,4,3,2,2.0,5.0,61.0,0.0,0
-FL-10770,Yuki Okafor,Interpretability,Research,27,2023-07-14,2,2,4,2.0,3.0,52.0,56.2,0
-FL-10133,Mia Rahman,Safety Evaluations,Research,1,2022-08-30,2,2,4,4.0,3.0,56.0,0.0,1
-FL-10060,David Petrov,Safety Evaluations,Research,23,2022-11-08,1,2,2,3.0,3.0,67.0,47.9,0
-FL-10690,Zoe Hansen,Infrastructure,Engineering,12,2026-06-02,2,2,4,,,,25.0,1
-FL-10026,Carlos Nakamura,Infrastructure,Engineering,4,2023-09-30,4,4,2,3.0,5.0,45.0,0.0,0
-FL-10100,Viktor Nakamura,Safety Evaluations,Research,4,2021-10-08,3,3,3,3.0,2.0,64.0,0.0,0
-FL-10531,Ava Johansson,Interpretability,Research,4,2024-06-25,1,3,4,5.0,4.0,52.0,0.0,0
-FL-10588,Leo Patel,Interpretability,Research,1,2024-10-05,4,2,5,3.0,3.0,74.0,0.0,0
-FL-10789,Tariq Patel,Applied Research,Research,34,2024-09-16,3,3,2,4.0,3.0,45.0,70.8,1
-FL-10520,Ethan Garcia,Alignment Research,Research,49,2023-08-26,3,4,4,4.0,2.0,56.0,100.0,0
-FL-10363,Amara Petrov,Safety Evaluations,Research,24,2021-05-28,4,4,4,1.0,5.0,52.0,50.0,0
-FL-10309,Aisha Lindqvist,Interpretability,Research,5,2024-08-13,4,4,4,4.0,2.0,41.0,0.0,0
-FL-10604,Yuki Osei,Applied Research,Research,2,2025-09-03,2,1,5,3.0,2.0,50.0,0.0,1
-FL-10252,Omar Mbeki,Interpretability,Research,4,2024-12-24,4,3,3,2.0,3.0,43.0,0.0,1
-FL-10544,Noah Rahman,Infrastructure,Engineering,36,2024-03-04,1,3,2,3.0,3.0,74.0,75.0,0
-FL-10481,Ingrid Costa,Interpretability,Research,2,2021-10-13,3,2,3,,,,0.0,1
-FL-10441,Ingrid Novak,Safety Evaluations,Research,1,2021-03-06,3,1,5,3.0,4.0,54.0,0.0,1
-FL-10647,Grace Johansson,Safety Evaluations,Research,1,2022-07-18,3,3,4,3.0,4.0,55.0,0.0,1
-FL-10476,Tariq Lindqvist,Infrastructure,Engineering,27,2021-04-18,2,4,4,4.0,5.0,56.0,56.2,1
-FL-10022,Priya Silva,Safety Evaluations,Research,9,2026-02-01,4,4,4,4.0,3.0,58.0,18.8,0
-FL-10062,Kwame Lund,Policy & Governance,Policy,10,2023-04-04,2,3,3,2.0,4.0,44.0,20.8,0
-FL-10148,Yuki Chen,Alignment Research,Research,10,2023-03-03,4,2,5,3.0,3.0,53.0,20.8,0
-FL-10483,Ethan Weiss,Safety Evaluations,Research,31,2023-06-01,4,4,4,4.0,4.0,42.0,64.6,0
-FL-10727,Carlos Weiss,Alignment Research,Research,9,2025-07-03,3,2,3,3.0,5.0,47.0,18.8,0
-FL-10796,Priya Patel,INFRASTRUCTURE,Engineering,9,2023-01-27,1,3,5,3.0,3.0,54.0,18.8,0
-FL-10257,Omar Lund,Alignment Research,Research,1,2023-09-12,2,2,3,3.0,3.0,37.0,0.0,0
-FL-10052,David Rahman,Policy & Governance,Policy,15,2022-10-24,2,5,3,2.0,5.0,56.0,31.2,0
-FL-10242,Fatima Lindqvist,Interpretability,Research,17,2025-01-23,3,4,4,3.0,3.0,64.0,35.4,1
-FL-10173,Kenji Mbeki,Policy & Governance,Policy,22,2026-04-23,2,4,3,2.0,3.0,60.0,45.8,0
-FL-10035,Sofia Garcia,Alignment Research,Research,2,2023-10-08,3,4,5,3.0,4.0,57.0,0.0,1
-FL-10178,James Okafor,ALIGNMENT RESEARCH,Research,3,2023-09-30,3,2,5,3.0,5.0,65.0,0.0,1
-FL-10679,Ava Hansen,INFRASTRUCTURE,Engineering,9,2021-11-20,1,2,5,4.0,2.0,45.0,18.8,0
-FL-10738,Ingrid Hansen,Infrastructure,Engineering,4,2021-04-20,3,3,4,3.0,5.0,47.0,0.0,0
-FL-10120,Leo Patel,Infrastructure,Engineering,15,2022-07-05,3,2,5,2.0,4.0,45.0,31.2,0
-FL-10275,Hassan Hansen,Infrastructure,Engineering,7,2022-06-02,3,2,3,2.0,2.0,50.0,14.6,0
-FL-10044,Priya Ferreira,Safety Evaluations,Research,26,2026-04-02,5,5,3,4.0,4.0,64.0,54.2,0
-FL-10300,Lucas Patel,Applied Research,Research,2,2023-07-10,4,5,5,3.0,4.0,38.0,0.0,1
-FL-10076,Kwame Patel,Safety Evaluations,Research,1,2022-02-02,4,1,2,4.0,3.0,50.0,0.0,1
-FL-10720,Noah Lund,Safety Evaluations,Research,33,2024-03-28,3,5,1,3.0,5.0,54.0,68.8,0
-FL-10368,Elena Hansen,Safety Evaluations,Research,11,2021-04-29,4,5,3,1.0,3.0,51.0,22.9,0
-FL-10212,Ethan Nakamura,INTERPRETABILITY,Research,1,2026-03-30,1,3,3,2.0,4.0,60.0,0.0,0
-FL-10267,Fatima Mbeki,Infrastructure,Engineering,27,2024-07-16,2,3,5,,,,56.2,0
-FL-10311,Wei Kowalski,INFRASTRUCTURE,Engineering,38,2021-03-26,2,3,2,2.0,4.0,51.0,79.2,0
-FL-10728,Ava Okafor,Interpretability,Research,12,2021-07-05,3,3,3,2.0,5.0,44.0,25.0,0
-FL-10444,Ethan Johansson,APPLIED RESEARCH,Research,1,2026-05-05,3,3,3,2.0,3.0,55.0,0.0,1
-FL-10503,Hassan Rahman,Alignment Research,Research,45,2021-10-23,4,3,3,3.0,4.0,35.0,93.8,1
-FL-10495,Ava Hansen,Applied Research,Research,22,2021-07-06,1,5,3,3.0,5.0,50.0,45.8,0
-FL-10033,Kwame Petrov,ALIGNMENT RESEARCH,Research,33,2025-06-09,3,3,3,5.0,4.0,35.0,68.8,0
-FL-10009,Tariq Chen,Infrastructure,Engineering,14,2022-10-16,2,3,4,4.0,3.0,49.0,29.2,1
-FL-10688,Carlos Chen,Alignment Research,Research,11,2026-08-02,3,1,2,4.0,4.0,43.0,22.9,1
-FL-10160,James Weiss,Alignment Research,Research,5,2023-03-19,4,4,3,4.0,2.0,50.0,0.0,1
-FL-10285,Hassan Lindqvist,Policy & Governance,Policy,3,2023-07-14,4,5,4,4.0,5.0,60.0,0.0,0
-FL-10295,Mei Ferreira,Alignment Research,Research,4,2026-04-09,2,5,2,3.0,4.0,59.0,0.0,0
-FL-10616,Wei Abara,Safety Evaluations,Research,4,2021-06-01,2,1,4,3.0,3.0,51.0,0.0,1
-FL-10625,Aisha Costa,Alignment Research,Research,10,2025-12-07,4,1,3,4.0,4.0,39.0,20.8,1
-FL-10277,Viktor Chen,Policy & Governance,Policy,21,2024-03-10,2,4,4,2.0,3.0,61.0,43.8,0
-FL-10799,Sofia Costa,Alignment Research,Research,11,2023-08-23,2,2,3,4.0,5.0,50.0,22.9,0
-FL-10603,Lucas Chen,Alignment Research,Research,23,2024-12-16,5,2,4,3.0,4.0,52.0,47.9,1
-FL-10484,Priya Lindqvist,Alignment Research,Research,21,2026-02-02,3,4,2,5.0,1.0,46.0,43.8,0
-FL-10496,Yuki Costa,Applied Research,Research,5,2021-08-13,2,4,4,5.0,3.0,43.0,0.0,0
-FL-10182,Priya Kowalski,SAFETY EVALUATIONS,Research,6,2022-08-28,3,3,4,,,,12.5,0
-FL-10836,Elena Lund,Safety Evaluations,Research,15,2025-05-29,2,2,3,2.0,4.0,59.0,31.2,0
-FL-10684,Mia Osei,Safety Evaluations,Research,3,2021-06-18,4,4,2,3.0,2.0,60.0,0.0,1
-FL-10744,Ingrid Patel,POLICY & GOVERNANCE,Policy,6,2023-02-21,2,2,2,2.0,2.0,70.0,12.5,0
-FL-10036,Ethan Lund,Alignment Research,Research,60,2023-12-13,2,2,3,3.0,4.0,65.0,100.0,1
-FL-10156,Noah Novak,Alignment Research,Research,3,2025-11-23,3,2,3,4.0,5.0,55.0,0.0,0
-FL-10002,Yuki Garcia,Safety Evaluations,Research,21,2022-02-24,3,2,3,3.0,2.0,55.0,43.8,0
-FL-10754,Hassan Rahman,Alignment Research,Research,16,2023-12-19,4,3,4,4.0,3.0,46.0,33.3,0
-FL-10508,Liam Patel,Safety Evaluations,Research,2,2025-07-18,4,4,3,2.0,4.0,52.0,0.0,0
-FL-10497,James Mbeki,Infrastructure,Engineering,3,2024-05-19,1,3,2,3.0,4.0,57.0,0.0,0
-FL-10308,Mei Johansson,INFRASTRUCTURE,Engineering,1,2021-06-13,2,4,4,5.0,3.0,58.0,0.0,0
-FL-10289,Liam Osei,Infrastructure,Engineering,8,2021-09-04,4,4,4,4.0,5.0,59.0,16.7,0
-FL-10560,Yuki Garcia,Interpretability,Research,19,2022-09-27,4,2,2,4.0,5.0,75.0,39.6,0
-FL-10414,Zoe Johansson,Safety Evaluations,Research,19,2026-03-17,5,2,4,2.0,2.0,53.0,39.6,1
-FL-10421,Kenji Lund,Applied Research,Research,18,2025-09-13,1,3,4,2.0,4.0,62.0,37.5,0
-FL-10141,Aisha Lindqvist,Alignment Research,Research,1,2021-04-12,3,4,3,1.0,3.0,35.0,0.0,1
-FL-10223,Noah Kowalski,Alignment Research,Research,30,2021-10-09,5,2,2,1.0,3.0,38.0,62.5,1
-FL-10183,Zoe Chen,Infrastructure,Engineering,1,2022-03-13,2,4,3,4.0,3.0,55.0,0.0,0
-FL-10824,Ethan Chen,Infrastructure,Engineering,3,2025-06-10,3,2,5,3.0,4.0,64.0,0.0,1
-FL-10672,Mei Abara,Safety Evaluations,Research,31,2024-11-12,4,3,3,4.0,3.0,39.0,64.6,0
-FL-10511,Mia Rahman,Alignment Research,Research,5,2021-12-27,2,5,5,2.0,1.0,51.0,0.0,0
-FL-10731,David Ferreira,Safety Evaluations,Research,5,2022-07-27,3,2,4,4.0,3.0,45.0,0.0,1
-FL-10611,Yuki Patel,Safety Evaluations,Research,11,2024-09-23,2,3,3,3.0,4.0,40.0,22.9,0
-FL-10747,Nadia Mbeki,Applied Research,Research,18,2025-08-08,4,4,4,5.0,1.0,50.0,37.5,0
-FL-10117,Mia Lund,Alignment Research,Research,60,2024-05-24,1,3,4,3.0,4.0,35.0,100.0,0
-FL-10001,Ethan Silva,Alignment Research,Research,5,2023-10-01,4,1,4,4.0,2.0,48.0,0.0,1
-FL-10113,Ava Silva,Policy & Governance,Policy,2,2022-06-27,1,4,3,4.0,2.0,61.0,0.0,0
-FL-10839,Liam Abara,Applied Research,Research,28,2025-10-04,1,1,4,3.0,5.0,49.0,58.3,0
-FL-10686,Maria Osei,Interpretability,Research,3,2023-12-21,2,2,2,4.0,3.0,53.0,0.0,0
-FL-10765,Noah Abara,Safety Evaluations,Research,12,2023-11-17,5,5,3,3.0,4.0,51.0,25.0,0
-FL-10165,Amara Costa,ALIGNMENT RESEARCH,Research,1,2024-04-26,4,2,3,3.0,3.0,44.0,0.0,0
-FL-10184,Grace Lindqvist,Alignment Research,Research,3,2023-06-16,3,3,4,1.0,2.0,42.0,0.0,0
-FL-10677,Elena Nakamura,Alignment Research,Research,3,2024-08-14,1,3,3,3.0,3.0,70.0,0.0,0
-FL-10372,Ava Lindqvist,Applied Research,Research,1,2023-01-08,2,4,5,1.0,4.0,35.0,0.0,0
-FL-10274,Sofia Okafor,SAFETY EVALUATIONS,Research,1,2021-08-12,4,3,3,3.0,4.0,35.0,0.0,0
-FL-10704,Yuki Nakamura,Safety Evaluations,Research,37,2024-09-03,4,5,2,3.0,1.0,53.0,77.1,0
-FL-10000,Zoe Patel,INTERPRETABILITY,Research,42,2021-04-13,4,5,3,3.0,5.0,58.0,87.5,0
-FL-10566,Ethan Abara,Infrastructure,Engineering,1,2021-06-28,3,1,3,3.0,4.0,62.0,0.0,1
-FL-10540,Nadia Johansson,Applied Research,Research,8,2026-08-29,1,3,4,,,,16.7,0
-FL-10500,James Petrov,Safety Evaluations,Research,3,2025-10-30,3,3,4,4.0,3.0,50.0,0.0,1
-FL-10718,Maria Costa,Safety Evaluations,Research,6,2021-07-29,2,2,2,4.0,3.0,50.0,12.5,0
-FL-10383,Viktor Hansen,Infrastructure,Engineering,11,2023-03-27,2,3,2,2.0,2.0,63.0,22.9,1
-FL-10405,Grace Kowalski,Interpretability,Research,13,2025-06-16,3,3,3,3.0,4.0,40.0,27.1,0
-FL-10561,Wei Hansen,Interpretability,Research,16,2022-02-19,4,4,1,4.0,2.0,54.0,33.3,0
-FL-10020,Maria Kowalski,INFRASTRUCTURE,Engineering,5,2024-03-31,3,2,4,,,,0.0,0
-FL-10805,Kenji Weiss,Alignment Research,Research,40,2024-06-27,1,3,4,1.0,2.0,52.0,83.3,1
-FL-10176,Wei Kowalski,Infrastructure,Engineering,30,2024-06-25,2,3,4,3.0,3.0,63.0,62.5,0
-FL-10335,Wei Kowalski,Safety Evaluations,Research,15,2022-04-10,3,5,3,4.0,2.0,56.0,31.2,0
-FL-10379,Kenji Lund,POLICY & GOVERNANCE,Policy,1,2022-10-10,4,1,3,2.0,2.0,64.0,0.0,1
-FL-10545,Priya Lindqvist,SAFETY EVALUATIONS,Research,7,2024-10-17,2,4,5,2.0,2.0,49.0,14.6,1
-FL-10171,Lucas Osei,SAFETY EVALUATIONS,Research,3,2024-08-12,2,3,4,3.0,3.0,51.0,0.0,0
-FL-10519,Aisha Rahman,Infrastructure,Engineering,10,2024-12-09,2,5,5,3.0,3.0,59.0,20.8,0
-FL-10830,Liam Lindqvist,Safety Evaluations,Research,3,2023-01-08,3,1,3,2.0,3.0,53.0,0.0,0
-FL-10507,Ingrid Costa,Interpretability,Research,21,2025-09-07,3,4,2,4.0,2.0,54.0,43.8,1
-FL-10152,Kenji Lund,Applied Research,Research,3,2024-09-18,1,1,5,,,,0.0,1
-FL-10618,Tariq Mbeki,Safety Evaluations,Research,12,2021-06-21,4,5,4,2.0,1.0,58.0,25.0,0
-FL-10413,Leo Ferreira,APPLIED RESEARCH,Research,13,2023-06-26,3,4,4,3.0,4.0,50.0,27.1,0
-FL-10609,Sofia Chen,Alignment Research,Research,22,2025-01-02,3,3,1,2.0,2.0,52.0,45.8,1
-FL-10622,Liam Rahman,Interpretability,Research,2,2021-07-15,3,3,4,2.0,2.0,35.0,0.0,0
-FL-10581,Mia Lindqvist,Interpretability,Research,23,2022-01-11,2,4,4,3.0,3.0,47.0,47.9,0
-FL-10641,David Ferreira,Alignment Research,Research,8,2025-11-30,2,2,1,2.0,3.0,53.0,16.7,1
-FL-10316,Zoe Petrov,Policy & Governance,Policy,8,2022-01-09,4,4,3,3.0,2.0,52.0,16.7,0
-FL-10258,Nadia Petrov,Infrastructure,Engineering,1,2026-07-04,4,5,2,4.0,3.0,54.0,0.0,0
-FL-10834,Wei Lund,Policy & Governance,Policy,13,2022-06-29,1,3,3,3.0,5.0,49.0,27.1,0
-FL-10662,Ava Kowalski,Interpretability,Research,30,2022-05-13,2,4,4,2.0,4.0,48.0,62.5,0
-FL-10474,Viktor Lund,Alignment Research,Research,1,2025-02-14,4,3,5,3.0,2.0,40.0,0.0,1
-FL-10337,Omar Hansen,Interpretability,Research,15,2024-01-25,3,3,3,4.0,4.0,61.0,31.2,0
-FL-10538,Ava Garcia,Safety Evaluations,Research,27,2021-09-11,4,3,4,3.0,2.0,41.0,56.2,1
-FL-10504,Priya Okafor,Alignment Research,Research,16,2025-11-22,5,3,2,3.0,2.0,56.0,33.3,1
-FL-10398,Ethan Lindqvist,Infrastructure,Engineering,4,2022-12-21,3,3,2,4.0,4.0,47.0,0.0,1
-FL-10423,Zoe Patel,Interpretability,Research,37,2026-06-28,3,3,4,4.0,2.0,51.0,77.1,0
-FL-10605,Elena Johansson,Policy & Governance,Policy,11,2025-01-17,1,3,4,2.0,3.0,57.0,22.9,0
-FL-10660,Aisha Hansen,Policy & Governance,Policy,6,2022-10-08,2,3,3,2.0,4.0,53.0,12.5,0
-FL-10480,James Nakamura,Interpretability,Research,6,2022-08-10,2,4,3,3.0,4.0,54.0,12.5,0
-FL-10422,Ingrid Garcia,Safety Evaluations,Research,10,2025-08-27,3,1,4,2.0,5.0,45.0,20.8,0
-FL-10119,Kenji Lund,Infrastructure,Engineering,40,2024-05-11,3,3,5,4.0,4.0,47.0,83.3,0
-FL-10650,Fatima Chen,Alignment Research,Research,16,2023-02-02,3,2,4,2.0,4.0,48.0,33.3,0
-FL-10681,David Hansen,Alignment Research,Research,7,2022-01-18,4,3,4,2.0,3.0,60.0,14.6,1
-FL-10714,Liam Lund,Safety Evaluations,Research,21,2021-02-03,4,5,5,3.0,1.0,56.0,43.8,0
-FL-10659,Nadia Johansson,Alignment Research,Research,1,2024-04-04,3,1,4,2.0,2.0,52.0,0.0,1
-FL-10789,Tariq Patel,Applied Research,Research,34,2024-09-16,3,3,2,4.0,3.0,45.0,70.8,1
-FL-10256,Wei Kowalski,Safety Evaluations,Research,1,2025-07-23,2,4,4,3.0,4.0,48.0,0.0,0
-FL-10643,Yuki Rahman,Safety Evaluations,Research,6,2025-01-23,3,4,2,4.0,4.0,62.0,12.5,0
-FL-10249,Grace Abara,Applied Research,Research,15,2025-04-02,1,2,4,4.0,5.0,52.0,31.2,0
-FL-10664,Tariq Petrov,Applied Research,Research,4,2021-04-18,2,4,4,4.0,2.0,61.0,0.0,0
-FL-10841,Yuki Abara,Policy & Governance,Policy,20,2024-11-18,2,4,4,3.0,3.0,52.0,41.7,0
+FL-10683,Joseph Allen,Safety Evaluations,Research,7,2024-03-11,4,3,2,1.0,3.0,47.0,14.6,0
+FL-10713,Daniel Huang,Applied Research,Research,8,2025-08-08,1,3,5,2.0,3.0,62.0,16.7,0
+FL-10729,Marie Thompson,POLICY & GOVERNANCE,Policy,8,2026-07-15,3,4,4,2.0,4.0,44.0,16.7,0
+FL-10301,Craig Morrison,Policy & Governance,Policy,2,2025-07-06,1,2,3,3.0,3.0,55.0,0.0,0
+FL-10825,Michael Cooper,Infrastructure,Engineering,4,2022-05-29,3,4,5,1.0,3.0,63.0,0.0,0
+FL-10426,Walter Patton,Alignment Research,Research,1,2025-08-03,3,2,3,4.0,3.0,51.0,0.0,1
+FL-10051,James Brown,INTERPRETABILITY,Research,4,2023-08-21,2,3,3,2.0,3.0,45.0,0.0,0
+FL-10027,Sherri Baker,Alignment Research,Research,9,2024-03-27,4,2,3,1.0,2.0,65.0,18.8,1
+FL-10333,Victoria Murray,Applied Research,Research,1,2023-02-28,2,1,3,4.0,3.0,51.0,0.0,0
+FL-10592,Dennis Huffman,Alignment Research,Research,12,2024-05-14,3,3,3,3.0,2.0,35.0,25.0,0
+FL-10606,Krista Wilson,Infrastructure,Engineering,1,2022-05-03,2,4,3,3.0,3.0,46.0,0.0,0
+FL-10782,Sharon Nicholson,Interpretability,Research,18,2024-04-22,3,2,3,2.0,2.0,64.0,37.5,0
+FL-10346,Dwayne Turner,Infrastructure,Engineering,21,2022-01-03,1,5,5,3.0,3.0,56.0,43.8,0
+FL-10201,Laura Hall,Applied Research,Research,5,2025-08-02,2,3,4,1.0,2.0,56.0,0.0,0
+FL-10065,Michele Carr,Policy & Governance,Policy,1,2026-08-18,1,5,4,,,,0.0,0
+FL-10594,Ryan Williamson,Policy & Governance,Policy,1,2025-10-10,3,5,3,3.0,3.0,55.0,0.0,0
+FL-10108,Joyce Solis,Alignment Research,Research,1,2025-01-20,3,3,3,3.0,4.0,46.0,0.0,0
+FL-10175,Donna Martinez,Safety Evaluations,Research,57,2025-02-27,5,4,5,2.0,3.0,52.0,100.0,0
+FL-10086,William Herrera,Safety Evaluations,Research,21,2026-05-23,4,1,4,4.0,3.0,61.0,43.8,0
+FL-10356,Richard Marshall,Policy & Governance,Policy,8,2025-03-11,2,3,4,3.0,3.0,41.0,16.7,0
+FL-10247,Kimberly Levine,Alignment Research,Research,25,2023-07-16,4,3,4,4.0,2.0,53.0,52.1,0
+FL-10579,Raymond Chapman,Applied Research,Research,13,2024-03-26,2,4,3,5.0,4.0,51.0,27.1,0
+FL-10743,Ryan Phillips,Alignment Research,Research,11,2023-05-05,3,3,5,3.0,4.0,45.0,22.9,0
+FL-10813,Edward York,Policy & Governance,Policy,41,2024-02-02,2,3,3,3.0,1.0,53.0,85.4,0
+FL-10624,Matthew Howard,Interpretability,Research,1,2022-01-31,3,3,4,2.0,5.0,43.0,0.0,0
+FL-10640,Brenda Moreno MD,APPLIED RESEARCH,Research,8,2024-12-20,3,4,5,3.0,3.0,53.0,16.7,1
+FL-10617,Wendy Camacho,Infrastructure,Engineering,58,2022-05-25,2,4,4,5.0,1.0,51.0,100.0,0
+FL-10395,Caroline David,Alignment Research,Research,3,2022-07-13,3,2,3,3.0,4.0,53.0,0.0,0
+FL-10121,Daniel Graham,Infrastructure,Engineering,11,2021-12-01,3,4,4,1.0,2.0,61.0,22.9,0
+FL-10534,Richard Knight,Interpretability,Research,54,2025-12-28,5,4,3,3.0,3.0,47.0,100.0,0
+FL-10362,Jacob Preston,Policy & Governance,Policy,32,2025-06-05,1,3,3,3.0,4.0,55.0,66.7,0
+FL-10585,Megan Martin,Infrastructure,Engineering,25,2026-08-12,1,2,2,2.0,3.0,44.0,52.1,0
+FL-10803,Renee Lang,POLICY & GOVERNANCE,Policy,25,2024-09-21,1,3,3,1.0,4.0,62.0,52.1,0
+FL-10827,Earl Luna,Applied Research,Research,1,2024-09-15,2,4,2,3.0,4.0,46.0,0.0,0
+FL-10048,Jessica Callahan,Alignment Research,Research,1,2024-06-24,3,2,3,2.0,3.0,41.0,0.0,1
+FL-10371,Brenda Lawson,APPLIED RESEARCH,Research,2,2025-08-13,1,2,4,2.0,5.0,62.0,0.0,0
+FL-10769,Shane Buchanan,POLICY & GOVERNANCE,Policy,20,2024-11-02,4,4,3,,,,41.7,0
+FL-10195,Juan Reyes,Alignment Research,Research,10,2026-04-22,4,1,3,5.0,3.0,35.0,20.8,0
+FL-10612,Michael Chen,Alignment Research,Research,9,2022-08-04,5,2,3,2.0,4.0,49.0,18.8,0
+FL-10757,Derrick Brown,Interpretability,Research,10,2025-06-22,3,4,1,1.0,2.0,43.0,20.8,0
+FL-10446,Jason Love,Interpretability,Research,13,2022-04-08,1,4,4,2.0,2.0,43.0,27.1,0
+FL-10329,Carol Kim,Alignment Research,Research,2,2023-10-17,1,5,3,2.0,3.0,41.0,0.0,0
+FL-10085,Tracy Ramirez,Infrastructure,Engineering,5,2024-12-05,3,2,4,2.0,5.0,49.0,0.0,1
+FL-10349,Charles Patterson,Policy & Governance,Policy,1,2024-10-18,3,5,4,4.0,4.0,51.0,0.0,0
+FL-10010,Amber Perez,Interpretability,Research,7,2023-03-13,3,3,3,3.0,2.0,48.0,14.6,0
+FL-10629,Scott Alexander,POLICY & GOVERNANCE,Policy,27,2021-10-11,1,3,4,4.0,5.0,53.0,56.2,0
+FL-10124,Justin Johnson,Interpretability,Research,27,2024-12-07,1,5,2,1.0,4.0,73.0,56.2,0
+FL-10549,Nancy Stewart,INTERPRETABILITY,Research,9,2022-04-19,3,3,3,2.0,3.0,35.0,18.8,0
+FL-10569,Jennifer Porter,Infrastructure,Engineering,26,2024-11-20,3,5,4,2.0,2.0,48.0,54.2,0
+FL-10614,Douglas Ryan,Interpretability,Research,10,2023-05-14,5,3,4,2.0,4.0,40.0,20.8,0
+FL-10358,Edward Williams,Applied Research,Research,12,2022-10-03,3,2,3,3.0,4.0,53.0,25.0,0
+FL-10675,Vicki Finley,Interpretability,Research,9,2022-02-10,4,5,4,3.0,3.0,46.0,18.8,0
+FL-10061,James Powers,Safety Evaluations,Research,33,2023-04-01,3,2,4,3.0,4.0,44.0,68.8,0
+FL-10028,Thomas Harrell,Interpretability,Research,13,2023-03-30,4,3,2,3.0,3.0,46.0,27.1,0
+FL-10099,John Santana,INFRASTRUCTURE,Engineering,16,2025-09-08,1,4,5,,,,33.3,0
+FL-10456,Kathleen Mays,Infrastructure,Engineering,1,2025-12-16,4,4,4,3.0,2.0,50.0,0.0,0
+FL-10539,Nicole Marquez,Interpretability,Research,27,2023-09-25,3,2,3,1.0,2.0,53.0,56.2,0
+FL-10235,Tracy Ballard,INFRASTRUCTURE,Engineering,1,2023-07-28,2,2,2,2.0,2.0,54.0,0.0,0
+FL-10354,Lori Ingram,Infrastructure,Engineering,8,2025-05-22,3,3,3,3.0,4.0,52.0,16.7,0
+FL-10628,Brett Bowers,Safety Evaluations,Research,9,2024-01-13,5,2,4,3.0,5.0,55.0,18.8,1
+FL-10030,Paula Moreno,Alignment Research,Research,1,2021-10-11,3,2,3,3.0,3.0,59.0,0.0,0
+FL-10802,Elizabeth Hernandez,Alignment Research,Research,1,2025-07-15,4,3,4,4.0,4.0,56.0,0.0,0
+FL-10073,Benjamin Ware,Interpretability,Research,17,2026-03-21,4,3,4,5.0,2.0,46.0,35.4,0
+FL-10524,Lisa Webb,Safety Evaluations,Research,2,2024-03-04,4,3,5,4.0,5.0,54.0,0.0,1
+FL-10552,Alexander Gomez,Interpretability,Research,11,2022-03-26,3,3,2,5.0,3.0,51.0,22.9,0
+FL-10091,Kimberly Ball,Policy & Governance,Policy,1,2025-06-03,1,3,4,4.0,4.0,44.0,0.0,0
+FL-10465,Eric Sullivan,Alignment Research,Research,2,2024-03-30,4,3,4,2.0,3.0,59.0,0.0,0
+FL-10155,John Hardy,Safety Evaluations,Research,4,2026-07-29,5,5,4,3.0,4.0,46.0,0.0,0
+FL-10443,Dale Ryan,Interpretability,Research,2,2026-05-12,2,4,3,2.0,3.0,51.0,0.0,0
+FL-10691,Lauren Moore,Safety Evaluations,Research,5,2022-08-01,4,2,4,4.0,3.0,40.0,0.0,0
+FL-10144,Angelica Keith,Safety Evaluations,Research,3,2022-12-21,2,1,4,4.0,3.0,35.0,0.0,0
+FL-10586,Christopher Moore,Applied Research,Research,12,2024-07-11,3,3,5,1.0,4.0,57.0,25.0,0
+FL-10638,Ashley Edwards,Alignment Research,Research,13,2026-02-08,2,2,2,2.0,3.0,59.0,27.1,0
+FL-10755,Joshua Lopez,Safety Evaluations,Research,2,2026-02-16,1,5,4,5.0,2.0,40.0,0.0,0
+FL-10164,Phillip Obrien,INFRASTRUCTURE,Engineering,9,2025-08-30,4,3,3,,,,18.8,0
+FL-10103,Samuel Jones,Infrastructure,Engineering,5,2023-10-24,2,3,3,3.0,3.0,74.0,0.0,0
+FL-10437,William Evans,Policy & Governance,Policy,8,2023-03-13,2,2,4,3.0,3.0,40.0,16.7,0
+FL-10263,Mark Kelley,Alignment Research,Research,5,2023-05-17,4,2,3,4.0,3.0,54.0,0.0,0
+FL-10623,Raymond Oconnor,Interpretability,Research,15,2025-05-14,3,2,4,2.0,3.0,50.0,31.2,1
+FL-10177,Andrew Reynolds,Infrastructure,Engineering,8,2023-05-11,3,3,1,3.0,4.0,56.0,16.7,0
+FL-10261,Michael Henry,Alignment Research,Research,6,2026-03-31,4,3,4,1.0,4.0,59.0,12.5,0
+FL-10644,Emily Taylor,Applied Research,Research,10,2023-02-19,5,4,3,4.0,3.0,73.0,20.8,0
+FL-10477,Miranda Foster,Infrastructure,Engineering,26,2025-10-15,3,4,2,3.0,3.0,52.0,54.2,0
+FL-10800,Brian Brown,Safety Evaluations,Research,7,2026-08-20,4,1,4,3.0,3.0,44.0,14.6,1
+FL-10450,Ann Andrews,Policy & Governance,Policy,6,2024-05-28,2,4,2,2.0,5.0,48.0,12.5,0
+FL-10828,Stephen Cowan,Infrastructure,Engineering,6,2023-06-17,2,5,4,3.0,3.0,46.0,12.5,0
+FL-10317,Diane Cummings,Applied Research,Research,23,2025-01-01,1,3,4,3.0,3.0,53.0,47.9,0
+FL-10758,Angelica Cooper,SAFETY EVALUATIONS,Research,17,2024-06-08,2,4,3,2.0,3.0,51.0,35.4,0
+FL-10393,Sarah King,Safety Evaluations,Research,2,2024-11-23,3,3,3,1.0,5.0,64.0,0.0,0
+FL-10194,Denise Davenport,Infrastructure,Engineering,6,2026-08-05,2,3,4,3.0,4.0,54.0,12.5,0
+FL-10399,Mark Jimenez,Interpretability,Research,3,2024-11-09,3,3,2,2.0,2.0,60.0,0.0,0
+FL-10214,James Thomas,Applied Research,Research,12,2024-05-20,4,2,1,3.0,5.0,63.0,25.0,1
+FL-10663,Rachel Le,Safety Evaluations,Research,10,2022-08-05,1,4,2,5.0,2.0,44.0,20.8,0
+FL-10665,Alyssa Roman,POLICY & GOVERNANCE,Policy,6,2023-02-10,2,1,3,4.0,4.0,48.0,12.5,0
+FL-10347,Riley Bryant,Interpretability,Research,13,2022-04-27,3,2,3,3.0,3.0,51.0,27.1,0
+FL-10080,Evelyn Galvan,Policy & Governance,Policy,9,2025-09-19,3,3,3,4.0,3.0,53.0,18.8,1
+FL-10293,Shannon Johnston,Alignment Research,Research,5,2024-08-04,4,3,4,2.0,3.0,46.0,0.0,0
+FL-10761,Stephen Alvarez,SAFETY EVALUATIONS,Research,6,2022-02-28,4,4,4,4.0,4.0,46.0,12.5,0
+FL-10479,Zachary Michael,Alignment Research,Research,16,2022-02-10,2,5,4,2.0,1.0,54.0,33.3,0
+FL-10101,Robert Potter,Alignment Research,Research,28,2025-01-30,4,4,4,3.0,4.0,43.0,58.3,1
+FL-10357,Robin Brown,INTERPRETABILITY,Research,1,2025-08-04,5,2,3,2.0,4.0,52.0,0.0,0
+FL-10587,Crystal Sullivan,Alignment Research,Research,3,2022-09-06,2,2,3,2.0,4.0,52.0,0.0,0
+FL-10387,Patricia Morrow,Safety Evaluations,Research,1,2022-02-19,1,4,3,3.0,4.0,62.0,0.0,0
+FL-10509,David Munoz,Safety Evaluations,Research,8,2022-10-12,4,4,3,3.0,4.0,51.0,16.7,0
+FL-10527,Renee Browning,Safety Evaluations,Research,12,2022-04-20,3,2,4,4.0,3.0,56.0,25.0,0
+FL-10554,Bradley Santana,SAFETY EVALUATIONS,Research,12,2026-03-23,4,3,2,3.0,3.0,42.0,25.0,0
+FL-10528,Chase Lee,Infrastructure,Engineering,17,2024-05-12,3,2,3,4.0,3.0,56.0,35.4,0
+FL-10192,Willie Durham,Safety Evaluations,Research,7,2024-01-16,3,4,2,4.0,3.0,53.0,14.6,1
+FL-10542,William Ramsey,Alignment Research,Research,11,2024-03-27,1,2,2,5.0,3.0,48.0,22.9,0
+FL-10499,Jason Hernandez,Applied Research,Research,1,2023-08-17,3,2,3,4.0,4.0,45.0,0.0,0
+FL-10058,Bryan Zamora,Safety Evaluations,Research,7,2022-12-26,4,3,4,2.0,3.0,50.0,14.6,1
+FL-10290,Paul Thompson,Applied Research,Research,10,2023-08-23,1,3,4,2.0,4.0,50.0,20.8,0
+FL-10558,David Weber,Safety Evaluations,Research,31,2024-09-10,3,1,4,3.0,2.0,47.0,64.6,1
+FL-10041,David Caldwell,Applied Research,Research,1,2022-10-29,4,3,3,3.0,2.0,55.0,0.0,0
+FL-10126,Gabriel Juarez,Interpretability,Research,5,2023-08-21,3,5,4,1.0,2.0,60.0,0.0,0
+FL-10722,David Robinson,Applied Research,Research,1,2024-05-12,4,3,3,3.0,4.0,48.0,0.0,0
+FL-10781,Daniel Holloway,Applied Research,Research,29,2025-06-01,4,3,3,4.0,3.0,67.0,60.4,1
+FL-10197,Jennifer Villa,Infrastructure,Engineering,34,2024-04-08,2,1,3,,,,70.8,0
+FL-10712,Kathryn Price,Alignment Research,Research,18,2022-08-28,3,4,4,2.0,4.0,62.0,37.5,0
+FL-10631,Caitlin Cantu,Infrastructure,Engineering,6,2023-02-14,1,5,5,5.0,4.0,48.0,12.5,0
+FL-10045,Victoria Garcia,ALIGNMENT RESEARCH,Research,6,2023-10-03,4,1,5,4.0,3.0,53.0,12.5,0
+FL-10525,Juan Smith,INFRASTRUCTURE,Engineering,17,2024-05-17,4,3,3,2.0,2.0,51.0,35.4,0
+FL-10081,Rita Adams,Infrastructure,Engineering,1,2025-08-24,2,3,3,5.0,3.0,37.0,0.0,0
+FL-10381,Austin Daniels,INTERPRETABILITY,Research,2,2026-02-26,3,3,5,2.0,4.0,59.0,0.0,1
+FL-10211,Yolanda Francis,Infrastructure,Engineering,26,2023-11-28,3,2,4,2.0,3.0,37.0,54.2,1
+FL-10791,Kenneth Hanna,Safety Evaluations,Research,3,2025-12-27,2,2,3,4.0,4.0,51.0,0.0,0
+FL-10145,Leonard Gray,ALIGNMENT RESEARCH,Research,1,2021-11-30,4,2,3,1.0,5.0,41.0,0.0,1
+FL-10593,Linda Carr,Alignment Research,Research,11,2024-08-29,3,4,5,2.0,5.0,48.0,22.9,0
+FL-10216,Lisa Allen,Interpretability,Research,2,2026-04-06,3,3,3,4.0,3.0,51.0,0.0,0
+FL-10833,Joseph Williams,SAFETY EVALUATIONS,Research,34,2026-08-31,3,4,3,2.0,5.0,36.0,70.8,0
+FL-10199,Mrs. Brittany Ryan MD,Interpretability,Research,15,2024-06-27,3,1,5,5.0,3.0,51.0,31.2,1
+FL-10571,William Mendoza,INTERPRETABILITY,Research,20,2023-09-29,5,3,5,3.0,3.0,50.0,41.7,1
+FL-10359,Timothy Robertson,Alignment Research,Research,7,2026-08-21,2,2,4,4.0,4.0,51.0,14.6,0
+FL-10715,Dr. Ariel Sandoval MD,Infrastructure,Engineering,22,2025-10-15,2,2,5,4.0,3.0,39.0,45.8,0
+FL-10264,Kerry Chavez DDS,Policy & Governance,Policy,4,2022-04-06,2,3,4,3.0,4.0,60.0,0.0,0
+FL-10486,Michael Stephens,Infrastructure,Engineering,3,2024-05-22,1,5,3,,,,0.0,0
+FL-10270,Parker Cain,Safety Evaluations,Research,7,2024-07-05,5,4,3,4.0,1.0,52.0,14.6,0
+FL-10428,Lisa Randall,Interpretability,Research,13,2022-07-02,2,1,3,4.0,4.0,50.0,27.1,0
+FL-10843,Susan Conley,Interpretability,Research,11,2025-01-23,4,3,3,5.0,4.0,39.0,22.9,1
+FL-10661,Patrick Yang,Safety Evaluations,Research,2,2022-05-12,2,5,3,3.0,1.0,56.0,0.0,0
+FL-10078,Brittany Spears,Alignment Research,Research,32,2026-01-09,3,4,5,4.0,1.0,40.0,66.7,0
+FL-10109,Linda Dodson DVM,Infrastructure,Engineering,3,2024-10-14,4,2,4,2.0,4.0,61.0,0.0,0
+FL-10322,Nancy Jennings,Infrastructure,Engineering,1,2024-05-12,3,1,5,3.0,4.0,62.0,0.0,1
+FL-10143,Nicholas Adams,Alignment Research,Research,9,2025-12-17,3,1,4,3.0,5.0,42.0,18.8,0
+FL-10439,Rebecca Hill,Alignment Research,Research,16,2022-05-16,5,3,3,3.0,3.0,52.0,33.3,0
+FL-10157,Christopher Smith,Infrastructure,Engineering,11,2024-05-26,3,2,2,3.0,2.0,44.0,22.9,0
+FL-10102,Curtis Johnson,Applied Research,Research,13,2022-12-23,2,5,3,5.0,3.0,39.0,27.1,0
+FL-10046,Scott Wright,Safety Evaluations,Research,13,2022-09-16,1,3,4,3.0,1.0,51.0,27.1,0
+FL-10004,Kevin Pacheco,SAFETY EVALUATIONS,Research,2,2021-10-21,4,3,3,3.0,2.0,45.0,0.0,0
+FL-10123,Cameron Dean,Safety Evaluations,Research,3,2021-11-27,2,2,3,3.0,3.0,61.0,0.0,1
+FL-10279,Ellen Morgan,Alignment Research,Research,8,2021-10-20,4,2,4,2.0,2.0,45.0,16.7,0
+FL-10570,Matthew Espinoza,Applied Research,Research,5,2025-08-27,2,2,3,2.0,5.0,49.0,0.0,0
+FL-10835,James Kelley,Alignment Research,Research,1,2024-02-09,4,2,4,2.0,2.0,52.0,0.0,0
+FL-10700,Mrs. Samantha Watson,Interpretability,Research,10,2024-11-15,3,3,3,1.0,5.0,52.0,20.8,0
+FL-10246,Trevor Foley,Infrastructure,Engineering,16,2022-04-06,3,5,3,4.0,2.0,48.0,33.3,0
+FL-10659,Monica Mathis,Alignment Research,Research,1,2022-01-21,3,1,4,2.0,2.0,52.0,0.0,1
+FL-10767,Thomas Sloan,Policy & Governance,Policy,7,2022-02-07,3,5,3,1.0,2.0,37.0,14.6,0
+FL-10783,Eric Hunter,Interpretability,Research,14,2022-06-10,3,2,4,3.0,4.0,40.0,29.2,0
+FL-10137,Lindsay Martinez,Infrastructure,Engineering,1,2026-08-11,2,2,3,2.0,3.0,52.0,0.0,1
+FL-10373,Keith Jacobs,ALIGNMENT RESEARCH,Research,41,2025-02-10,5,5,2,1.0,3.0,62.0,85.4,0
+FL-10336,Kristen Garcia,Interpretability,Research,3,2025-12-07,2,3,4,4.0,4.0,56.0,0.0,0
+FL-10111,Natasha Wells,Safety Evaluations,Research,4,2023-01-18,3,4,4,4.0,2.0,64.0,0.0,1
+FL-10239,Kristina Herman,Infrastructure,Engineering,3,2022-11-11,3,3,4,4.0,3.0,47.0,0.0,0
+FL-10016,Crystal Johnson,APPLIED RESEARCH,Research,21,2023-04-29,2,3,4,2.0,5.0,56.0,43.8,0
+FL-10490,Brian Johnson,Applied Research,Research,9,2024-09-17,2,5,4,4.0,3.0,60.0,18.8,0
+FL-10134,Alexander Collins,Interpretability,Research,15,2025-02-07,5,4,3,3.0,4.0,52.0,31.2,1
+FL-10676,Douglas Kirk,Safety Evaluations,Research,7,2023-05-20,4,4,3,4.0,5.0,68.0,14.6,0
+FL-10600,Ernest Hayes,Infrastructure,Engineering,7,2022-01-14,4,4,3,3.0,3.0,62.0,14.6,0
+FL-10488,Molly Rodriguez,Interpretability,Research,1,2025-10-02,2,5,3,4.0,4.0,43.0,0.0,0
+FL-10146,Catherine Lewis,Infrastructure,Engineering,9,2025-09-11,1,1,5,3.0,3.0,61.0,18.8,0
+FL-10232,Roger Olson,APPLIED RESEARCH,Research,3,2025-09-27,1,4,5,2.0,3.0,46.0,0.0,0
+FL-10822,Vincent Reyes,Safety Evaluations,Research,13,2021-12-16,2,1,4,3.0,5.0,54.0,27.1,0
+FL-10784,Sherry Johnson,Infrastructure,Engineering,3,2022-09-21,3,2,4,4.0,5.0,47.0,0.0,0
+FL-10180,Andrew Avila,Interpretability,Research,14,2024-02-02,3,5,2,2.0,4.0,53.0,29.2,0
+FL-10237,Megan Richards,Alignment Research,Research,1,2025-10-26,2,3,3,1.0,5.0,56.0,0.0,0
+FL-10745,Kimberly Villanueva,Infrastructure,Engineering,18,2022-03-26,2,2,5,3.0,3.0,49.0,37.5,1
+FL-10386,Eric Key,Interpretability,Research,27,2025-04-23,4,4,4,2.0,3.0,55.0,56.2,0
+FL-10815,Kathryn Dillon,Infrastructure,Engineering,10,2023-08-26,1,4,4,4.0,2.0,46.0,20.8,0
+FL-10568,Eddie Schwartz,Safety Evaluations,Research,4,2025-10-19,3,5,3,1.0,1.0,52.0,0.0,0
+FL-10105,Matthew Smith,Safety Evaluations,Research,1,2025-06-19,3,3,3,3.0,3.0,53.0,0.0,0
+FL-10163,Justin Torres,Safety Evaluations,Research,28,2026-08-30,3,3,4,3.0,5.0,41.0,58.3,1
+FL-10411,Anthony Simpson,Interpretability,Research,8,2026-02-10,3,4,3,3.0,4.0,54.0,16.7,0
+FL-10269,Andrea Decker,Policy & Governance,Policy,3,2022-03-26,2,3,3,2.0,3.0,53.0,0.0,0
+FL-10128,Joshua Cooke,Alignment Research,Research,14,2023-06-30,3,4,3,3.0,3.0,46.0,29.2,0
+FL-10328,Christopher Guerra,Applied Research,Research,1,2025-07-25,4,4,3,3.0,2.0,57.0,0.0,0
+FL-10350,Jason Beck,Policy & Governance,Policy,2,2022-03-12,4,2,3,3.0,3.0,43.0,0.0,1
+FL-10417,Jennifer Norton,POLICY & GOVERNANCE,Policy,5,2023-06-10,3,2,4,4.0,3.0,37.0,0.0,1
+FL-10626,Ronald Morgan,Safety Evaluations,Research,6,2024-08-12,3,4,2,1.0,4.0,61.0,12.5,0
+FL-10709,Chad Gonzalez,Alignment Research,Research,3,2026-02-14,1,3,2,3.0,3.0,47.0,0.0,0
+FL-10339,Jerry Bailey,Safety Evaluations,Research,21,2021-11-26,4,4,3,4.0,3.0,47.0,43.8,0
+FL-10575,Matthew Williams,Alignment Research,Research,12,2026-08-11,4,3,4,3.0,3.0,60.0,25.0,0
+FL-10797,John Byrd,Interpretability,Research,13,2025-10-29,3,3,1,3.0,3.0,56.0,27.1,0
+FL-10483,Mary Ryan,Safety Evaluations,Research,31,2024-12-26,4,4,4,4.0,4.0,42.0,64.6,0
+FL-10039,Crystal Robinson,Policy & Governance,Policy,12,2022-02-14,3,3,4,2.0,4.0,50.0,25.0,0
+FL-10682,Matthew Sweeney,APPLIED RESEARCH,Research,1,2025-05-08,3,3,2,2.0,5.0,53.0,0.0,0
+FL-10031,Alec Hickman,Applied Research,Research,18,2026-02-04,2,2,4,4.0,3.0,35.0,37.5,0
+FL-10695,Russell Murphy,Alignment Research,Research,1,2022-03-22,4,3,3,,,,0.0,1
+FL-10238,Ashley Hall,INTERPRETABILITY,Research,6,2021-11-23,3,4,3,5.0,2.0,51.0,12.5,0
+FL-10537,Timothy Lam,Infrastructure,Engineering,4,2024-07-18,2,2,4,5.0,3.0,51.0,0.0,0
+FL-10817,Jason Hudson,Interpretability,Research,2,2026-03-26,1,4,4,5.0,3.0,46.0,0.0,0
+FL-10286,Ashley Jordan,Policy & Governance,Policy,60,2023-03-02,2,5,3,5.0,4.0,39.0,100.0,0
+FL-10112,Mark Cannon,Infrastructure,Engineering,33,2024-05-03,2,2,3,4.0,4.0,48.0,68.8,0
+FL-10674,Jonathan Winters,Interpretability,Research,50,2022-08-28,2,3,3,3.0,3.0,52.0,100.0,0
+FL-10132,Pamela Jackson,SAFETY EVALUATIONS,Research,17,2024-10-04,4,5,3,3.0,3.0,42.0,35.4,0
+FL-10095,Cameron Fisher,Infrastructure,Engineering,24,2026-05-25,1,3,3,4.0,2.0,52.0,50.0,0
+FL-10613,Daniel Clark,Alignment Research,Research,47,2022-01-24,4,1,4,2.0,3.0,45.0,97.9,0
+FL-10584,Robert Wilson,ALIGNMENT RESEARCH,Research,12,2025-12-13,3,2,1,5.0,4.0,56.0,25.0,0
+FL-10440,Jamie Baird,INFRASTRUCTURE,Engineering,12,2025-10-18,3,3,2,1.0,4.0,51.0,25.0,0
+FL-10190,Barbara Dudley,Alignment Research,Research,1,2024-10-07,3,2,4,4.0,1.0,53.0,0.0,1
+FL-10844,Brandon Hunt,Infrastructure,Engineering,58,2025-05-01,2,5,3,4.0,1.0,73.0,100.0,0
+FL-10506,Misty Hansen,Alignment Research,Research,11,2024-02-17,2,3,5,3.0,3.0,48.0,22.9,0
+FL-10003,Cristian Santos,Safety Evaluations,Research,1,2024-06-14,3,3,3,3.0,4.0,40.0,0.0,0
+FL-10487,Danielle Reed,Applied Research,Research,9,2023-02-17,1,3,4,2.0,2.0,49.0,18.8,0
+FL-10512,Brett Zavala MD,Interpretability,Research,8,2025-11-26,2,4,5,,,,16.7,1
+FL-10084,Alexander Lee,Applied Research,Research,1,2023-05-22,3,3,4,2.0,2.0,61.0,0.0,0
+FL-10005,Melissa Peterson,Safety Evaluations,Research,2,2022-07-16,4,4,4,4.0,4.0,50.0,0.0,0
+FL-10324,Daniel Meza,Alignment Research,Research,7,2024-03-01,2,3,5,3.0,4.0,58.0,14.6,0
+FL-10209,Eugene Higgins,Infrastructure,Engineering,16,2025-07-04,2,3,3,,,,33.3,0
+FL-10646,Melissa Abbott,Interpretability,Research,4,2025-01-04,2,5,5,3.0,5.0,53.0,0.0,0
+FL-10739,Brian Smith,Interpretability,Research,14,2023-09-03,2,4,5,4.0,1.0,46.0,29.2,0
+FL-10314,Joseph Moore,Alignment Research,Research,18,2023-08-10,1,3,1,3.0,2.0,69.0,37.5,0
+FL-10266,Cindy Hayes,APPLIED RESEARCH,Research,5,2022-11-24,2,1,3,2.0,3.0,78.0,0.0,0
+FL-10243,Natalie Bautista,Safety Evaluations,Research,17,2023-11-01,4,4,3,4.0,3.0,37.0,35.4,0
+FL-10159,Sean Henry,Policy & Governance,Policy,11,2026-01-24,2,5,4,2.0,4.0,51.0,22.9,1
+FL-10788,Kirk Thompson,Alignment Research,Research,28,2026-01-20,3,3,3,5.0,3.0,58.0,58.3,0
+FL-10514,Charles Green,Alignment Research,Research,40,2026-05-15,3,3,3,4.0,4.0,42.0,83.3,1
+FL-10097,April Mitchell,Applied Research,Research,16,2023-11-21,2,3,3,3.0,3.0,35.0,33.3,0
+FL-10567,Tiffany Murray,INTERPRETABILITY,Research,22,2025-04-04,3,4,3,2.0,3.0,55.0,45.8,1
+FL-10401,Elizabeth Jones,Alignment Research,Research,33,2022-01-25,2,4,3,2.0,3.0,50.0,68.8,0
+FL-10303,Olivia Cole,Interpretability,Research,3,2026-04-26,4,3,4,3.0,4.0,64.0,0.0,1
+FL-10753,Edgar Miller,Safety Evaluations,Research,5,2025-12-03,3,4,5,4.0,3.0,63.0,0.0,0
+FL-10466,Michele Collins,POLICY & GOVERNANCE,Policy,1,2022-05-08,2,3,3,2.0,3.0,57.0,0.0,1
+FL-10741,Joshua Garcia,Safety Evaluations,Research,40,2024-02-18,1,3,3,4.0,3.0,52.0,83.3,0
+FL-10186,Jennifer Robertson,Policy & Governance,Policy,1,2026-08-19,3,4,4,4.0,1.0,58.0,0.0,0
+FL-10127,Sandra King,Infrastructure,Engineering,2,2022-03-06,2,5,4,3.0,2.0,64.0,0.0,0
+FL-10735,Taylor Taylor,Infrastructure,Engineering,10,2025-06-09,1,4,4,3.0,2.0,47.0,20.8,0
+FL-10599,Zoe Peters,Policy & Governance,Policy,20,2024-03-07,3,3,4,3.0,5.0,35.0,41.7,0
+FL-10535,Joseph Williams,Infrastructure,Engineering,1,2022-10-24,4,1,3,1.0,2.0,35.0,0.0,1
+FL-10064,Sherry Wood,Infrastructure,Engineering,10,2022-07-20,2,2,2,4.0,4.0,51.0,20.8,0
+FL-10224,Natasha Williams,Alignment Research,Research,7,2024-10-03,1,3,5,4.0,3.0,49.0,14.6,0
+FL-10014,Nicholas Martin,SAFETY EVALUATIONS,Research,3,2023-08-22,2,4,2,5.0,3.0,49.0,0.0,0
+FL-10697,William Johnson,Safety Evaluations,Research,1,2023-10-06,2,3,4,5.0,3.0,62.0,0.0,0
+FL-10170,David Mann,Policy & Governance,Policy,11,2025-03-25,2,2,3,4.0,3.0,44.0,22.9,0
+FL-10291,Kathryn Whitaker,Alignment Research,Research,1,2025-09-26,5,2,3,4.0,4.0,54.0,0.0,1
+FL-10136,Lori Garcia,Applied Research,Research,36,2025-07-28,4,3,5,3.0,3.0,49.0,75.0,0
+FL-10505,Lindsey Russo,Applied Research,Research,10,2022-09-12,3,3,3,4.0,3.0,35.0,20.8,0
+FL-10377,Deborah Green,Safety Evaluations,Research,10,2023-12-20,2,3,3,4.0,3.0,63.0,20.8,0
+FL-10206,Jennifer Pena,Applied Research,Research,2,2022-07-14,3,3,5,3.0,2.0,63.0,0.0,0
+FL-10846,John Garcia,SAFETY EVALUATIONS,Research,31,2022-08-19,2,4,3,2.0,5.0,70.0,64.6,1
+FL-10288,Kyle Smith,Infrastructure,Engineering,6,2023-04-04,4,3,4,4.0,3.0,47.0,12.5,1
+FL-10115,Michael Mccarthy,Alignment Research,Research,1,2022-02-02,4,4,5,4.0,3.0,55.0,0.0,0
+FL-10351,Andrea Fox,Alignment Research,Research,1,2024-04-08,5,4,5,4.0,2.0,69.0,0.0,1
+FL-10550,Eric Ward,Policy & Governance,Policy,1,2023-02-06,3,4,3,3.0,3.0,41.0,0.0,0
+FL-10327,George Miranda,Interpretability,Research,1,2022-06-02,4,5,3,4.0,2.0,64.0,0.0,0
+FL-10019,Derek Wright,Infrastructure,Engineering,4,2024-07-14,5,3,3,3.0,4.0,47.0,0.0,1
+FL-10319,Gregory Ponce,Interpretability,Research,3,2025-03-17,2,3,3,4.0,3.0,46.0,0.0,0
+FL-10107,Kelly Williams,Infrastructure,Engineering,1,2022-12-31,3,3,4,3.0,5.0,55.0,0.0,0
+FL-10740,Tracy Wilkerson,Alignment Research,Research,1,2024-03-13,3,4,2,4.0,2.0,45.0,0.0,0
+FL-10410,Kathy Levy,Applied Research,Research,11,2022-10-31,1,3,2,2.0,3.0,62.0,22.9,1
+FL-10236,Alexis Herrera,Policy & Governance,Policy,6,2024-01-04,2,4,1,4.0,2.0,58.0,12.5,0
+FL-10458,David Lopez,APPLIED RESEARCH,Research,43,2025-05-24,2,4,3,3.0,3.0,36.0,89.6,0
+FL-10233,Gina Wilson,Alignment Research,Research,9,2026-07-05,3,2,4,4.0,4.0,54.0,18.8,0
+FL-10229,Morgan Davis,Infrastructure,Engineering,4,2023-03-24,3,4,3,3.0,1.0,54.0,0.0,1
+FL-10689,Robert Haynes,Applied Research,Research,6,2025-05-22,3,1,4,3.0,2.0,39.0,12.5,1
+FL-10448,Timothy Johns,Applied Research,Research,1,2024-02-14,2,4,5,3.0,4.0,35.0,0.0,0
+FL-10772,Ashlee Mitchell,Infrastructure,Engineering,11,2024-05-28,2,4,3,5.0,5.0,52.0,22.9,0
+FL-10431,Reginald Knapp,Applied Research,Research,14,2026-01-24,3,3,4,3.0,3.0,58.0,29.2,1
+FL-10397,Samantha Johnson,Safety Evaluations,Research,15,2021-12-30,3,4,3,3.0,5.0,51.0,31.2,0
+FL-10809,Catherine Davis,Safety Evaluations,Research,2,2022-05-27,3,2,4,2.0,4.0,51.0,0.0,1
+FL-10749,Monica Baker,Infrastructure,Engineering,13,2023-02-27,2,2,4,3.0,4.0,48.0,27.1,0
+FL-10116,Joshua Perry,Alignment Research,Research,1,2022-10-16,3,3,4,3.0,4.0,51.0,0.0,1
+FL-10068,Juan Nelson,Interpretability,Research,8,2024-09-30,3,3,1,3.0,3.0,58.0,16.7,1
+FL-10304,Madison Weber,Safety Evaluations,Research,6,2026-01-09,3,2,2,,,,12.5,0
+FL-10287,Katelyn Estrada,Applied Research,Research,55,2021-12-30,1,4,4,4.0,5.0,51.0,100.0,0
+FL-10390,Vincent Reynolds,SAFETY EVALUATIONS,Research,24,2026-04-02,4,4,5,4.0,4.0,49.0,50.0,0
+FL-10391,Caleb Hernandez,Applied Research,Research,1,2022-08-01,3,3,4,2.0,4.0,60.0,0.0,0
+FL-10037,Zachary Santos,Safety Evaluations,Research,1,2023-12-05,3,2,3,,,,0.0,0
+FL-10812,Elizabeth French,Policy & Governance,Policy,4,2023-05-28,3,2,4,4.0,5.0,48.0,0.0,0
+FL-10330,Cynthia Wallace,Alignment Research,Research,25,2023-03-05,4,3,3,4.0,1.0,63.0,52.1,1
+FL-10106,Ashley Coleman,Infrastructure,Engineering,3,2022-08-21,4,4,3,2.0,4.0,55.0,0.0,0
+FL-10543,Amy Kim,Interpretability,Research,23,2025-11-24,2,3,3,4.0,4.0,56.0,47.9,0
+FL-10251,Andrea Hubbard,Interpretability,Research,40,2022-10-17,4,5,5,2.0,4.0,65.0,83.3,1
+FL-10573,Heather Woodard,Alignment Research,Research,6,2024-05-31,3,2,4,3.0,2.0,71.0,12.5,1
+FL-10409,Kathleen Parker,APPLIED RESEARCH,Research,1,2021-11-20,2,2,3,3.0,3.0,57.0,0.0,0
+FL-10831,Nicholas Lawrence,Safety Evaluations,Research,7,2022-08-09,3,1,4,4.0,4.0,47.0,14.6,1
+FL-10215,Rebecca Jackson,Infrastructure,Engineering,24,2022-02-28,2,3,5,2.0,3.0,45.0,50.0,0
+FL-10632,Danielle Watson,Interpretability,Research,9,2026-03-21,4,4,3,4.0,2.0,38.0,18.8,0
+FL-10056,Sarah Moore,Infrastructure,Engineering,2,2026-07-01,2,1,2,3.0,4.0,43.0,0.0,1
+FL-10445,Michael Schmidt,Alignment Research,Research,21,2024-11-28,2,3,4,1.0,5.0,60.0,43.8,0
+FL-10294,Jennifer Wilson,Interpretability,Research,1,2021-11-16,3,3,3,3.0,4.0,46.0,0.0,0
+FL-10169,Aaron Hayes,INFRASTRUCTURE,Engineering,10,2024-09-10,3,3,3,2.0,3.0,47.0,20.8,1
+FL-10216,Lisa Allen,Interpretability,Research,2,2026-04-06,3,3,3,4.0,3.0,51.0,0.0,0
+FL-10053,Whitney Peters,Interpretability,Research,14,2025-04-22,3,1,4,3.0,3.0,48.0,29.2,1
+FL-10323,Jessica Cox,Interpretability,Research,7,2023-07-23,2,4,5,3.0,3.0,48.0,14.6,0
+FL-10763,Megan Oliver,Infrastructure,Engineering,10,2022-05-14,2,3,4,4.0,1.0,46.0,20.8,0
+FL-10654,Katie Fuller,Infrastructure,Engineering,1,2024-03-27,2,2,4,3.0,3.0,43.0,0.0,0
+FL-10151,Kevin Kennedy,Safety Evaluations,Research,1,2024-05-20,4,5,5,4.0,4.0,44.0,0.0,0
+FL-10230,Casey Anderson,Alignment Research,Research,1,2024-06-04,2,5,2,3.0,5.0,52.0,0.0,0
+FL-10680,Aaron Ortiz,Interpretability,Research,13,2022-12-02,4,2,3,4.0,4.0,64.0,27.1,0
+FL-10710,Lydia Pham,Policy & Governance,Policy,43,2025-09-06,3,4,3,2.0,3.0,47.0,89.6,0
+FL-10610,Mrs. Hannah Montoya MD,Safety Evaluations,Research,29,2026-08-30,3,3,4,4.0,3.0,52.0,60.4,1
+FL-10755,Joshua Lopez,Safety Evaluations,Research,2,2026-02-16,1,5,4,5.0,2.0,40.0,0.0,0
+FL-10188,Peter Garrett,Alignment Research,Research,6,2025-07-05,5,3,4,4.0,3.0,67.0,12.5,1
+FL-10717,Rebecca Kelly,Applied Research,Research,14,2025-11-25,3,3,4,4.0,3.0,50.0,29.2,1
+FL-10779,Brandy Mccann,Interpretability,Research,4,2023-12-14,5,3,3,3.0,3.0,52.0,0.0,1
+FL-10185,Jordan Edwards,Alignment Research,Research,1,2023-05-13,5,4,3,3.0,3.0,45.0,0.0,0
+FL-10043,Rhonda Lee,Policy & Governance,Policy,3,2022-04-02,2,4,5,2.0,3.0,54.0,0.0,0
+FL-10008,Valerie Gray,Alignment Research,Research,14,2024-06-27,3,1,3,3.0,5.0,47.0,29.2,0
+FL-10142,Robert Medina,Policy & Governance,Policy,3,2024-02-25,4,4,3,,,,0.0,0
+FL-10385,Robert Arnold,Interpretability,Research,5,2024-10-13,4,3,3,3.0,3.0,60.0,0.0,0
+FL-10694,Michael Mckenzie,Safety Evaluations,Research,1,2025-03-14,3,2,4,3.0,5.0,63.0,0.0,0
+FL-10627,Karina Cooper,Alignment Research,Research,28,2025-02-16,4,1,4,5.0,3.0,35.0,58.3,1
+FL-10633,James Torres,Alignment Research,Research,21,2025-03-19,3,4,3,3.0,3.0,67.0,43.8,0
+FL-10826,Kevin Jackson,INFRASTRUCTURE,Engineering,3,2025-10-28,4,3,5,1.0,4.0,62.0,0.0,1
+FL-10150,Anna Walker,Alignment Research,Research,48,2025-03-05,4,2,2,5.0,3.0,49.0,100.0,0
+FL-10067,Teresa Taylor,Alignment Research,Research,5,2022-05-05,3,4,1,3.0,4.0,63.0,0.0,0
+FL-10746,Lisa Webb,INTERPRETABILITY,Research,12,2021-12-04,4,3,4,4.0,5.0,64.0,25.0,0
+FL-10447,Abigail Pierce,Alignment Research,Research,8,2026-05-05,3,1,3,2.0,3.0,50.0,16.7,0
+FL-10703,Taylor Calderon,ALIGNMENT RESEARCH,Research,44,2023-05-28,3,4,4,4.0,5.0,62.0,91.7,0
+FL-10651,Laura Diaz,Alignment Research,Research,6,2025-02-17,3,4,5,2.0,4.0,44.0,12.5,0
+FL-10388,Maria Cole,Applied Research,Research,5,2025-02-12,3,4,2,4.0,3.0,52.0,0.0,0
+FL-10415,Angel Gordon,Alignment Research,Research,47,2025-07-13,2,2,1,3.0,4.0,42.0,97.9,0
+FL-10804,Melanie Griffith,Safety Evaluations,Research,24,2024-12-30,2,3,2,2.0,4.0,59.0,50.0,0
+FL-10454,Sherri Smith,Infrastructure,Engineering,1,2024-07-26,2,3,2,2.0,1.0,51.0,0.0,0
+FL-10578,Lauren Johnston,Interpretability,Research,22,2023-12-19,3,4,4,3.0,3.0,46.0,45.8,0
+FL-10352,Kristen Myers DDS,Interpretability,Research,13,2024-11-24,5,4,5,2.0,2.0,50.0,27.1,1
+FL-10522,Ryan Hall,Safety Evaluations,Research,1,2025-04-02,2,2,4,4.0,3.0,42.0,0.0,0
+FL-10131,Michael Elliott,Safety Evaluations,Research,3,2022-11-05,3,5,2,3.0,3.0,55.0,0.0,0
+FL-10792,Megan Adams,Policy & Governance,Policy,4,2023-10-15,4,5,3,4.0,2.0,65.0,0.0,0
+FL-10296,Anita Richard,Alignment Research,Research,9,2022-12-20,4,1,3,3.0,3.0,76.0,18.8,1
+FL-10283,Latoya Miller,Infrastructure,Engineering,5,2022-01-12,1,4,3,3.0,4.0,45.0,0.0,0
+FL-10811,Gabriela Davis,Alignment Research,Research,4,2023-07-10,4,3,2,4.0,3.0,56.0,0.0,0
+FL-10639,Raymond Mullins,Infrastructure,Engineering,49,2022-06-06,1,4,3,2.0,4.0,53.0,100.0,0
+FL-10130,Christina Smith,Policy & Governance,Policy,8,2022-07-10,1,3,4,3.0,3.0,50.0,16.7,0
+FL-10786,Michele Hill,Alignment Research,Research,5,2025-10-28,3,3,3,3.0,4.0,59.0,0.0,0
+FL-10726,Shannon Yu,Safety Evaluations,Research,7,2023-08-11,3,3,5,5.0,2.0,57.0,14.6,0
+FL-10114,Francisco Fernandez,Applied Research,Research,8,2022-06-15,2,2,4,3.0,2.0,48.0,16.7,1
+FL-10619,Megan Burns,Alignment Research,Research,60,2024-08-12,3,5,4,2.0,3.0,68.0,100.0,1
+FL-10701,Lauren Green,ALIGNMENT RESEARCH,Research,2,2025-10-08,3,1,2,4.0,5.0,41.0,0.0,0
+FL-10449,Victor Morris,Applied Research,Research,26,2024-12-13,3,5,3,3.0,2.0,53.0,54.2,0
+FL-10842,Timothy Rivera,Alignment Research,Research,3,2021-10-14,3,3,3,3.0,5.0,62.0,0.0,0
+FL-10271,Kristina Rivera,Alignment Research,Research,13,2022-05-17,4,3,3,3.0,2.0,47.0,27.1,0
+FL-10313,Carrie Wright,Applied Research,Research,5,2023-12-05,2,2,4,2.0,3.0,44.0,0.0,0
+FL-10360,Dawn Mullins,Infrastructure,Engineering,21,2022-09-18,2,3,4,1.0,4.0,53.0,43.8,0
+FL-10284,Luke Craig,Applied Research,Research,5,2023-02-10,3,4,2,3.0,3.0,50.0,0.0,0
+FL-10129,Rachael Pearson,APPLIED RESEARCH,Research,6,2025-06-25,4,4,3,4.0,3.0,68.0,12.5,0
+FL-10760,Jennifer Nichols,Applied Research,Research,26,2026-01-13,2,5,1,3.0,3.0,36.0,54.2,0
+FL-10407,Sean Moore,INFRASTRUCTURE,Engineering,6,2023-05-21,1,3,4,4.0,3.0,49.0,12.5,0
+FL-10574,Angela Mack,Interpretability,Research,37,2025-01-03,3,3,2,4.0,4.0,58.0,77.1,0
+FL-10210,Amanda Jones,Alignment Research,Research,60,2024-11-16,4,4,4,4.0,3.0,55.0,100.0,0
+FL-10491,Amber Yang,Alignment Research,Research,1,2023-10-02,5,2,3,2.0,4.0,40.0,0.0,0
+FL-10596,Bruce Torres,Safety Evaluations,Research,2,2022-09-03,4,3,4,,,,0.0,1
+FL-10846,John Garcia,SAFETY EVALUATIONS,Research,31,2022-08-19,2,4,3,2.0,5.0,70.0,64.6,1
+FL-10847,Dylan Solis,Policy & Governance,Policy,17,2023-04-24,4,5,3,2.0,3.0,48.0,35.4,0
+FL-10040,Crystal Whitehead,Policy & Governance,Policy,1,2025-12-31,3,5,4,2.0,2.0,56.0,0.0,0
+FL-10306,Donald Brown,Policy & Governance,Policy,33,2024-04-08,3,5,1,5.0,3.0,54.0,68.8,0
+FL-10620,Jason Hayes,Infrastructure,Engineering,10,2024-11-20,2,3,2,4.0,3.0,48.0,20.8,0
+FL-10204,Andrew Shaw MD,Applied Research,Research,29,2026-01-18,3,5,2,3.0,3.0,51.0,60.4,1
+FL-10272,Maurice Christensen,Alignment Research,Research,9,2026-01-16,3,3,5,2.0,5.0,60.0,18.8,0
+FL-10008,Valerie Gray,Alignment Research,Research,14,2024-06-27,3,1,3,3.0,5.0,47.0,29.2,0
+FL-10355,Andrew Payne,Safety Evaluations,Research,2,2025-10-10,3,1,3,2.0,3.0,50.0,0.0,1
+FL-10737,Michael Fowler,INFRASTRUCTURE,Engineering,31,2026-02-18,2,3,5,2.0,3.0,42.0,64.6,0
+FL-10070,Taylor Mathis Jr.,Alignment Research,Research,31,2023-11-09,3,2,3,,,,64.6,0
+FL-10139,Gloria Atkinson,INFRASTRUCTURE,Engineering,21,2025-10-25,2,3,3,2.0,3.0,42.0,43.8,0
+FL-10685,Stephanie Meyer,ALIGNMENT RESEARCH,Research,1,2025-03-21,2,3,3,3.0,4.0,60.0,0.0,0
+FL-10007,Lindsey Roman,Infrastructure,Engineering,20,2025-05-12,3,5,4,5.0,2.0,48.0,41.7,0
+FL-10730,Tanya Buchanan,Infrastructure,Engineering,9,2022-11-14,2,3,3,4.0,2.0,68.0,18.8,0
+FL-10378,Donna Hendricks DDS,Infrastructure,Engineering,34,2022-05-18,1,3,3,2.0,2.0,42.0,70.8,0
+FL-10376,Noah Porter,Policy & Governance,Policy,10,2023-09-05,1,3,4,,,,20.8,0
+FL-10093,Erik Charles,Interpretability,Research,15,2025-04-24,3,1,4,3.0,4.0,60.0,31.2,0
+FL-10526,William Smith,Policy & Governance,Policy,15,2025-10-09,2,4,3,4.0,4.0,39.0,31.2,0
+FL-10400,Tyler Webb,Safety Evaluations,Research,5,2025-09-24,3,3,2,,,,0.0,1
+FL-10079,Rita Keith,Infrastructure,Engineering,1,2021-11-23,2,2,4,1.0,3.0,64.0,0.0,0
+FL-10768,James Nguyen,Safety Evaluations,Research,9,2023-02-18,3,2,3,3.0,3.0,57.0,18.8,0
+FL-10342,Raven Taylor,Alignment Research,Research,1,2023-03-09,2,5,2,3.0,4.0,40.0,0.0,0
+FL-10049,Zachary Huff,Infrastructure,Engineering,13,2026-07-16,2,4,3,2.0,4.0,47.0,27.1,0
+FL-10250,Richard Sanchez,Interpretability,Research,6,2022-05-24,2,4,3,5.0,3.0,36.0,12.5,0
+FL-10147,Spencer Haynes,Infrastructure,Engineering,1,2023-02-18,4,3,4,4.0,5.0,54.0,0.0,0
+FL-10806,Laura Lee,Infrastructure,Engineering,7,2025-05-06,2,2,1,3.0,3.0,39.0,14.6,0
+FL-10057,Cody Larson,Safety Evaluations,Research,10,2025-02-03,2,3,3,2.0,4.0,61.0,20.8,0
+FL-10464,Matthew Schwartz,Safety Evaluations,Research,1,2022-01-29,3,3,2,2.0,2.0,53.0,0.0,1
+FL-10472,Justin Brown,Infrastructure,Engineering,3,2024-06-19,3,3,3,4.0,2.0,54.0,0.0,1
+FL-10742,Marilyn Mcdaniel,INTERPRETABILITY,Research,29,2022-07-29,3,4,3,3.0,3.0,59.0,60.4,0
+FL-10055,Nicole Brown,APPLIED RESEARCH,Research,23,2024-08-24,1,2,3,4.0,4.0,70.0,47.9,1
+FL-10595,Elizabeth Mendez,ALIGNMENT RESEARCH,Research,3,2022-03-11,1,2,4,3.0,3.0,66.0,0.0,0
+FL-10821,Phillip Miller DDS,Alignment Research,Research,20,2024-11-20,4,2,3,4.0,3.0,71.0,41.7,0
+FL-10667,Ian Porter,ALIGNMENT RESEARCH,Research,29,2024-07-24,4,2,3,5.0,3.0,51.0,60.4,0
+FL-10635,Casey Perez,Applied Research,Research,35,2025-02-12,2,3,3,2.0,3.0,54.0,72.9,0
+FL-10498,Teresa Powers,APPLIED RESEARCH,Research,15,2025-08-21,3,1,4,2.0,4.0,43.0,31.2,0
+FL-10338,Brittany Kim,SAFETY EVALUATIONS,Research,13,2026-06-05,2,1,4,1.0,3.0,55.0,27.1,0
+FL-10642,Michael Heath,Interpretability,Research,12,2022-03-14,4,4,4,4.0,5.0,48.0,25.0,0
+FL-10562,Frank Valentine,Infrastructure,Engineering,6,2022-10-05,2,4,5,3.0,2.0,43.0,12.5,0
+FL-10382,Michelle Ho,Safety Evaluations,Research,3,2024-11-28,3,3,3,3.0,4.0,58.0,0.0,0
+FL-10025,Melanie Herrera,Interpretability,Research,8,2023-02-01,3,2,5,3.0,3.0,54.0,16.7,0
+FL-10047,Javier Ramirez,Alignment Research,Research,1,2023-01-01,4,2,4,4.0,3.0,70.0,0.0,1
+FL-10174,Christopher Parker,Infrastructure,Engineering,33,2025-06-16,2,3,2,3.0,5.0,42.0,68.8,0
+FL-10475,Jordan Stokes,Infrastructure,Engineering,13,2024-01-02,3,5,4,2.0,4.0,44.0,27.1,0
+FL-10059,Lisa Barnes,Infrastructure,Engineering,3,2024-08-23,3,3,3,4.0,4.0,35.0,0.0,0
+FL-10389,Shawn Deleon,Infrastructure,Engineering,6,2024-12-02,2,3,3,2.0,4.0,52.0,12.5,0
+FL-10153,David Martinez,INFRASTRUCTURE,Engineering,27,2022-09-20,3,4,3,4.0,3.0,59.0,56.2,0
+FL-10533,Adam Jackson,Alignment Research,Research,8,2024-03-25,2,2,3,4.0,5.0,49.0,16.7,1
+FL-10630,Christina Barker,Safety Evaluations,Research,5,2022-06-03,4,3,5,3.0,2.0,44.0,0.0,0
+FL-10161,Todd Woods,Interpretability,Research,12,2025-10-25,1,3,4,5.0,2.0,48.0,25.0,0
+FL-10244,Brittany Perry,INFRASTRUCTURE,Engineering,1,2022-04-05,4,5,4,3.0,4.0,59.0,0.0,0
+FL-10637,Carlos Jones,Infrastructure,Engineering,18,2023-08-28,2,4,2,3.0,2.0,49.0,37.5,0
+FL-10158,William Tran,Applied Research,Research,12,2025-03-15,1,1,2,4.0,3.0,75.0,25.0,0
+FL-10457,Corey Rodriguez,Alignment Research,Research,4,2022-07-28,2,2,3,5.0,3.0,46.0,0.0,0
+FL-10326,Randy Conley,Safety Evaluations,Research,6,2026-02-13,3,3,3,4.0,1.0,53.0,12.5,1
+FL-10469,Joshua Ruiz,INFRASTRUCTURE,Engineering,8,2024-06-01,2,3,3,4.0,3.0,39.0,16.7,0
+FL-10370,Heidi Owen,Safety Evaluations,Research,35,2025-02-11,3,3,5,,,,72.9,0
+FL-10706,Daniel Lopez,ALIGNMENT RESEARCH,Research,5,2023-02-24,2,3,4,2.0,3.0,51.0,0.0,0
+FL-10427,Mikayla Silva,Interpretability,Research,5,2022-08-12,2,3,3,3.0,3.0,54.0,0.0,0
+FL-10658,Sandra Becker,Infrastructure,Engineering,9,2022-02-05,3,2,3,4.0,1.0,50.0,18.8,0
+FL-10179,Tiffany Key,Applied Research,Research,14,2025-01-29,2,4,3,,,,29.2,0
+FL-10711,Rachael Howard DDS,APPLIED RESEARCH,Research,2,2024-02-27,3,2,4,2.0,2.0,41.0,0.0,0
+FL-10461,Michael Lopez,Interpretability,Research,9,2022-06-19,3,4,2,3.0,4.0,54.0,18.8,1
+FL-10756,Jeremy Baker,Safety Evaluations,Research,12,2024-01-23,2,2,3,3.0,3.0,49.0,25.0,0
+FL-10054,Edward Novak,Interpretability,Research,2,2024-08-15,3,2,3,2.0,4.0,51.0,0.0,0
+FL-10673,Nathan Nelson,INFRASTRUCTURE,Engineering,6,2022-02-26,3,2,4,3.0,3.0,49.0,12.5,0
+FL-10432,Amy Taylor,Alignment Research,Research,19,2022-10-17,2,3,3,,,,39.6,0
+FL-10168,Matthew Moore,Policy & Governance,Policy,6,2022-08-18,2,2,4,4.0,2.0,52.0,12.5,1
+FL-10556,Eric Snyder,Safety Evaluations,Research,10,2022-01-31,3,4,4,4.0,5.0,56.0,20.8,0
+FL-10634,Matthew Padilla,Policy & Governance,Policy,8,2021-10-11,2,2,5,3.0,4.0,63.0,16.7,0
+FL-10523,Jonathan Brooks,Infrastructure,Engineering,2,2024-10-23,2,2,3,2.0,4.0,63.0,0.0,0
+FL-10707,Amanda Harvey,Alignment Research,Research,14,2022-12-25,5,2,3,4.0,5.0,57.0,29.2,1
+FL-10024,Tricia Valencia,Infrastructure,Engineering,3,2021-10-30,2,3,3,2.0,5.0,57.0,0.0,0
+FL-10298,Gary Jackson,Infrastructure,Engineering,27,2024-04-13,3,1,3,4.0,3.0,39.0,56.2,0
+FL-10721,Sierra Vasquez MD,Alignment Research,Research,8,2024-03-08,3,5,3,4.0,2.0,50.0,16.7,0
+FL-10733,Zachary Sanford,Policy & Governance,Policy,12,2021-12-07,2,1,1,3.0,3.0,41.0,25.0,1
+FL-10018,Matthew Foster,Interpretability,Research,3,2026-04-09,3,3,4,4.0,3.0,65.0,0.0,0
+FL-10818,Eugene Baldwin,INFRASTRUCTURE,Engineering,3,2025-08-08,2,3,4,2.0,5.0,50.0,0.0,0
+FL-10312,Steven Cooper,Interpretability,Research,8,2025-04-14,4,4,4,5.0,2.0,67.0,16.7,0
+FL-10254,David Thompson,Policy & Governance,Policy,1,2025-01-09,2,3,5,4.0,2.0,59.0,0.0,0
+FL-10225,Tanner Mitchell DDS,Interpretability,Research,20,2024-10-04,4,3,5,3.0,3.0,60.0,41.7,0
+FL-10087,Wesley White,Policy & Governance,Policy,28,2026-07-04,4,1,2,2.0,4.0,49.0,58.3,1
+FL-10776,David Reese,SAFETY EVALUATIONS,Research,34,2026-04-20,1,2,3,2.0,3.0,48.0,70.8,0
+FL-10419,Amber Taylor,Alignment Research,Research,1,2023-05-31,4,4,2,3.0,4.0,57.0,0.0,0
+FL-10518,Katherine Jackson,Alignment Research,Research,5,2025-09-06,3,2,3,1.0,3.0,51.0,0.0,1
+FL-10649,Brian Porter MD,Alignment Research,Research,18,2024-05-15,3,3,2,2.0,4.0,44.0,37.5,0
+FL-10222,Laura Haney,ALIGNMENT RESEARCH,Research,15,2023-03-24,2,4,4,2.0,2.0,62.0,31.2,0
+FL-10849,Mary Jackson,Safety Evaluations,Research,5,2023-07-14,4,3,3,2.0,3.0,44.0,0.0,0
+FL-10532,Anna Gray,Safety Evaluations,Research,6,2024-06-28,3,4,3,3.0,4.0,80.0,12.5,1
+FL-10424,Michael Whitney,Applied Research,Research,1,2024-08-23,4,3,3,3.0,3.0,56.0,0.0,0
+FL-10218,Robert Santana,Infrastructure,Engineering,31,2025-02-07,3,3,4,3.0,4.0,46.0,64.6,0
+FL-10699,Brenda Smith,Infrastructure,Engineering,23,2025-11-09,1,3,3,4.0,4.0,39.0,47.9,0
+FL-10521,Theresa Barnett,Alignment Research,Research,17,2025-07-13,3,4,3,2.0,4.0,42.0,35.4,0
+FL-10546,Henry Pugh MD,INTERPRETABILITY,Research,21,2025-02-11,3,3,4,3.0,4.0,59.0,43.8,0
+FL-10840,Dennis Mills,Alignment Research,Research,27,2022-10-07,2,3,2,2.0,4.0,41.0,56.2,1
+FL-10442,Hannah Ramos,APPLIED RESEARCH,Research,10,2023-01-13,2,1,3,4.0,3.0,49.0,20.8,0
+FL-10724,Tamara Richard,INFRASTRUCTURE,Engineering,7,2023-05-14,1,2,1,5.0,2.0,50.0,14.6,0
+FL-10193,Ronnie Jimenez,SAFETY EVALUATIONS,Research,8,2025-04-19,4,2,3,5.0,3.0,56.0,16.7,0
+FL-10185,Jordan Edwards,Alignment Research,Research,1,2023-05-13,5,4,3,3.0,3.0,45.0,0.0,0
+FL-10286,Ashley Jordan,Policy & Governance,Policy,60,2023-03-02,2,5,3,5.0,4.0,39.0,100.0,0
+FL-10066,Aimee Montoya,Safety Evaluations,Research,18,2023-03-31,2,3,3,4.0,2.0,65.0,37.5,0
+FL-10453,Jon Zuniga,Applied Research,Research,3,2026-07-03,1,2,2,1.0,3.0,69.0,0.0,0
+FL-10816,Anthony Dickerson,Alignment Research,Research,8,2022-06-13,4,1,4,3.0,2.0,45.0,16.7,1
+FL-10071,Aaron Wise,Safety Evaluations,Research,7,2024-11-27,5,2,4,3.0,3.0,50.0,14.6,1
+FL-10429,Amanda Vaughan,Policy & Governance,Policy,11,2022-04-25,2,2,2,3.0,4.0,43.0,22.9,1
+FL-10412,Julie Herrera,Safety Evaluations,Research,6,2025-12-09,3,4,4,4.0,3.0,35.0,12.5,0
+FL-10082,Shane Garrison,Infrastructure,Engineering,16,2022-11-13,3,1,3,3.0,3.0,57.0,33.3,0
+FL-10795,Robert Torres,ALIGNMENT RESEARCH,Research,27,2026-07-12,2,2,2,3.0,4.0,63.0,56.2,1
+FL-10810,Robert Hines,Safety Evaluations,Research,9,2022-09-03,2,3,5,2.0,3.0,65.0,18.8,0
+FL-10723,Thomas Harris,Interpretability,Research,1,2022-06-01,2,1,3,4.0,4.0,72.0,0.0,0
+FL-10015,Margaret Hawkins DDS,SAFETY EVALUATIONS,Research,10,2025-12-01,2,3,3,,,,20.8,0
+FL-10801,Shannon Green,Safety Evaluations,Research,14,2025-04-09,3,2,4,2.0,2.0,35.0,29.2,1
+FL-10645,Juan Greene,Interpretability,Research,5,2024-10-05,3,3,4,4.0,3.0,44.0,0.0,0
+FL-10529,Debra Sanders,Interpretability,Research,28,2023-08-11,2,3,4,3.0,3.0,61.0,58.3,0
+FL-10668,David Garcia,Applied Research,Research,14,2024-08-05,1,3,4,3.0,4.0,61.0,29.2,0
+FL-10406,Dylan Cruz,Interpretability,Research,2,2024-10-19,4,4,2,3.0,3.0,45.0,0.0,0
+FL-10451,Taylor Gentry,Interpretability,Research,23,2022-08-20,3,2,3,1.0,3.0,35.0,47.9,0
+FL-10255,Adrian Tyler,Policy & Governance,Policy,5,2022-12-11,1,4,2,3.0,4.0,66.0,0.0,0
+FL-10478,Laura Williams,INFRASTRUCTURE,Engineering,2,2023-06-20,2,1,4,2.0,4.0,52.0,0.0,1
+FL-10135,Jennifer Espinoza,SAFETY EVALUATIONS,Research,1,2022-02-23,2,5,3,4.0,2.0,47.0,0.0,0
+FL-10702,Austin Orr,Policy & Governance,Policy,7,2023-12-15,1,3,4,3.0,3.0,36.0,14.6,0
+FL-10416,William Becker,Alignment Research,Research,3,2022-05-11,4,4,2,3.0,4.0,65.0,0.0,0
+FL-10029,Lisa Hernandez,Policy & Governance,Policy,6,2025-07-10,2,2,5,4.0,3.0,55.0,12.5,0
+FL-10181,Sydney White,Infrastructure,Engineering,4,2024-08-26,3,3,4,2.0,3.0,36.0,0.0,0
+FL-10227,Mary Massey,Interpretability,Research,3,2024-11-11,2,5,3,2.0,3.0,56.0,0.0,0
+FL-10404,Bianca Wood,Interpretability,Research,7,2024-07-14,3,3,3,2.0,3.0,54.0,14.6,0
+FL-10364,Tim Stone PhD,INTERPRETABILITY,Research,13,2025-05-07,2,3,4,2.0,3.0,66.0,27.1,1
+FL-10814,Lauren Blackburn,Interpretability,Research,4,2022-02-14,4,3,3,3.0,4.0,48.0,0.0,1
+FL-10459,Laura Todd,Interpretability,Research,16,2022-08-21,4,3,3,1.0,2.0,61.0,33.3,1
+FL-10104,Cheyenne Horton,INFRASTRUCTURE,Engineering,27,2024-03-15,1,3,3,2.0,5.0,59.0,56.2,0
+FL-10468,Christian Adkins,Applied Research,Research,1,2024-10-01,3,4,3,3.0,3.0,59.0,0.0,0
+FL-10321,Rickey Li,Policy & Governance,Policy,49,2025-01-25,2,5,4,3.0,3.0,54.0,100.0,0
+FL-10268,Maurice Brooks,Interpretability,Research,1,2022-07-11,4,4,2,3.0,3.0,40.0,0.0,0
+FL-10501,Renee Melendez,Policy & Governance,Policy,5,2024-07-16,4,5,3,3.0,5.0,50.0,0.0,0
+FL-10752,Lindsay Gonzalez,Safety Evaluations,Research,15,2021-11-25,5,4,3,3.0,4.0,43.0,31.2,0
+FL-10666,Michael Ray,Policy & Governance,Policy,18,2022-02-25,2,3,3,3.0,3.0,60.0,37.5,1
+FL-10392,Michael Reed,Alignment Research,Research,1,2026-05-26,4,3,2,2.0,4.0,35.0,0.0,0
+FL-10557,Jason Washington,Safety Evaluations,Research,14,2022-02-25,3,4,3,2.0,3.0,66.0,29.2,0
+FL-10555,Laura Jackson,Infrastructure,Engineering,3,2023-08-24,3,2,4,3.0,1.0,46.0,0.0,1
+FL-10241,Charles Shah,Interpretability,Research,5,2023-04-09,3,2,3,4.0,4.0,49.0,0.0,1
+FL-10430,Erik Hernandez,Applied Research,Research,6,2025-03-03,2,3,4,3.0,2.0,53.0,12.5,1
+FL-10589,Kevin Price,INTERPRETABILITY,Research,12,2025-03-28,3,2,5,2.0,4.0,67.0,25.0,0
+FL-10669,Crystal Hicks,Alignment Research,Research,8,2021-12-28,3,4,4,4.0,3.0,56.0,16.7,1
+FL-10203,Matthew Hoover,APPLIED RESEARCH,Research,11,2026-08-06,2,4,2,3.0,2.0,50.0,22.9,0
+FL-10452,Casey Gillespie,Policy & Governance,Policy,27,2026-09-04,3,2,4,4.0,2.0,64.0,56.2,0
+FL-10777,Alicia Roth,Interpretability,Research,3,2023-04-07,2,4,3,3.0,2.0,69.0,0.0,0
+FL-10083,Julia Torres,Infrastructure,Engineering,22,2025-09-07,1,5,4,3.0,4.0,38.0,45.8,0
+FL-10118,Pamela James,Alignment Research,Research,1,2021-10-20,4,2,4,2.0,3.0,69.0,0.0,0
+FL-10096,Stephanie Gilbert,Policy & Governance,Policy,10,2023-04-03,2,3,4,5.0,3.0,54.0,20.8,1
+FL-10467,Elizabeth Mendez,Infrastructure,Engineering,4,2022-11-07,3,2,5,3.0,3.0,58.0,0.0,0
+FL-10536,Stacy Alvarez,Safety Evaluations,Research,24,2022-01-01,2,4,4,4.0,4.0,73.0,50.0,0
+FL-10492,Daniel Shields,INFRASTRUCTURE,Engineering,27,2022-01-19,4,3,3,3.0,4.0,35.0,56.2,0
+FL-10166,Wanda Torres,Safety Evaluations,Research,20,2024-10-29,3,2,1,4.0,4.0,49.0,41.7,0
+FL-10563,Vincent Novak,Safety Evaluations,Research,15,2023-03-17,3,4,2,3.0,4.0,44.0,31.2,0
+FL-10189,Joshua Pennington,Interpretability,Research,8,2023-12-05,3,3,1,3.0,2.0,43.0,16.7,0
+FL-10790,Melissa Mitchell,ALIGNMENT RESEARCH,Research,8,2023-09-04,3,3,2,4.0,2.0,56.0,16.7,0
+FL-10725,Kevin Stark,Safety Evaluations,Research,3,2025-07-31,4,1,5,5.0,1.0,47.0,0.0,0
+FL-10092,Helen Jones,INTERPRETABILITY,Research,4,2025-01-14,3,5,3,3.0,3.0,62.0,0.0,0
+FL-10366,Bobby Guerrero,SAFETY EVALUATIONS,Research,25,2023-04-13,3,2,5,5.0,3.0,61.0,52.1,0
+FL-10315,Jason Morgan,Infrastructure,Engineering,15,2024-09-17,2,5,4,3.0,4.0,56.0,31.2,0
+FL-10361,Richard Glenn,Applied Research,Research,1,2023-05-29,4,2,4,3.0,2.0,40.0,0.0,1
+FL-10138,Hannah Patterson,Safety Evaluations,Research,8,2023-08-06,4,5,3,4.0,3.0,51.0,16.7,0
+FL-10276,Renee Bruce,Infrastructure,Engineering,14,2026-07-26,3,2,3,3.0,4.0,58.0,29.2,0
+FL-10384,Richard Johnson,Safety Evaluations,Research,4,2024-07-01,4,2,3,4.0,4.0,54.0,0.0,0
+FL-10696,Henry Palmer,Alignment Research,Research,13,2025-02-07,2,2,4,4.0,3.0,62.0,27.1,1
+FL-10088,Brian Hamilton,INTERPRETABILITY,Research,3,2025-05-10,3,3,5,2.0,4.0,50.0,0.0,0
+FL-10698,Paul Wright,Infrastructure,Engineering,8,2024-01-17,2,4,5,3.0,4.0,63.0,16.7,0
+FL-10280,Kylie Morales,Applied Research,Research,9,2022-06-21,1,5,4,4.0,3.0,59.0,18.8,0
+FL-10460,Stephanie Wilcox,Infrastructure,Engineering,4,2024-04-22,4,3,4,2.0,4.0,53.0,0.0,0
+FL-10548,Angela Moore,Safety Evaluations,Research,32,2025-04-10,3,3,4,3.0,5.0,44.0,66.7,0
+FL-10766,Zachary Burton,INFRASTRUCTURE,Engineering,42,2025-11-16,3,2,2,3.0,4.0,65.0,87.5,0
+FL-10530,Karl Branch,Safety Evaluations,Research,21,2022-11-19,2,1,2,2.0,5.0,53.0,43.8,0
+FL-10202,Patrick Thornton,Safety Evaluations,Research,10,2025-10-06,4,4,2,2.0,3.0,46.0,20.8,0
+FL-10402,John Harris,Alignment Research,Research,10,2024-10-03,3,3,2,2.0,2.0,37.0,20.8,0
+FL-10340,Jonathan Young,Policy & Governance,Policy,12,2026-08-31,3,5,2,2.0,3.0,58.0,25.0,0
+FL-10365,Lance Short,Safety Evaluations,Research,2,2024-06-15,2,3,3,2.0,3.0,54.0,0.0,0
+FL-10023,Arthur James,Alignment Research,Research,8,2026-09-03,3,1,4,3.0,3.0,43.0,16.7,0
+FL-10345,Kimberly Acosta,Policy & Governance,Policy,12,2024-05-14,2,4,2,1.0,4.0,45.0,25.0,0
+FL-10820,Philip Jackson,Safety Evaluations,Research,20,2025-07-14,2,2,4,,,,41.7,0
+FL-10334,Joseph Burch,Interpretability,Research,7,2025-10-16,2,3,5,3.0,3.0,56.0,14.6,0
+FL-10310,Joanna Pacheco,Applied Research,Research,30,2024-12-23,1,4,4,4.0,3.0,49.0,62.5,0
+FL-10794,Maria Burke,Alignment Research,Research,17,2021-10-25,3,2,3,3.0,2.0,41.0,35.4,1
+FL-10353,Mrs. Alexis Kramer,APPLIED RESEARCH,Research,1,2023-06-21,4,3,3,4.0,4.0,63.0,0.0,0
+FL-10838,Ronald Garcia,Alignment Research,Research,52,2025-04-22,2,3,5,3.0,3.0,56.0,100.0,1
+FL-10240,Rodney Blankenship,Infrastructure,Engineering,14,2023-04-05,1,3,3,3.0,4.0,47.0,29.2,0
+FL-10318,Shelley Cook,Interpretability,Research,13,2024-08-21,4,1,4,3.0,3.0,63.0,27.1,0
+FL-10652,Tiffany Townsend,Safety Evaluations,Research,17,2021-11-08,2,2,4,2.0,3.0,60.0,35.4,0
+FL-10262,Bobby Franklin,Infrastructure,Engineering,8,2022-02-04,1,4,3,5.0,5.0,45.0,16.7,0
+FL-10098,Mary Marshall,Alignment Research,Research,28,2023-12-13,3,4,5,3.0,3.0,68.0,58.3,0
+FL-10656,Diamond Collins,Applied Research,Research,5,2024-04-15,1,3,3,,,,0.0,0
+FL-10663,Rachel Le,Safety Evaluations,Research,10,2022-08-05,1,4,2,5.0,2.0,44.0,20.8,0
+FL-10764,Carrie Joyce,Alignment Research,Research,4,2026-07-22,4,3,4,2.0,3.0,58.0,0.0,0
+FL-10089,Larry Dixon,Alignment Research,Research,60,2023-09-01,4,4,5,1.0,3.0,47.0,100.0,1
+FL-10515,Jennifer Hernandez,Alignment Research,Research,1,2023-05-25,2,3,5,2.0,3.0,44.0,0.0,0
+FL-10331,Joann Ferguson,Infrastructure,Engineering,5,2023-04-18,2,3,3,3.0,3.0,36.0,0.0,0
+FL-10787,Madison Martinez,Alignment Research,Research,4,2021-12-03,3,5,4,4.0,4.0,64.0,0.0,0
+FL-10433,Matthew Fox,Infrastructure,Engineering,7,2023-04-26,2,3,3,3.0,3.0,52.0,14.6,1
+FL-10807,Joseph Glover,Safety Evaluations,Research,3,2026-03-26,4,4,4,3.0,3.0,55.0,0.0,0
+FL-10673,Nathan Nelson,INFRASTRUCTURE,Engineering,6,2022-02-26,3,2,4,3.0,3.0,49.0,12.5,0
+FL-10486,Michael Stephens,Infrastructure,Engineering,3,2024-05-22,1,5,3,3.0,4.0,46.0,0.0,0
+FL-10565,Robert Long,Interpretability,Research,2,2022-05-02,3,4,3,,,,0.0,0
+FL-10736,William Jackson,Safety Evaluations,Research,7,2026-02-16,3,4,4,2.0,2.0,75.0,14.6,1
+FL-10493,Donna Cabrera,Safety Evaluations,Research,18,2025-05-15,3,4,3,2.0,4.0,57.0,37.5,0
+FL-10260,Victor Brown,Applied Research,Research,25,2024-02-17,3,4,3,4.0,4.0,40.0,52.1,0
+FL-10305,Brittany Jones,Alignment Research,Research,9,2023-12-13,1,5,2,4.0,3.0,46.0,18.8,0
+FL-10196,Sherry Shields,Policy & Governance,Policy,26,2023-02-18,2,5,2,4.0,4.0,45.0,54.2,0
+FL-10140,Tyler Reid,Policy & Governance,Policy,24,2025-11-06,2,4,5,4.0,3.0,40.0,50.0,0
+FL-10122,Michael Powell,Infrastructure,Engineering,8,2022-08-02,2,3,3,3.0,2.0,39.0,16.7,0
+FL-10494,Kyle Chambers,Safety Evaluations,Research,4,2023-05-08,4,4,3,1.0,4.0,41.0,0.0,0
+FL-10110,Kathy Rivas,Infrastructure,Engineering,7,2024-06-19,1,1,4,4.0,5.0,47.0,14.6,0
+FL-10084,Alexander Lee,Applied Research,Research,1,2023-05-22,3,3,4,2.0,2.0,61.0,0.0,0
+FL-10591,Shane Lopez,Safety Evaluations,Research,9,2023-05-18,4,3,3,3.0,3.0,70.0,18.8,0
+FL-10513,Jacqueline Gutierrez,Infrastructure,Engineering,3,2024-07-16,1,3,4,2.0,4.0,51.0,0.0,0
+FL-10482,Janet Kane DVM,Alignment Research,Research,36,2023-08-15,3,4,4,5.0,4.0,62.0,75.0,0
+FL-10687,Robert Jones,Interpretability,Research,15,2024-07-25,2,2,3,3.0,3.0,49.0,31.2,0
+FL-10074,Sandra Aguilar,Alignment Research,Research,1,2022-07-02,4,2,4,3.0,3.0,61.0,0.0,0
+FL-10841,Elizabeth Williams,Policy & Governance,Policy,20,2024-03-19,2,4,4,3.0,3.0,52.0,41.7,0
+FL-10648,Anthony Hurst,Alignment Research,Research,7,2026-06-20,3,4,2,3.0,4.0,45.0,14.6,0
+FL-10273,Tracy Burke,Infrastructure,Engineering,25,2023-07-03,4,1,3,3.0,5.0,55.0,52.1,0
+FL-10396,Michelle Jacobs,Safety Evaluations,Research,1,2025-12-01,1,3,5,2.0,3.0,54.0,0.0,0
+FL-10154,Joshua Gill,Alignment Research,Research,11,2022-09-07,4,2,3,4.0,5.0,52.0,22.9,0
+FL-10191,Christopher Pierce,Policy & Governance,Policy,1,2024-06-27,3,3,1,3.0,4.0,48.0,0.0,0
+FL-10808,Katie Bruce,Infrastructure,Engineering,2,2025-11-27,2,3,5,2.0,2.0,42.0,0.0,1
+FL-10187,Kimberly Gutierrez,Policy & Governance,Policy,31,2022-09-11,1,5,2,4.0,5.0,42.0,64.6,0
+FL-10050,Sarah Martin,Policy & Governance,Policy,6,2024-02-29,4,3,4,3.0,5.0,62.0,12.5,0
+FL-10038,Barbara Walker,Interpretability,Research,28,2023-06-09,3,3,3,2.0,3.0,56.0,58.3,1
+FL-10418,Nicole Gonzalez,Infrastructure,Engineering,5,2024-04-11,3,4,3,2.0,4.0,44.0,0.0,1
+FL-10774,Amanda Hill,Applied Research,Research,36,2022-06-25,3,3,5,2.0,2.0,51.0,75.0,0
+FL-10208,Sarah Phelps,Alignment Research,Research,1,2025-12-31,3,4,4,1.0,4.0,53.0,0.0,0
+FL-10375,Jennifer Banks,Infrastructure,Engineering,11,2023-01-01,4,4,4,3.0,5.0,48.0,22.9,0
+FL-10463,Tiffany Turner,Infrastructure,Engineering,23,2025-04-30,3,3,4,,,,47.9,0
+FL-10470,Colleen Wright,Alignment Research,Research,50,2025-06-26,3,1,5,2.0,5.0,60.0,100.0,1
+FL-10517,Dawn Underwood,Safety Evaluations,Research,13,2026-07-11,4,3,4,2.0,3.0,45.0,27.1,0
+FL-10075,Eric Nolan,Interpretability,Research,13,2025-09-08,2,4,1,1.0,3.0,60.0,27.1,0
+FL-10248,Colton Martinez,Alignment Research,Research,9,2025-12-11,4,4,4,2.0,1.0,61.0,18.8,0
+FL-10559,Brian Torres,Interpretability,Research,2,2026-06-10,2,4,2,1.0,3.0,56.0,0.0,0
+FL-10302,Cassandra Mejia,Policy & Governance,Policy,2,2024-03-15,4,3,3,3.0,4.0,53.0,0.0,0
+FL-10582,Jesse Clark,Applied Research,Research,1,2024-02-24,2,5,3,3.0,3.0,61.0,0.0,0
+FL-10655,Michael Miller,APPLIED RESEARCH,Research,33,2024-05-30,1,1,4,2.0,2.0,48.0,68.8,0
+FL-10837,Mary Nelson,Policy & Governance,Policy,9,2024-10-01,3,3,5,5.0,4.0,54.0,18.8,0
+FL-10011,David Garcia,Interpretability,Research,10,2023-02-21,2,2,5,3.0,2.0,42.0,20.8,1
+FL-10485,Courtney Smith,Alignment Research,Research,4,2021-11-19,4,3,4,2.0,4.0,65.0,0.0,0
+FL-10462,David Green,Interpretability,Research,9,2022-12-06,2,2,1,3.0,3.0,36.0,18.8,1
+FL-10776,David Reese,SAFETY EVALUATIONS,Research,34,2026-04-20,1,2,3,2.0,3.0,48.0,70.8,0
+FL-10281,Amanda Reese,Policy & Governance,Policy,5,2022-10-31,3,2,3,2.0,4.0,38.0,0.0,0
+FL-10253,April Garrison,Interpretability,Research,7,2022-06-26,4,2,3,1.0,3.0,60.0,14.6,0
+FL-10775,Melissa Williams,Interpretability,Research,1,2026-02-23,4,3,2,2.0,5.0,61.0,0.0,0
+FL-10636,Michael Montoya,Applied Research,Research,17,2026-08-19,1,5,5,,,,35.4,0
+FL-10806,Laura Lee,Infrastructure,Engineering,7,2025-05-06,2,2,1,3.0,3.0,39.0,14.6,0
+FL-10577,Adam Green,Safety Evaluations,Research,8,2024-04-14,2,3,1,2.0,3.0,40.0,16.7,1
+FL-10219,Jeremy Reed,Infrastructure,Engineering,1,2024-08-30,2,4,3,3.0,3.0,42.0,0.0,1
+FL-10425,Molly Watts,Safety Evaluations,Research,1,2021-11-26,4,2,3,5.0,3.0,53.0,0.0,1
+FL-10369,William Gould,Applied Research,Research,12,2022-02-21,2,2,5,2.0,3.0,57.0,25.0,0
+FL-10615,Donna Adams,Safety Evaluations,Research,6,2025-12-28,3,4,2,4.0,3.0,66.0,12.5,0
+FL-10069,Christina Walters,INFRASTRUCTURE,Engineering,2,2023-01-27,3,2,3,3.0,3.0,45.0,0.0,0
+FL-10819,Mr. Christopher Walters,ALIGNMENT RESEARCH,Research,5,2021-10-18,5,2,4,4.0,4.0,50.0,0.0,1
+FL-10580,Alexander Garcia,Infrastructure,Engineering,14,2023-10-27,2,3,2,3.0,3.0,57.0,29.2,0
+FL-10021,Zachary Hicks,Infrastructure,Engineering,16,2022-03-22,1,2,5,4.0,3.0,54.0,33.3,0
+FL-10077,Richard Henson,Interpretability,Research,1,2023-10-09,4,1,4,5.0,4.0,47.0,0.0,1
+FL-10547,Angelica Montgomery,Interpretability,Research,26,2025-09-12,4,3,3,4.0,3.0,48.0,54.2,0
+FL-10307,Jesse Brown,Alignment Research,Research,18,2025-11-11,3,3,3,2.0,3.0,62.0,37.5,0
+FL-10832,Matthew Johnson,Infrastructure,Engineering,1,2026-01-31,3,4,3,3.0,4.0,62.0,0.0,0
+FL-10125,Joel Williams,Infrastructure,Engineering,43,2023-08-21,3,3,4,3.0,4.0,51.0,89.6,0
+FL-10228,Maria Parker,Interpretability,Research,3,2023-12-10,3,3,5,4.0,2.0,54.0,0.0,0
+FL-10042,Timothy Duncan,Infrastructure,Engineering,8,2024-02-05,1,2,3,3.0,3.0,57.0,16.7,0
+FL-10516,Roy Porter,Safety Evaluations,Research,1,2024-12-28,4,3,5,4.0,1.0,47.0,0.0,0
+FL-10572,Tami Holt,Applied Research,Research,47,2024-06-12,3,2,3,2.0,2.0,67.0,97.9,0
+FL-10576,Jennifer Goodwin,Alignment Research,Research,2,2026-07-10,2,4,3,4.0,3.0,35.0,0.0,0
+FL-10705,Jennifer Johnson,Safety Evaluations,Research,2,2025-02-18,3,5,4,3.0,2.0,44.0,0.0,1
+FL-10621,Anna Robertson,Alignment Research,Research,15,2023-02-21,5,1,5,1.0,3.0,51.0,31.2,1
+FL-10374,Jacqueline Hines,Alignment Research,Research,8,2024-08-05,5,5,4,2.0,3.0,50.0,16.7,1
+FL-10205,Jessica Fox,Applied Research,Research,33,2024-01-08,1,3,5,3.0,4.0,46.0,68.8,0
+FL-10559,Brian Torres,Interpretability,Research,2,2026-06-10,2,4,2,1.0,3.0,56.0,0.0,0
+FL-10006,Gabrielle Davis,Applied Research,Research,13,2022-04-01,2,3,2,2.0,4.0,64.0,27.1,0
+FL-10493,Donna Cabrera,Safety Evaluations,Research,18,2025-05-15,3,4,3,2.0,4.0,57.0,37.5,0
+FL-10829,Heather Lopez,Policy & Governance,Policy,5,2026-06-08,3,3,3,4.0,3.0,57.0,0.0,1
+FL-10678,Marcus Marshall,Safety Evaluations,Research,33,2024-09-06,5,2,3,3.0,4.0,63.0,68.8,0
+FL-10653,Dennis Williams,Alignment Research,Research,40,2022-01-26,3,1,3,4.0,5.0,48.0,83.3,0
+FL-10259,Richard Camacho,Alignment Research,Research,3,2024-05-03,3,2,3,5.0,3.0,66.0,0.0,1
+FL-10282,Glen Wood,Infrastructure,Engineering,21,2025-04-27,2,4,4,2.0,2.0,35.0,43.8,1
+FL-10590,Paul Stokes,Infrastructure,Engineering,7,2022-01-30,1,4,3,4.0,3.0,38.0,14.6,0
+FL-10780,Debra Butler,Infrastructure,Engineering,18,2024-12-12,3,4,2,3.0,5.0,58.0,37.5,0
+FL-10298,Gary Jackson,Infrastructure,Engineering,27,2024-04-13,3,1,3,4.0,3.0,39.0,56.2,0
+FL-10455,William Mitchell,Safety Evaluations,Research,8,2026-08-21,2,3,3,4.0,2.0,58.0,16.7,1
+FL-10320,Kurt Hurley,Infrastructure,Engineering,6,2023-04-19,1,3,4,3.0,3.0,52.0,12.5,0
+FL-10434,Thomas Peterson,Safety Evaluations,Research,34,2023-07-08,4,3,2,4.0,3.0,53.0,70.8,0
+FL-10299,Jordan Bullock,Infrastructure,Engineering,6,2023-06-29,4,3,4,2.0,1.0,47.0,12.5,1
+FL-10436,Cheryl Wright,POLICY & GOVERNANCE,Policy,17,2024-07-08,2,3,3,4.0,3.0,54.0,35.4,0
+FL-10716,Amy Davies,Applied Research,Research,1,2022-11-08,1,5,5,2.0,3.0,45.0,0.0,0
+FL-10438,Michael Stewart,Safety Evaluations,Research,1,2023-06-28,4,3,4,2.0,2.0,68.0,0.0,0
+FL-10325,Chad Jones,Safety Evaluations,Research,15,2025-12-04,5,5,3,3.0,4.0,53.0,31.2,0
+FL-10403,Nathan Gross,Alignment Research,Research,5,2026-01-02,3,5,3,4.0,5.0,53.0,0.0,0
+FL-10265,Sarah Curtis,Interpretability,Research,10,2025-07-22,3,1,4,4.0,3.0,45.0,20.8,0
+FL-10564,Katherine Johnston,Interpretability,Research,4,2022-12-19,3,4,3,3.0,3.0,49.0,0.0,0
+FL-10602,Kathy Simpson,Interpretability,Research,7,2025-02-20,4,4,2,,,,14.6,0
+FL-10719,Suzanne Johnson,Interpretability,Research,8,2025-03-21,2,4,3,3.0,5.0,60.0,16.7,1
+FL-10278,Sandra Adams,Alignment Research,Research,3,2022-08-30,3,4,4,3.0,5.0,61.0,0.0,0
+FL-10671,Timothy Mathews,Interpretability,Research,16,2024-06-28,4,5,3,4.0,2.0,50.0,33.3,0
+FL-10553,Erika Cruz,Interpretability,Research,6,2023-03-18,3,4,4,2.0,3.0,54.0,12.5,0
+FL-10762,Michelle Shaw,Interpretability,Research,19,2026-03-15,2,3,4,3.0,4.0,39.0,39.6,0
+FL-10785,Sara Wright,Applied Research,Research,5,2024-01-07,2,5,3,4.0,3.0,55.0,0.0,0
+FL-10231,Kiara Mcintyre,Safety Evaluations,Research,11,2025-11-09,3,2,3,3.0,2.0,56.0,22.9,1
+FL-10245,Jason Lynn Jr.,Infrastructure,Engineering,18,2023-08-06,4,3,4,2.0,4.0,40.0,37.5,0
+FL-10167,Natalie Meza,ALIGNMENT RESEARCH,Research,7,2022-10-18,4,4,2,2.0,4.0,40.0,14.6,0
+FL-10502,Kristin Anderson,Safety Evaluations,Research,31,2022-12-20,3,4,4,3.0,3.0,51.0,64.6,0
+FL-10332,Julie Conley,Interpretability,Research,32,2023-08-01,4,1,3,2.0,4.0,56.0,66.7,0
+FL-10426,Walter Patton,Alignment Research,Research,1,2025-08-03,3,2,3,4.0,3.0,51.0,0.0,1
+FL-10541,Steven Rivera,POLICY & GOVERNANCE,Policy,11,2025-06-28,3,1,4,3.0,3.0,56.0,22.9,1
+FL-10162,Benjamin Soto,Infrastructure,Engineering,6,2022-01-14,4,5,3,2.0,3.0,36.0,12.5,0
+FL-10149,Peter Vaughn DDS,Infrastructure,Engineering,15,2024-03-09,1,3,3,3.0,3.0,44.0,31.2,1
+FL-10226,Mark Oliver,Interpretability,Research,6,2025-02-08,3,3,4,3.0,3.0,65.0,12.5,1
+FL-10094,Eric Ortiz,Infrastructure,Engineering,25,2023-10-02,3,4,5,4.0,3.0,53.0,52.1,1
+FL-10221,James Webb,Alignment Research,Research,20,2022-12-10,2,4,3,3.0,4.0,48.0,41.7,0
+FL-10597,Kayla Barnes,Interpretability,Research,5,2022-06-14,1,3,4,5.0,3.0,51.0,0.0,0
+FL-10473,Laura Hernandez,Infrastructure,Engineering,8,2023-05-22,3,4,1,3.0,3.0,40.0,16.7,0
+FL-10752,Lindsay Gonzalez,Safety Evaluations,Research,15,2021-11-25,5,4,3,3.0,4.0,43.0,31.2,0
+FL-10601,Adam Taylor,Applied Research,Research,6,2025-10-13,1,3,4,3.0,3.0,45.0,12.5,0
+FL-10771,Olivia Ayers,INFRASTRUCTURE,Engineering,16,2026-04-28,1,4,4,3.0,4.0,54.0,33.3,0
+FL-10034,Pamela Anderson,Infrastructure,Engineering,19,2024-02-10,3,4,3,2.0,3.0,45.0,39.6,0
+FL-10217,Joel King,Alignment Research,Research,3,2023-01-11,3,2,5,3.0,3.0,58.0,0.0,0
+FL-10072,Patrick Arnold,POLICY & GOVERNANCE,Policy,7,2023-11-17,3,4,4,2.0,3.0,56.0,14.6,0
+FL-10220,Jessica Wright,INFRASTRUCTURE,Engineering,14,2025-12-06,2,3,3,4.0,2.0,35.0,29.2,0
+FL-10213,Stephanie Williams,Interpretability,Research,22,2025-09-08,2,3,4,,,,45.8,0
+FL-10759,Leah Spencer,Safety Evaluations,Research,23,2025-11-28,1,2,3,4.0,2.0,45.0,47.9,0
+FL-10394,Beth Turner,Infrastructure,Engineering,14,2024-05-25,1,1,4,2.0,1.0,53.0,29.2,1
+FL-10848,Anna Chang,Infrastructure,Engineering,6,2021-12-31,4,4,3,2.0,3.0,54.0,12.5,0
+FL-10367,Jessica Norris,Alignment Research,Research,40,2023-07-03,2,3,4,1.0,3.0,54.0,83.3,1
+FL-10012,Holly Wood,Policy & Governance,Policy,9,2022-10-21,2,3,3,2.0,4.0,58.0,18.8,0
+FL-10748,Daniel Lee,Safety Evaluations,Research,1,2025-03-15,4,4,4,2.0,2.0,54.0,0.0,0
+FL-10343,Melissa Taylor,Safety Evaluations,Research,1,2025-03-30,4,3,3,4.0,3.0,42.0,0.0,0
+FL-10198,Diane Evans,Interpretability,Research,2,2024-08-29,2,3,3,4.0,5.0,64.0,0.0,0
+FL-10234,Vincent Dalton,Safety Evaluations,Research,1,2025-05-02,2,4,4,3.0,3.0,54.0,0.0,0
+FL-10420,Jesus Obrien,APPLIED RESEARCH,Research,10,2024-04-22,2,3,4,1.0,5.0,63.0,20.8,0
+FL-10732,Nicholas Rush,Interpretability,Research,4,2026-06-09,4,2,3,1.0,3.0,51.0,0.0,1
+FL-10608,Nathan Payne,Alignment Research,Research,23,2026-08-22,4,3,4,1.0,3.0,67.0,47.9,0
+FL-10692,Jason Herrera,INTERPRETABILITY,Research,55,2026-07-08,4,4,2,4.0,5.0,59.0,100.0,0
+FL-10297,Kelly Foster,SAFETY EVALUATIONS,Research,1,2023-04-20,2,1,3,2.0,1.0,56.0,0.0,1
+FL-10063,Dr. Angel Lewis MD,Applied Research,Research,5,2026-05-13,2,5,3,3.0,3.0,60.0,0.0,0
+FL-10607,Samantha Richardson,Applied Research,Research,15,2025-10-26,1,5,3,1.0,4.0,53.0,31.2,0
+FL-10013,Timothy Wong,Policy & Governance,Policy,14,2024-10-07,1,2,3,3.0,4.0,67.0,29.2,1
+FL-10435,Michelle Schneider,Applied Research,Research,3,2025-03-08,1,4,4,3.0,3.0,43.0,0.0,0
+FL-10017,Daniel Hahn,Interpretability,Research,5,2026-01-30,4,4,5,3.0,4.0,44.0,0.0,0
+FL-10773,Jason Reyes,Applied Research,Research,1,2024-02-29,4,3,3,3.0,1.0,59.0,0.0,1
+FL-10348,Linda Smith,Applied Research,Research,60,2024-04-22,4,3,2,2.0,5.0,43.0,100.0,0
+FL-10207,Wayne Morgan,Safety Evaluations,Research,10,2025-03-07,3,5,3,4.0,3.0,55.0,20.8,0
+FL-10090,Dawn Fletcher,Infrastructure,Engineering,6,2021-10-13,4,2,3,3.0,3.0,57.0,12.5,0
+FL-10307,Jesse Brown,Alignment Research,Research,18,2025-11-11,3,3,3,2.0,3.0,62.0,37.5,0
+FL-10341,Alfred Galvan,Infrastructure,Engineering,3,2025-11-25,3,4,4,3.0,1.0,50.0,0.0,0
+FL-10380,Michael Bruce,APPLIED RESEARCH,Research,1,2023-05-06,5,1,5,4.0,2.0,61.0,0.0,1
+FL-10344,Aaron Miller,Interpretability,Research,10,2023-01-12,4,3,4,4.0,4.0,53.0,20.8,0
+FL-10471,Angela Griffin,Policy & Governance,Policy,1,2025-03-26,1,4,4,3.0,4.0,44.0,0.0,0
+FL-10708,Jason Pierce,Infrastructure,Engineering,8,2022-01-27,1,5,3,3.0,4.0,46.0,16.7,0
+FL-10551,Cody Cole,Interpretability,Research,16,2024-07-02,2,1,4,5.0,1.0,56.0,33.3,1
+FL-10598,Cody Reid,APPLIED RESEARCH,Research,13,2025-03-08,1,4,3,4.0,3.0,54.0,27.1,0
+FL-10693,Eric Baker,Policy & Governance,Policy,10,2022-05-13,2,3,5,1.0,2.0,60.0,20.8,0
+FL-10032,Elizabeth Brown,Interpretability,Research,37,2026-02-02,3,4,4,4.0,5.0,52.0,77.1,0
+FL-10823,Jake Smith,Safety Evaluations,Research,1,2023-05-11,3,3,2,4.0,3.0,42.0,0.0,0
+FL-10657,Robert Herrera,Infrastructure,Engineering,6,2023-09-11,1,3,4,2.0,3.0,63.0,12.5,0
+FL-10670,Dana Ruiz,Interpretability,Research,5,2023-08-28,3,2,3,2.0,4.0,62.0,0.0,0
+FL-10172,Mary Peck,Safety Evaluations,Research,9,2023-11-12,3,2,3,4.0,3.0,39.0,18.8,0
+FL-10750,Anthony Armstrong,APPLIED RESEARCH,Research,37,2025-11-26,3,3,4,1.0,4.0,47.0,77.1,0
+FL-10751,Isaac Patterson,Interpretability,Research,14,2023-03-23,3,3,4,3.0,4.0,35.0,29.2,1
+FL-10408,Emily Hines,Alignment Research,Research,16,2024-03-22,3,3,2,4.0,3.0,50.0,33.3,0
+FL-10734,Tammy Ponce,Alignment Research,Research,1,2022-11-10,2,4,3,2.0,3.0,41.0,0.0,1
+FL-10798,Brian Hunt,Safety Evaluations,Research,7,2025-01-11,5,3,4,3.0,3.0,35.0,14.6,1
+FL-10200,Jordan Morris,Safety Evaluations,Research,46,2022-09-13,3,3,3,3.0,3.0,66.0,95.8,1
+FL-10292,Scott Williams,Applied Research,Research,30,2021-11-12,3,2,4,2.0,4.0,59.0,62.5,0
+FL-10583,Jeffrey Horton,Applied Research,Research,10,2023-05-05,3,4,3,2.0,4.0,64.0,20.8,0
+FL-10819,Mr. Christopher Walters,ALIGNMENT RESEARCH,Research,5,2021-10-18,5,2,4,4.0,4.0,50.0,0.0,1
+FL-10510,Kristen Rowe,Interpretability,Research,22,2023-08-24,1,3,3,,,,45.8,0
+FL-10835,James Kelley,Alignment Research,Research,1,2024-02-09,4,2,4,2.0,2.0,52.0,0.0,0
+FL-10793,Richard Saunders,Infrastructure,Engineering,24,2021-10-25,2,4,2,2.0,2.0,61.0,50.0,0
+FL-10778,John Horton,INFRASTRUCTURE,Engineering,1,2022-04-04,1,2,3,2.0,4.0,35.0,0.0,0
+FL-10842,Timothy Rivera,Alignment Research,Research,3,2021-10-14,3,3,3,3.0,5.0,62.0,0.0,0
+FL-10845,David Hall,Interpretability,Research,4,2026-08-20,3,3,3,2.0,3.0,63.0,0.0,0
+FL-10489,Ralph Stephenson,Safety Evaluations,Research,17,2021-11-07,4,2,4,4.0,2.0,50.0,35.4,0
+FL-10775,Melissa Williams,Interpretability,Research,1,2026-02-23,4,3,2,2.0,5.0,61.0,0.0,0
+FL-10770,Jennifer Perry,Interpretability,Research,27,2022-07-03,2,2,4,2.0,3.0,52.0,56.2,0
+FL-10133,Ashley Weiss,Safety Evaluations,Research,1,2026-07-08,2,2,4,4.0,3.0,56.0,0.0,1
+FL-10060,Taylor Harris,Safety Evaluations,Research,23,2025-04-18,1,2,2,3.0,3.0,67.0,47.9,0
+FL-10690,Dillon Jones,Infrastructure,Engineering,12,2022-10-09,2,2,4,,,,25.0,1
+FL-10026,Ashley Graham,Infrastructure,Engineering,4,2024-01-02,4,4,2,3.0,5.0,45.0,0.0,0
+FL-10100,Bradley Robertson,Safety Evaluations,Research,4,2024-11-19,3,3,3,3.0,2.0,64.0,0.0,0
+FL-10531,Sarah Valdez,Interpretability,Research,4,2025-12-29,1,3,4,5.0,4.0,52.0,0.0,0
+FL-10588,Jessica Johnson,Interpretability,Research,1,2024-10-16,4,2,5,3.0,3.0,74.0,0.0,0
+FL-10789,Hannah Martin,Applied Research,Research,34,2026-03-04,3,3,2,4.0,3.0,45.0,70.8,1
+FL-10520,Maria Brown,Alignment Research,Research,49,2021-12-09,3,4,4,4.0,2.0,56.0,100.0,0
+FL-10363,Jasmine Beltran,Safety Evaluations,Research,24,2024-03-19,4,4,4,1.0,5.0,52.0,50.0,0
+FL-10309,Julie Spencer,Interpretability,Research,5,2025-09-01,4,4,4,4.0,2.0,41.0,0.0,0
+FL-10604,Philip Carter,Applied Research,Research,2,2023-02-15,2,1,5,3.0,2.0,50.0,0.0,1
+FL-10252,Sergio Murphy,Interpretability,Research,4,2022-07-02,4,3,3,2.0,3.0,43.0,0.0,1
+FL-10544,Randy Friedman,Infrastructure,Engineering,36,2023-09-22,1,3,2,3.0,3.0,74.0,75.0,0
+FL-10481,Veronica Brewer,Interpretability,Research,2,2023-11-03,3,2,3,,,,0.0,1
+FL-10441,Regina Roberts,Safety Evaluations,Research,1,2023-03-10,3,1,5,3.0,4.0,54.0,0.0,1
+FL-10647,Joseph Hicks,Safety Evaluations,Research,1,2025-06-14,3,3,4,3.0,4.0,55.0,0.0,1
+FL-10476,Joyce Brown,Infrastructure,Engineering,27,2024-01-18,2,4,4,4.0,5.0,56.0,56.2,1
+FL-10022,Brian Burton,Safety Evaluations,Research,9,2025-09-01,4,4,4,4.0,3.0,58.0,18.8,0
+FL-10062,Paul Jones,Policy & Governance,Policy,10,2024-01-11,2,3,3,2.0,4.0,44.0,20.8,0
+FL-10148,Travis Miller,Alignment Research,Research,10,2025-04-25,4,2,5,3.0,3.0,53.0,20.8,0
+FL-10483,Mary Ryan,Safety Evaluations,Research,31,2024-12-26,4,4,4,4.0,4.0,42.0,64.6,0
+FL-10727,Jennifer Garcia,Alignment Research,Research,9,2023-04-04,3,2,3,3.0,5.0,47.0,18.8,0
+FL-10796,Jessica Bennett,INFRASTRUCTURE,Engineering,9,2023-06-28,1,3,5,3.0,3.0,54.0,18.8,0
+FL-10257,Nichole Alvarez,Alignment Research,Research,1,2025-08-07,2,2,3,3.0,3.0,37.0,0.0,0
+FL-10052,Mrs. Rachel Gibson,Policy & Governance,Policy,15,2023-11-08,2,5,3,2.0,5.0,56.0,31.2,0
+FL-10242,Brent Clay Jr.,Interpretability,Research,17,2024-01-02,3,4,4,3.0,3.0,64.0,35.4,1
+FL-10173,Maria Kerr,Policy & Governance,Policy,22,2025-11-02,2,4,3,2.0,3.0,60.0,45.8,0
+FL-10035,Deborah Brennan,Alignment Research,Research,2,2023-11-08,3,4,5,3.0,4.0,57.0,0.0,1
+FL-10178,Brandon Hayden,ALIGNMENT RESEARCH,Research,3,2025-11-19,3,2,5,3.0,5.0,65.0,0.0,1
+FL-10679,Raymond Gonzalez DVM,INFRASTRUCTURE,Engineering,9,2025-07-06,1,2,5,4.0,2.0,45.0,18.8,0
+FL-10738,Derek Wright,Infrastructure,Engineering,4,2022-02-08,3,3,4,3.0,5.0,47.0,0.0,0
+FL-10120,Paul Payne,Infrastructure,Engineering,15,2024-09-27,3,2,5,2.0,4.0,45.0,31.2,0
+FL-10275,Ryan Richardson,Infrastructure,Engineering,7,2025-07-10,3,2,3,2.0,2.0,50.0,14.6,0
+FL-10044,Jeff Owens,Safety Evaluations,Research,26,2025-05-11,5,5,3,4.0,4.0,64.0,54.2,0
+FL-10300,Sabrina Briggs,Applied Research,Research,2,2022-12-08,4,5,5,3.0,4.0,38.0,0.0,1
+FL-10076,Stephanie Clark,Safety Evaluations,Research,1,2023-01-01,4,1,2,4.0,3.0,50.0,0.0,1
+FL-10720,Kristy Hart,Safety Evaluations,Research,33,2022-09-13,3,5,1,3.0,5.0,54.0,68.8,0
+FL-10368,Sergio Gomez,Safety Evaluations,Research,11,2026-09-06,4,5,3,1.0,3.0,51.0,22.9,0
+FL-10212,Mark Brennan,INTERPRETABILITY,Research,1,2023-12-15,1,3,3,2.0,4.0,60.0,0.0,0
+FL-10267,Jesse Perry,Infrastructure,Engineering,27,2022-03-29,2,3,5,,,,56.2,0
+FL-10311,John Hernandez,INFRASTRUCTURE,Engineering,38,2022-01-29,2,3,2,2.0,4.0,51.0,79.2,0
+FL-10728,Christopher Fry,Interpretability,Research,12,2025-09-01,3,3,3,2.0,5.0,44.0,25.0,0
+FL-10444,Breanna Gilbert,APPLIED RESEARCH,Research,1,2024-08-28,3,3,3,2.0,3.0,55.0,0.0,1
+FL-10503,Matthew Nielsen,Alignment Research,Research,45,2025-12-09,4,3,3,3.0,4.0,35.0,93.8,1
+FL-10495,Charles Keller,Applied Research,Research,22,2022-11-10,1,5,3,3.0,5.0,50.0,45.8,0
+FL-10033,Angelica Tucker,ALIGNMENT RESEARCH,Research,33,2022-02-11,3,3,3,5.0,4.0,35.0,68.8,0
+FL-10009,Lisa Hensley,Infrastructure,Engineering,14,2024-08-11,2,3,4,4.0,3.0,49.0,29.2,1
+FL-10688,Victor Young,Alignment Research,Research,11,2023-01-21,3,1,2,4.0,4.0,43.0,22.9,1
+FL-10160,Julie Alexander,Alignment Research,Research,5,2022-09-06,4,4,3,4.0,2.0,50.0,0.0,1
+FL-10285,Karla Ramos,Policy & Governance,Policy,3,2023-02-12,4,5,4,4.0,5.0,60.0,0.0,0
+FL-10295,Robert Montgomery,Alignment Research,Research,4,2025-11-12,2,5,2,3.0,4.0,59.0,0.0,0
+FL-10616,Miss Anna Estes,Safety Evaluations,Research,4,2025-08-21,2,1,4,3.0,3.0,51.0,0.0,1
+FL-10625,Claudia Jordan,Alignment Research,Research,10,2022-10-25,4,1,3,4.0,4.0,39.0,20.8,1
+FL-10277,Lisa Day,Policy & Governance,Policy,21,2021-11-26,2,4,4,2.0,3.0,61.0,43.8,0
+FL-10799,Jacqueline Holland,Alignment Research,Research,11,2024-10-07,2,2,3,4.0,5.0,50.0,22.9,0
+FL-10603,Ryan Burns,Alignment Research,Research,23,2022-03-07,5,2,4,3.0,4.0,52.0,47.9,1
+FL-10484,Christopher Medina,Alignment Research,Research,21,2024-05-16,3,4,2,5.0,1.0,46.0,43.8,0
+FL-10496,Antonio Fry,Applied Research,Research,5,2026-02-05,2,4,4,5.0,3.0,43.0,0.0,0
+FL-10182,Katherine Davis,SAFETY EVALUATIONS,Research,6,2023-06-26,3,3,4,,,,12.5,0
+FL-10836,Michael Mccoy,Safety Evaluations,Research,15,2023-04-03,2,2,3,2.0,4.0,59.0,31.2,0
+FL-10684,Zachary Dawson,Safety Evaluations,Research,3,2022-03-26,4,4,2,3.0,2.0,60.0,0.0,1
+FL-10744,Angela Jackson,POLICY & GOVERNANCE,Policy,6,2023-08-15,2,2,2,2.0,2.0,70.0,12.5,0
+FL-10036,Joshua Blair,Alignment Research,Research,60,2022-10-06,2,2,3,3.0,4.0,65.0,100.0,1
+FL-10156,Diane Garcia,Alignment Research,Research,3,2022-09-23,3,2,3,4.0,5.0,55.0,0.0,0
+FL-10002,Allen Robinson,Safety Evaluations,Research,21,2024-04-04,3,2,3,3.0,2.0,55.0,43.8,0
+FL-10754,James Burns,Alignment Research,Research,16,2025-01-09,4,3,4,4.0,3.0,46.0,33.3,0
+FL-10508,Tonya Wilson,Safety Evaluations,Research,2,2026-09-09,4,4,3,2.0,4.0,52.0,0.0,0
+FL-10497,Lori Simmons,Infrastructure,Engineering,3,2024-03-18,1,3,2,3.0,4.0,57.0,0.0,0
+FL-10308,Sean Wyatt,INFRASTRUCTURE,Engineering,1,2024-10-18,2,4,4,5.0,3.0,58.0,0.0,0
+FL-10289,Chad Scott,Infrastructure,Engineering,8,2023-05-22,4,4,4,4.0,5.0,59.0,16.7,0
+FL-10560,Manuel Brock,Interpretability,Research,19,2023-05-24,4,2,2,4.0,5.0,75.0,39.6,0
+FL-10414,James Hudson,Safety Evaluations,Research,19,2022-09-24,5,2,4,2.0,2.0,53.0,39.6,1
+FL-10421,Louis Martin,Applied Research,Research,18,2026-08-24,1,3,4,2.0,4.0,62.0,37.5,0
+FL-10141,Jessica Gross,Alignment Research,Research,1,2026-07-09,3,4,3,1.0,3.0,35.0,0.0,1
+FL-10223,Mary Hill,Alignment Research,Research,30,2024-07-22,5,2,2,1.0,3.0,38.0,62.5,1
+FL-10183,Michael Hodge,Infrastructure,Engineering,1,2023-05-25,2,4,3,4.0,3.0,55.0,0.0,0
+FL-10824,Cheryl Rhodes,Infrastructure,Engineering,3,2024-11-08,3,2,5,3.0,4.0,64.0,0.0,1
+FL-10672,Natalie Barnes,Safety Evaluations,Research,31,2023-05-10,4,3,3,4.0,3.0,39.0,64.6,0
+FL-10511,Heather Green,Alignment Research,Research,5,2024-04-18,2,5,5,2.0,1.0,51.0,0.0,0
+FL-10731,Casey Parker,Safety Evaluations,Research,5,2025-02-27,3,2,4,4.0,3.0,45.0,0.0,1
+FL-10611,Cynthia Cochran,Safety Evaluations,Research,11,2024-08-30,2,3,3,3.0,4.0,40.0,22.9,0
+FL-10747,Carmen Preston,Applied Research,Research,18,2022-07-19,4,4,4,5.0,1.0,50.0,37.5,0
+FL-10117,Taylor Silva,Alignment Research,Research,60,2025-03-12,1,3,4,3.0,4.0,35.0,100.0,0
+FL-10001,Megan Mcclain,Alignment Research,Research,5,2022-03-15,4,1,4,4.0,2.0,48.0,0.0,1
+FL-10113,Denise Jones,Policy & Governance,Policy,2,2023-03-07,1,4,3,4.0,2.0,61.0,0.0,0
+FL-10839,Brian Rodriguez,Applied Research,Research,28,2022-10-01,1,1,4,3.0,5.0,49.0,58.3,0
+FL-10686,William Miller,Interpretability,Research,3,2022-03-30,2,2,2,4.0,3.0,53.0,0.0,0
+FL-10765,Beth Henderson,Safety Evaluations,Research,12,2026-08-19,5,5,3,3.0,4.0,51.0,25.0,0
+FL-10165,Joseph Hayes,ALIGNMENT RESEARCH,Research,1,2023-12-14,4,2,3,3.0,3.0,44.0,0.0,0
+FL-10184,Donna Landry,Alignment Research,Research,3,2025-10-10,3,3,4,1.0,2.0,42.0,0.0,0
+FL-10677,Aimee Gonzalez,Alignment Research,Research,3,2024-07-18,1,3,3,3.0,3.0,70.0,0.0,0
+FL-10372,Austin Osborne,Applied Research,Research,1,2023-07-29,2,4,5,1.0,4.0,35.0,0.0,0
+FL-10274,Christy Douglas,SAFETY EVALUATIONS,Research,1,2022-11-16,4,3,3,3.0,4.0,35.0,0.0,0
+FL-10704,Joel Jackson,Safety Evaluations,Research,37,2024-08-05,4,5,2,3.0,1.0,53.0,77.1,0
+FL-10000,Allison Hill,INTERPRETABILITY,Research,42,2022-11-14,4,5,3,3.0,5.0,58.0,87.5,0
+FL-10566,Leslie Gardner,Infrastructure,Engineering,1,2025-02-15,3,1,3,3.0,4.0,62.0,0.0,1
+FL-10540,Christopher Allen,Applied Research,Research,8,2025-11-17,1,3,4,,,,16.7,0
+FL-10500,Kara Atkinson,Safety Evaluations,Research,3,2023-04-03,3,3,4,4.0,3.0,50.0,0.0,1
+FL-10718,Casey Watkins,Safety Evaluations,Research,6,2025-09-26,2,2,2,4.0,3.0,50.0,12.5,0
+FL-10383,Katie Martinez,Infrastructure,Engineering,11,2022-10-05,2,3,2,2.0,2.0,63.0,22.9,1
+FL-10405,John Adams,Interpretability,Research,13,2022-12-29,3,3,3,3.0,4.0,40.0,27.1,0
+FL-10561,Robert Villarreal,Interpretability,Research,16,2026-07-25,4,4,1,4.0,2.0,54.0,33.3,0
+FL-10020,Kevin Hurst,INFRASTRUCTURE,Engineering,5,2023-09-27,3,2,4,,,,0.0,0
+FL-10805,Deanna Barnes MD,Alignment Research,Research,40,2021-12-12,1,3,4,1.0,2.0,52.0,83.3,1
+FL-10176,Terri Mason,Infrastructure,Engineering,30,2024-03-14,2,3,4,3.0,3.0,63.0,62.5,0
+FL-10335,Brenda Wright,Safety Evaluations,Research,15,2024-12-04,3,5,3,4.0,2.0,56.0,31.2,0
+FL-10379,Jodi Roach,POLICY & GOVERNANCE,Policy,1,2023-12-18,4,1,3,2.0,2.0,64.0,0.0,1
+FL-10545,Alyssa Nelson,SAFETY EVALUATIONS,Research,7,2026-08-27,2,4,5,2.0,2.0,49.0,14.6,1
+FL-10171,Michael Bradshaw,SAFETY EVALUATIONS,Research,3,2025-08-24,2,3,4,3.0,3.0,51.0,0.0,0
+FL-10519,Nathan Freeman,Infrastructure,Engineering,10,2026-04-13,2,5,5,3.0,3.0,59.0,20.8,0
+FL-10830,Jennifer Perez,Safety Evaluations,Research,3,2025-05-07,3,1,3,2.0,3.0,53.0,0.0,0
+FL-10507,Felicia Krueger,Interpretability,Research,21,2021-11-06,3,4,2,4.0,2.0,54.0,43.8,1
+FL-10152,Patrick Rivera,Applied Research,Research,3,2025-03-25,1,1,5,,,,0.0,1
+FL-10618,Danielle Dawson,Safety Evaluations,Research,12,2025-11-05,4,5,4,2.0,1.0,58.0,25.0,0
+FL-10413,Stephen Luna,APPLIED RESEARCH,Research,13,2025-07-12,3,4,4,3.0,4.0,50.0,27.1,0
+FL-10609,Ronald Potter,Alignment Research,Research,22,2023-03-28,3,3,1,2.0,2.0,52.0,45.8,1
+FL-10622,Jackie Clements,Interpretability,Research,2,2023-05-20,3,3,4,2.0,2.0,35.0,0.0,0
+FL-10581,Audrey Shepard,Interpretability,Research,23,2022-06-21,2,4,4,3.0,3.0,47.0,47.9,0
+FL-10641,Nathan Fuller,Alignment Research,Research,8,2022-07-08,2,2,1,2.0,3.0,53.0,16.7,1
+FL-10316,Maria Jones,Policy & Governance,Policy,8,2022-03-28,4,4,3,3.0,2.0,52.0,16.7,0
+FL-10258,Ashley Gordon,Infrastructure,Engineering,1,2026-06-03,4,5,2,4.0,3.0,54.0,0.0,0
+FL-10834,Martha Smith,Policy & Governance,Policy,13,2025-03-01,1,3,3,3.0,5.0,49.0,27.1,0
+FL-10662,Meredith Martin,Interpretability,Research,30,2026-06-17,2,4,4,2.0,4.0,48.0,62.5,0
+FL-10474,Audrey Harris,Alignment Research,Research,1,2024-08-22,4,3,5,3.0,2.0,40.0,0.0,1
+FL-10337,Dominique Hines,Interpretability,Research,15,2023-02-11,3,3,3,4.0,4.0,61.0,31.2,0
+FL-10538,Timothy Edwards,Safety Evaluations,Research,27,2026-07-02,4,3,4,3.0,2.0,41.0,56.2,1
+FL-10504,Nathaniel Lee,Alignment Research,Research,16,2023-02-04,5,3,2,3.0,2.0,56.0,33.3,1
+FL-10398,Laura Curtis,Infrastructure,Engineering,4,2025-07-18,3,3,2,4.0,4.0,47.0,0.0,1
+FL-10423,Michelle Evans,Interpretability,Research,37,2025-10-14,3,3,4,4.0,2.0,51.0,77.1,0
+FL-10605,Carol Ellis,Policy & Governance,Policy,11,2025-06-04,1,3,4,2.0,3.0,57.0,22.9,0
+FL-10660,Jeffrey Chavez,Policy & Governance,Policy,6,2024-10-07,2,3,3,2.0,4.0,53.0,12.5,0
+FL-10480,Amanda Ortiz,Interpretability,Research,6,2025-07-22,2,4,3,3.0,4.0,54.0,12.5,0
+FL-10422,Elizabeth Rogers,Safety Evaluations,Research,10,2025-11-05,3,1,4,2.0,5.0,45.0,20.8,0
+FL-10119,Paul Castaneda,Infrastructure,Engineering,40,2026-06-18,3,3,5,4.0,4.0,47.0,83.3,0
+FL-10650,Victoria Peck,Alignment Research,Research,16,2022-06-04,3,2,4,2.0,4.0,48.0,33.3,0
+FL-10681,Ryan Wiley,Alignment Research,Research,7,2026-06-13,4,3,4,2.0,3.0,60.0,14.6,1
+FL-10714,William Moreno,Safety Evaluations,Research,21,2025-07-18,4,5,5,3.0,1.0,56.0,43.8,0
+FL-10659,Monica Mathis,Alignment Research,Research,1,2022-01-21,3,1,4,2.0,2.0,52.0,0.0,1
+FL-10789,Hannah Martin,Applied Research,Research,34,2026-03-04,3,3,2,4.0,3.0,45.0,70.8,1
+FL-10256,Christopher Williams,Safety Evaluations,Research,1,2025-06-03,2,4,4,3.0,4.0,48.0,0.0,0
+FL-10643,Paul Lawrence,Safety Evaluations,Research,6,2023-08-30,3,4,2,4.0,4.0,62.0,12.5,0
+FL-10249,Matthew May,Applied Research,Research,15,2024-09-16,1,2,4,4.0,5.0,52.0,31.2,0
+FL-10664,Richard Adams,Applied Research,Research,4,2026-02-18,2,4,4,4.0,2.0,61.0,0.0,0
+FL-10841,Elizabeth Williams,Policy & Governance,Policy,20,2024-03-19,2,4,4,3.0,3.0,52.0,41.7,0
