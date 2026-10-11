@@ -100,4 +100,4 @@ Fathom Labs, every researcher in this dataset, and every figure above are synthe
 ---
 
 **Nwafor Martins** — People Analytics Engineer & I-O Psychology Consultant
-[Portfolio](https://martins-portfolio.net/) · [Email](mailto:nwaforchubby@gmail.com)
+[Email](mailto:nwaforchubby@gmail.com)
