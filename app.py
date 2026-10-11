@@ -59,7 +59,7 @@ def predict_attrition_rate(shifted_df: pd.DataFrame) -> float:
 # Header
 # ----------------------------------------------------------------------
 
-st.title("🧭 Fathom Labs Researcher Retention")
+st.title("⚖️ Fathom Labs Researcher Retention")
 st.caption(
     "A synthetic case study on what predicts AI safety researchers leaving — "
     "inspired by real 2026 resignations citing AI-risk concerns. All data below "
