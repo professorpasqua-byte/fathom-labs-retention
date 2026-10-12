@@ -1,3 +1,6 @@
+[Live site](https://professorpasqua-byte.github.io/fathom-labs-retention/)
+
+
 # Fathom Labs — Researcher Retention
 
 **Why do AI safety researchers leave, and is it the workload or something else?**
