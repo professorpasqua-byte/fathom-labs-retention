@@ -1,107 +1,145 @@
-[Live site](https://professorpasqua-byte.github.io/fathom-labs-retention/)
+# Vanguard Tech: The Ghost Badging Problem
+
+**When people badge in and leave within the hour, did they choose to, or did the office run out of desks?**
 
 
+## What happened in the real world
 
-# Fathom Labs — Researcher Retention
+Companies that ordered people back to the office found that many workers had a trick. They tapped their badge, grabbed a coffee, said hello, and went home to do the real work. The trick is called coffee badging. Owl Labs, which surveys hybrid workers, reported in 2023 that 58% of them admitted to it. Source: [CFO.com](https://www.cfo.com/news/workplace-trend-58-of-hybrid-employees-are-coffee-badging/696635/).
 
-**Why do AI safety researchers leave, and is it the workload or something else?**
+Some companies answered with tracking. In August 2025, Samsung began tracking office attendance for some US staff in its semiconductor business, and the move was reported as a way to stop coffee badging. Sources: [Fast Company](https://www.fastcompany.com/91381406/samsung-is-tracking-employee-office-attendance) and [HR Grapevine](https://www.hrgrapevine.com/us/content/article/2025-08-07-samsung-orders-five-day-rto-for-some-us-staff-has-a-plan-to-stop-them-coffee-badging).
 
-[Live dashboard](https://fathom-labs-retention-lbhqdkluiwzuuihijufbcv.streamlit.app/) · 
+But there is another side to the story. Some companies did not have space for everyone they called back. In January 2025, some Amazon workers found there were not enough desks and no parking after the company's return to office rule began ([Slashdot, citing the New York Post](https://tech.slashdot.org/story/25/01/20/0516216/)). The problem is still going on. In September 2026, Money.ca reported that Canada's federal government could not yet fit about 34,000 employees in the office four days a week, because there was not enough space. The rule had started on July 6, 2026. Source: [Money.ca](https://money.ca/employment/federal-return-to-office-desk-space-shortage).
 
-## Context
+So when someone taps in and leaves early, there are two very different explanations. They chose to leave, or there was nowhere to sit. The badge data looks the same either way. This project builds a made up company to see if the data can tell the two apart.
 
-In September 2026, an Anthropic researcher resigned publicly, citing fear that the pace of the AI race left too little room for safety work. It wasn't an isolated incident — several AI lab employees have made similar moves this year, and internal surveys across the industry increasingly surface the same tension: people who believe the work matters enormously, working inside organizations racing to ship faster than they can verify.
+## The made up company
 
-That event is the starting point for this case study, not its subject. I'm not diagnosing any specific person's reasons for leaving — a news article isn't enough to know what someone was actually going through, and I don't think it's my place to guess. What I wanted to test instead was the underlying *pattern*: using organizational psychology frameworks, what structurally predicts a safety-minded researcher leaving a high-pressure AI lab — and is it actually the hours, or something else?
+Vanguard Tech has 500 employees and 300 desks. Inside the company, leaving soon after badging in is called ghost badging. The real world name is coffee badging. On Monday, June 1, 2026, it started a five day office rule. This project follows the next 12 weeks.
 
-**Fathom Labs** is a fictional AI lab built to test that question on synthetic data.
+Three things make the story more realistic:
 
-## The hypothesis
+* The desk booking system accepts about 10% more bookings than there are desks, because some people never show up.
+* In weeks 7 and 8, part of floor 4 is closed and 60 desks go out of service.
+* Three one off days happen: a fire drill, a company offsite, and a day when the badge reader fault loses many exit taps.
 
-Three frameworks shaped the variables in this dataset:
+All of it is synthetic. Nobody in it is real.
 
-- **Job Demands-Resources model** — burnout and exit aren't just about workload (demand); they're about whether people have enough perceived control and support (resources) to meet that demand.
-- **Moral injury** (originally clinical/military psychology, now used in healthcare and tech) — distress from believing you're complicit in harm, even without doing anything wrong personally. A researcher who believes the industry's pace itself is dangerous experiences this differently than a researcher who's just tired.
-- **Psychological safety / voice efficacy** (Amy Edmondson) — whether people believe raising a concern internally will actually lead somewhere, or whether silence (or going public) feels like the only option.
+## The idea behind the analysis
 
-The working hypothesis: **escalation confidence and moral injury predict attrition far more than raw workload does.**
+Some people leave early by choice. That gives a steady base rate on calm days. If a crowded floor pushes more people out, the early leavers should rise sharply once the building gets close to full. The extra early leavers above the base rate are the ones the crowd pushed out.
 
-## Ask → Prepare → Analyze → Share → Act
+The psychology that guided the design:
 
-**Ask:** What organizational factors predict a safety researcher leaving — and can an organization act on them before it gets to a public resignation?
+* **Person environment fit.** People stay engaged when the workplace gives them what they need to work. A missing desk is a gap in a very basic need.
+* **Job Demands Resources model** (Arnold Bakker and Evangelia Demerouti). A rule that demands presence, without the resources to do the work, leads people to pull back. A desk is a basic resource.
+* **Psychological reactance** (Jack Brehm). When a rule takes away freedom, people often look for small ways to take some of it back. Coffee badging can be one of those small ways.
 
-**Prepare:** `data/generate_data.py` builds an 850-researcher synthetic population with Python Faker, encoding tenure, role, workload, and five psychological measures (moral injury, escalation confidence, pace-vs-safety tension, organizational justice, manager support), plus a standard 6-month equity cliff. A raw export version is generated separately with the duplicates, inconsistent casing, and missing values a real HR export would have.
+These ideas shaped what was measured. They are not proven by this data.
 
-**Analyze:** `analysis/clean.sql` deduplicates and imputes missing values at the role level. `analysis/model.py` fits a standardized logistic regression predicting `left_company`, so the result is a ranked, quantified answer rather than an opinion.
+## How it is built
 
-**Share:** The [live dashboard](https://fathom-labs-retention-lbhqdkluiwzuuihijufbcv.streamlit.app/) visualizes the ranked factors and lets you simulate organizational changes — improve escalation response, reduce moral injury, shorten the equity cliff — and watch modeled attrition move in response, scored by the same fitted model.
+Most data projects are a few CSV files and a notebook. This one is different. All the data lives in one SQLite database, `vanguard.db`, and the cleaning is done in SQL.
 
-**Act:** See [Findings](#findings) below.
+* `src/build_database.py` simulates the 12 weeks and loads the raw tables. About 42,000 badge taps, 20,000 desk bookings and 500 employees go in.
+* `src/add_names.py` adds fake names to the employees table with Faker. The names are only for realism. The analysis never reads them.
+* `sql/01_schema.sql` creates the raw tables.
+* `sql/02_pair_taps.sql` cleans the taps and matches each tap in to its tap out. It fixes upper and lower case, trims stray spaces, removes double taps, and handles missing taps.
+* `sql/03_occupancy.sql` counts how many people are inside every 15 minutes and builds a summary for each day.
+* `sql/04_short_visits.sql` builds one row per person per day. It marks a short visit (under 90 minutes) and records how full the building was when the person arrived.
+* `src/odd_days.py` uses an Isolation Forest to find the strangest office days.
+* `src/tipping_point.py` finds how full the floor gets before people start leaving early, and grades itself.
+* `tests/` has 15 tests that check the SQL matching and the models.
+* `app.py` and the `pages` folder make up the dashboard.
 
-## Findings
+The analysis never picks out or lists a person. The strange days model works on days, not people, and the dashboard shows counts only.
 
-On this synthetic population (22.6% baseline attrition, ROC AUC 0.72):
+## What the analysis found
 
-| Factor | Standardized effect | Direction |
-|---|---|---|
-| Escalation confidence | −0.64 | Strongest protective factor |
-| Moral injury | +0.47 | Strongest risk factor |
-| Manager support | −0.32 | Protective |
-| Pace-vs-safety tension | +0.11 | Mild risk |
-| Organizational justice | −0.10 | Mild protective |
-| Equity vested % | −0.04 | Weak, as expected (sunk-cost effect) |
-| Workload hours/week | +0.02 | Negligible |
+About 23% of person days were short visits. On calm days the rate stays near 13%. That is the part people choose. When the floor reaches about 89.5% full, the rate climbs fast, and above 100% full more than half of arrivals leave within 90 minutes. The tipping point range is 89.0% to 90.5%.
 
-The clearest signal: **raw hours worked barely moved the model at all.** What mattered was whether people believed raising a concern changed anything, and whether they believed the work itself was causing harm. That's a meaningfully different problem than "reduce workload" — and a much harder one to solve with a wellness stipend.
+The model estimates that about 43% of all short visits were pushed out by a full floor, with a range of 37% to 47%.
 
-## What this suggests an organization do
+The closure weeks give a second check. The same kind of people came in, but for two weeks the building had 60 fewer desks. The short visit rate rose from 22% to 29%, and the share of people arriving to no free desk went from 12% to 25%. When the desks came back, the short visit rate went back to 22%.
 
-Grounded in the model, not asserted from opinion:
+The Isolation Forest flagged 9 of the 60 days. All 9 have a note in the building log, such as the offsite, the fire drill, the reader fault or the floor closure. The model never saw the log. It found 9 of the 13 days that have a note.
 
-1. **Build an escalation path with visible follow-through**, not just an open-door policy. The gap between "I can raise a concern" and "I've seen a concern lead to a changed decision" is what the model is picking up as escalation confidence.
-2. **Treat moral injury as distinct from burnout.** A wellness program doesn't address it; it requires actually giving people more say over release pace or scope, not just lighter workloads.
-3. **Don't rely on equity vesting as a retention strategy for this population.** The model shows it's a weak lever — someone who believes the work is causing harm is not meaningfully retained by sunk-cost economics, which matches real cases of researchers forfeiting unvested equity to leave anyway.
+## How the project grades itself
 
-## Run it locally
+The data is made up, so the true answer is known. It sits in a separate table that the analysis never reads while it works. At the end, the script compares its answers with the truth.
 
-Prefer not to clone anything first? Try the [live dashboard](https://fathom-labs-retention-lbhqdkluiwzuuihijufbcv.streamlit.app/) directly.
+* The true tipping point is 90.0% full. The model found 89.5%.
+* The true share of short visits pushed out is 50%. The model estimated 43%.
+
+The estimate is a little low. When the floor is full, some people who would have left anyway are pushed out first, and the method cannot tell those apart. So read the 43% as a careful minimum.
+
+## If Vanguard Tech were a real company
+
+Treat desk shortage as a resource problem, not a discipline problem. The Job Demands Resources model points to this directly. A five day attendance rule is a demand. A guaranteed desk is a resource. When the resource is missing, pulling back is the predictable response, not a sign of poor attitude.
+
+Fix the booking buffer before adding monitoring. The system here oversells desks by about 10 percent on the assumption that some people will not show up. That assumption is what produces the shortage on busy days. A company seeing this pattern should check its own booking ratio before concluding its people are the problem.
+
+Expect short term pushback after any sudden drop in resources. The closure weeks show short visits rising from 22 percent to 29 percent the moment 60 desks disappeared, then falling back once they returned. Psychological reactance predicts this kind of response to a sudden restriction. A temporary space cut is likely to produce a temporary spike in early leaving, and that spike should not be read as a lasting shift in how people feel about the office.
+
+Badge data alone cannot tell you why someone left early. It can only flag when the explanation is more likely to be the building than the person. Decisions about individuals still need a conversation, not a dashboard.
+
+## Limits
+
+These recommendations follow from the psychology frameworks that shaped the project. They are reasoned suggestions, not findings proven by this dataset.
+
+* The data is synthetic and the crowd effect was built in. This shows that the method works. It does not show that real offices behave this way.
+* Exit taps go missing more often for quick visits, so the short visit rate is probably a little low.
+* The floor is calm early in the day and crowded later, so fullness and arrival time are tied together.
+* A visit with no exit tap is assumed to last 8 hours when counting people inside. That is a guess.
+* The psychology ideas guided the design. They are not tested here.
+
+## Run it yourself
 
 ```bash
-git clone https://github.com/professorpasqua-byte/fathom-labs-retention.git
-cd fathom-labs-retention
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-To regenerate the dataset or refit the model from scratch:
+To rebuild everything from scratch:
 
 ```bash
-cd data && python generate_data.py
-cd ../analysis && python model.py
+python src/build_database.py
+python src/add_names.py
+python src/odd_days.py
+python src/tipping_point.py
+python -m unittest discover -s tests -v
 ```
 
-## Repo structure
+`add_names.py` needs Faker (`pip install faker`). The dashboard only needs streamlit, pandas and numpy. The strange days script uses scikit learn if it is installed (`pip install scikit-learn`). If not, it uses a small numpy version of the same idea, so it also runs on a phone.
+
+## Repo map
 
 ```
-fathom-labs-retention/
-├── data/
-│   ├── generate_data.py                      # Faker-based synthetic data generator
-│   ├── fathom_labs_researchers_raw.csv        # messy export, as generated
-│   └── fathom_labs_researchers_clean.csv      # cleaned, analysis-ready
-├── analysis/
-│   ├── clean.sql                              # dedup + impute pipeline
-│   ├── model.py                               # logistic regression, saves coefficients
-│   └── model_coefficients.json                # fitted model, loaded by the app
-├── app.py                                     # Streamlit app
+vanguard_tech/
+├── app.py                      home page of the dashboard
+├── pages/
+│   ├── 1_Replay_a_Day.py       watch one day fill up
+│   └── 2_Desk_Planner.py       desks needed to keep early leaving low
+├── sql/                        schema, cleaning, fullness, short visits
+├── src/
+│   ├── build_database.py       simulate the data and build vanguard.db
+│   ├── add_names.py            adds fake names with Faker
+│   ├── odd_days.py             Isolation Forest on office days
+│   ├── tipping_point.py        how full before people leave
+│   └── common.py               small shared helpers
+├── tests/                      15 tests
+├── results/                    small result files the app reads
+├── vanguard.db                 the SQLite database
+├── DATA_DICTIONARY.md
 ├── requirements.txt
 └── README.md
 ```
 
-## A note on the data
+## What is real and what is not
 
-Fathom Labs, every researcher in this dataset, and every figure above are synthetic, generated to carry the kind of noise a real workforce export has. No real individual's data, survey responses, or employment history appears anywhere in this project.
+Vanguard Tech, its employees (the names come from Faker), and every figure from the analysis are synthetic. The real parts are the events in the first section. No real person's data, badge logs or employment history appears anywhere in this project.
 
 ---
 
-**Nwafor Martins** — People Analytics Engineer & I-O Psychology Consultant
+**Nwafor Martins**, People Analytics Engineer & I-O Psychology Consultant
 [Email](mailto:nwaforchubby@gmail.com)
